@@ -1,0 +1,1001 @@
+ticket_id,priority,status,category,subject,description,created_date,resolved_date,assigned_to
+T-1000,Medium,Open,Security,Slow Internet,Automatically generated ticket #1,2024-08-31,2024-09-05,Michael
+T-1001,Critical,Resolved,Network,Malware Detected,Automatically generated ticket #2,2024-11-25,,SecurityTeam
+T-1002,Critical,Open,Hardware,Slow Internet,Automatically generated ticket #3,2023-03-29,,Michael
+T-1003,Critical,In Progress,Software,Printer Not Responding,Automatically generated ticket #4,2023-11-03,2023-11-10,SecurityTeam
+T-1004,Low,Open,Security,Printer Not Responding,Automatically generated ticket #5,2023-06-22,2023-06-29,ITSupport
+T-1005,Low,Resolved,Network,Software Installation Request,Automatically generated ticket #6,2024-07-02,2024-07-10,Sara
+T-1006,Critical,On Hold,Network,Account Locked,Automatically generated ticket #7,2024-07-27,2024-08-16,ITSupport
+T-1007,Medium,In Progress,Network,Printer Not Responding,Automatically generated ticket #8,2023-08-15,2023-08-22,Admin
+T-1008,Critical,On Hold,Security,Password Reset,Automatically generated ticket #9,2023-10-01,2023-10-14,Anna
+T-1009,Medium,Open,Software,Password Reset,Automatically generated ticket #10,2024-01-25,2024-02-01,Anna
+T-1010,High,On Hold,Access Request,Email Not Working,Automatically generated ticket #11,2023-10-27,2023-11-07,Michael
+T-1011,Medium,Open,Security,Software Installation Request,Automatically generated ticket #12,2024-06-01,,ITSupport
+T-1012,Low,In Progress,Email,Slow Internet,Automatically generated ticket #13,2024-11-11,2024-11-15,Admin
+T-1013,Low,Resolved,Hardware,Software Installation Request,Automatically generated ticket #14,2024-11-24,2024-11-26,David
+T-1014,Low,On Hold,Access Request,VPN Issue,Automatically generated ticket #15,2024-10-20,2024-11-01,Michael
+T-1015,Critical,On Hold,Email,VPN Issue,Automatically generated ticket #16,2023-01-31,2023-02-08,David
+T-1016,Critical,Resolved,Software,Password Reset,Automatically generated ticket #17,2023-03-25,,Admin
+T-1017,High,In Progress,Access Request,System Crash,Automatically generated ticket #18,2024-07-02,2024-07-04,SecurityTeam
+T-1018,Critical,Resolved,Software,Malware Detected,Automatically generated ticket #19,2024-08-24,,David
+T-1019,Medium,Open,Network,Slow Internet,Automatically generated ticket #20,2024-01-26,2024-01-30,Michael
+T-1020,Low,Open,Access Request,Email Not Working,Automatically generated ticket #21,2023-06-09,2023-06-29,Admin
+T-1021,Low,Open,Software,Account Locked,Automatically generated ticket #22,2023-11-27,2023-11-28,Michael
+T-1022,Medium,Resolved,Email,Account Locked,Automatically generated ticket #23,2024-02-18,2024-02-28,Michael
+T-1023,Low,In Progress,Network,Password Reset,Automatically generated ticket #24,2023-11-20,,Anna
+T-1024,Low,Open,Network,Unauthorized Login Attempt,Automatically generated ticket #25,2024-04-12,2024-04-23,Michael
+T-1025,Medium,On Hold,Network,Software Installation Request,Automatically generated ticket #26,2023-01-14,2023-01-24,Sara
+T-1026,Critical,Resolved,Network,System Crash,Automatically generated ticket #27,2024-06-07,2024-06-24,Michael
+T-1027,Medium,Open,Network,VPN Issue,Automatically generated ticket #28,2023-01-25,2023-01-26,SecurityTeam
+T-1028,Critical,Open,Security,Malware Detected,Automatically generated ticket #29,2024-05-04,,SecurityTeam
+T-1029,Low,Open,Software,Password Reset,Automatically generated ticket #30,2023-06-03,,Michael
+T-1030,Medium,On Hold,Access Request,Malware Detected,Automatically generated ticket #31,2023-07-01,2023-07-02,Anna
+T-1031,High,Resolved,Software,Unauthorized Login Attempt,Automatically generated ticket #32,2023-02-21,2023-03-05,Anna
+T-1032,High,On Hold,Security,Email Not Working,Automatically generated ticket #33,2024-11-05,2024-11-10,SecurityTeam
+T-1033,Medium,Open,Email,System Crash,Automatically generated ticket #34,2023-01-05,,Admin
+T-1034,Low,On Hold,Access Request,Account Locked,Automatically generated ticket #35,2023-08-15,,Michael
+T-1035,High,On Hold,Hardware,Slow Internet,Automatically generated ticket #36,2024-07-23,,Sara
+T-1036,High,In Progress,Email,Malware Detected,Automatically generated ticket #37,2024-11-18,,ITSupport
+T-1037,Low,In Progress,Hardware,Software Installation Request,Automatically generated ticket #38,2024-08-28,2024-09-01,ITSupport
+T-1038,Medium,In Progress,Email,Slow Internet,Automatically generated ticket #39,2024-09-09,2024-09-19,Anna
+T-1039,Critical,On Hold,Network,Password Reset,Automatically generated ticket #40,2024-07-31,,Admin
+T-1040,Critical,Open,Software,Printer Not Responding,Automatically generated ticket #41,2024-10-19,,David
+T-1041,High,In Progress,Software,Password Reset,Automatically generated ticket #42,2024-05-26,2024-06-02,Anna
+T-1042,High,Resolved,Security,VPN Issue,Automatically generated ticket #43,2024-11-08,2024-11-14,ITSupport
+T-1043,Critical,In Progress,Security,Malware Detected,Automatically generated ticket #44,2024-01-25,2024-02-11,ITSupport
+T-1044,High,In Progress,Security,System Crash,Automatically generated ticket #45,2024-10-27,2024-11-15,SecurityTeam
+T-1045,High,In Progress,Email,Malware Detected,Automatically generated ticket #46,2024-10-01,2024-10-17,Admin
+T-1046,Low,Resolved,Software,Slow Internet,Automatically generated ticket #47,2023-11-22,,Anna
+T-1047,Low,On Hold,Network,Printer Not Responding,Automatically generated ticket #48,2024-02-11,2024-02-23,Anna
+T-1048,Medium,Open,Security,Account Locked,Automatically generated ticket #49,2023-11-30,2023-12-05,ITSupport
+T-1049,High,Open,Security,VPN Issue,Automatically generated ticket #50,2024-01-07,2024-01-16,Michael
+T-1050,Low,On Hold,Access Request,Unauthorized Login Attempt,Automatically generated ticket #51,2023-10-18,2023-11-02,ITSupport
+T-1051,High,In Progress,Email,Software Installation Request,Automatically generated ticket #52,2023-06-15,,Sara
+T-1052,Low,Open,Access Request,Printer Not Responding,Automatically generated ticket #53,2024-03-02,2024-03-18,David
+T-1053,High,Open,Hardware,Software Installation Request,Automatically generated ticket #54,2024-06-01,2024-06-20,Sara
+T-1054,Medium,Resolved,Hardware,VPN Issue,Automatically generated ticket #55,2024-04-12,2024-04-28,ITSupport
+T-1055,Medium,In Progress,Software,Printer Not Responding,Automatically generated ticket #56,2023-01-04,,David
+T-1056,High,Open,Email,Email Not Working,Automatically generated ticket #57,2023-09-09,2023-09-19,Admin
+T-1057,Medium,Resolved,Security,Password Reset,Automatically generated ticket #58,2024-07-16,2024-08-02,David
+T-1058,High,On Hold,Hardware,Malware Detected,Automatically generated ticket #59,2024-02-16,,SecurityTeam
+T-1059,Medium,Open,Network,VPN Issue,Automatically generated ticket #60,2023-01-22,2023-02-04,Sara
+T-1060,Low,Resolved,Email,Malware Detected,Automatically generated ticket #61,2023-06-27,2023-07-12,Anna
+T-1061,Critical,Open,Email,System Crash,Automatically generated ticket #62,2024-01-09,,Admin
+T-1062,Medium,Open,Hardware,VPN Issue,Automatically generated ticket #63,2023-12-30,2024-01-08,Admin
+T-1063,Medium,Resolved,Security,Password Reset,Automatically generated ticket #64,2024-11-25,2024-12-10,Sara
+T-1064,Low,Resolved,Software,Email Not Working,Automatically generated ticket #65,2023-07-21,2023-08-10,Admin
+T-1065,Medium,On Hold,Network,System Crash,Automatically generated ticket #66,2023-09-29,2023-10-15,David
+T-1066,Critical,In Progress,Access Request,Malware Detected,Automatically generated ticket #67,2023-01-31,2023-02-08,Sara
+T-1067,Medium,Resolved,Hardware,Account Locked,Automatically generated ticket #68,2023-10-03,2023-10-07,Anna
+T-1068,Medium,Resolved,Email,Password Reset,Automatically generated ticket #69,2023-11-09,2023-11-27,Michael
+T-1069,Medium,In Progress,Access Request,Slow Internet,Automatically generated ticket #70,2023-03-12,,Michael
+T-1070,High,In Progress,Network,Unauthorized Login Attempt,Automatically generated ticket #71,2024-04-07,2024-04-21,Sara
+T-1071,Low,On Hold,Software,Software Installation Request,Automatically generated ticket #72,2023-09-25,2023-10-14,Anna
+T-1072,High,On Hold,Email,Software Installation Request,Automatically generated ticket #73,2023-11-19,2023-12-06,ITSupport
+T-1073,High,In Progress,Hardware,Printer Not Responding,Automatically generated ticket #74,2023-10-12,,David
+T-1074,Critical,In Progress,Access Request,Unauthorized Login Attempt,Automatically generated ticket #75,2023-07-20,,Anna
+T-1075,High,In Progress,Hardware,Slow Internet,Automatically generated ticket #76,2023-07-02,2023-07-16,SecurityTeam
+T-1076,Low,In Progress,Network,Email Not Working,Automatically generated ticket #77,2024-07-22,2024-07-31,Admin
+T-1077,Medium,Open,Hardware,Slow Internet,Automatically generated ticket #78,2024-05-14,,David
+T-1078,Medium,In Progress,Network,Slow Internet,Automatically generated ticket #79,2024-05-15,2024-06-02,Michael
+T-1079,Low,Resolved,Software,VPN Issue,Automatically generated ticket #80,2023-08-12,,David
+T-1080,Medium,On Hold,Email,System Crash,Automatically generated ticket #81,2024-09-21,2024-10-01,David
+T-1081,Low,Open,Security,Unauthorized Login Attempt,Automatically generated ticket #82,2023-02-11,2023-02-18,SecurityTeam
+T-1082,Low,In Progress,Email,Password Reset,Automatically generated ticket #83,2024-01-21,2024-01-29,SecurityTeam
+T-1083,Critical,On Hold,Hardware,Password Reset,Automatically generated ticket #84,2023-11-11,2023-11-12,Anna
+T-1084,Low,On Hold,Hardware,Slow Internet,Automatically generated ticket #85,2023-08-05,2023-08-12,Admin
+T-1085,High,In Progress,Email,Password Reset,Automatically generated ticket #86,2024-06-30,2024-07-04,Michael
+T-1086,Critical,Open,Email,VPN Issue,Automatically generated ticket #87,2023-08-08,2023-08-10,David
+T-1087,Critical,In Progress,Access Request,Software Installation Request,Automatically generated ticket #88,2023-01-18,2023-01-25,David
+T-1088,Critical,Open,Email,Slow Internet,Automatically generated ticket #89,2023-07-04,2023-07-11,David
+T-1089,High,Open,Security,Unauthorized Login Attempt,Automatically generated ticket #90,2023-02-12,,ITSupport
+T-1090,High,Resolved,Access Request,Account Locked,Automatically generated ticket #91,2023-01-21,2023-02-04,Sara
+T-1091,High,On Hold,Security,Malware Detected,Automatically generated ticket #92,2023-12-13,,SecurityTeam
+T-1092,High,In Progress,Hardware,Email Not Working,Automatically generated ticket #93,2024-08-17,2024-09-01,David
+T-1093,Low,In Progress,Hardware,Unauthorized Login Attempt,Automatically generated ticket #94,2024-10-31,,Michael
+T-1094,Medium,Resolved,Hardware,Slow Internet,Automatically generated ticket #95,2024-10-17,2024-10-23,Anna
+T-1095,Critical,In Progress,Hardware,Malware Detected,Automatically generated ticket #96,2024-09-22,,ITSupport
+T-1096,Critical,In Progress,Access Request,Unauthorized Login Attempt,Automatically generated ticket #97,2023-02-08,,Sara
+T-1097,Critical,Open,Access Request,Account Locked,Automatically generated ticket #98,2023-12-24,2024-01-09,Michael
+T-1098,Medium,In Progress,Security,Software Installation Request,Automatically generated ticket #99,2023-12-29,,Anna
+T-1099,Critical,On Hold,Email,Password Reset,Automatically generated ticket #100,2023-12-08,2023-12-27,ITSupport
+T-1100,Medium,Resolved,Hardware,Software Installation Request,Automatically generated ticket #101,2023-07-25,2023-08-07,Michael
+T-1101,Low,Open,Email,VPN Issue,Automatically generated ticket #102,2023-07-21,2023-08-01,Sara
+T-1102,Low,Open,Access Request,System Crash,Automatically generated ticket #103,2023-09-25,2023-10-01,Anna
+T-1103,Medium,Open,Security,VPN Issue,Automatically generated ticket #104,2024-07-28,2024-08-11,SecurityTeam
+T-1104,High,Resolved,Network,Password Reset,Automatically generated ticket #105,2024-10-08,,Michael
+T-1105,Low,On Hold,Security,Email Not Working,Automatically generated ticket #106,2023-04-06,,Admin
+T-1106,Critical,In Progress,Hardware,Password Reset,Automatically generated ticket #107,2023-12-31,2024-01-16,Anna
+T-1107,Medium,In Progress,Security,Software Installation Request,Automatically generated ticket #108,2023-07-27,,Admin
+T-1108,Critical,Open,Network,Slow Internet,Automatically generated ticket #109,2024-06-04,2024-06-21,Sara
+T-1109,Medium,Open,Hardware,Email Not Working,Automatically generated ticket #110,2023-07-16,2023-07-29,ITSupport
+T-1110,Medium,In Progress,Software,Password Reset,Automatically generated ticket #111,2023-10-10,2023-10-25,ITSupport
+T-1111,Low,In Progress,Access Request,Unauthorized Login Attempt,Automatically generated ticket #112,2023-10-27,2023-11-15,ITSupport
+T-1112,Medium,On Hold,Access Request,Malware Detected,Automatically generated ticket #113,2024-06-22,,Michael
+T-1113,Critical,In Progress,Network,Printer Not Responding,Automatically generated ticket #114,2023-06-07,,Sara
+T-1114,Medium,In Progress,Access Request,Email Not Working,Automatically generated ticket #115,2024-01-29,,Sara
+T-1115,Critical,In Progress,Security,Malware Detected,Automatically generated ticket #116,2023-01-03,,ITSupport
+T-1116,Medium,Open,Network,Printer Not Responding,Automatically generated ticket #117,2024-04-22,,Michael
+T-1117,Low,Resolved,Security,Malware Detected,Automatically generated ticket #118,2024-09-09,2024-09-15,ITSupport
+T-1118,High,Resolved,Hardware,Account Locked,Automatically generated ticket #119,2023-10-12,,ITSupport
+T-1119,Low,Open,Email,System Crash,Automatically generated ticket #120,2023-10-27,2023-11-02,Admin
+T-1120,Medium,On Hold,Access Request,Software Installation Request,Automatically generated ticket #121,2023-07-27,2023-08-11,Sara
+T-1121,High,On Hold,Access Request,Malware Detected,Automatically generated ticket #122,2023-05-14,,David
+T-1122,High,Resolved,Security,Account Locked,Automatically generated ticket #123,2023-05-04,2023-05-23,Michael
+T-1123,Low,In Progress,Email,Malware Detected,Automatically generated ticket #124,2024-04-18,2024-04-20,SecurityTeam
+T-1124,High,Resolved,Security,VPN Issue,Automatically generated ticket #125,2024-09-26,2024-09-30,Sara
+T-1125,High,On Hold,Security,Unauthorized Login Attempt,Automatically generated ticket #126,2023-02-02,2023-02-10,ITSupport
+T-1126,Critical,Open,Security,Account Locked,Automatically generated ticket #127,2023-12-07,2023-12-22,Anna
+T-1127,Medium,On Hold,Network,System Crash,Automatically generated ticket #128,2023-05-23,2023-06-02,Michael
+T-1128,Critical,In Progress,Email,Software Installation Request,Automatically generated ticket #129,2024-10-31,,SecurityTeam
+T-1129,Critical,On Hold,Network,Slow Internet,Automatically generated ticket #130,2023-10-10,2023-10-25,SecurityTeam
+T-1130,Critical,In Progress,Hardware,Email Not Working,Automatically generated ticket #131,2023-06-12,,Michael
+T-1131,Critical,Open,Network,Unauthorized Login Attempt,Automatically generated ticket #132,2023-05-20,2023-05-23,David
+T-1132,Medium,In Progress,Software,Account Locked,Automatically generated ticket #133,2024-01-04,,ITSupport
+T-1133,Critical,On Hold,Email,Account Locked,Automatically generated ticket #134,2023-08-06,2023-08-24,Michael
+T-1134,High,On Hold,Software,VPN Issue,Automatically generated ticket #135,2023-09-25,2023-10-10,SecurityTeam
+T-1135,Medium,Resolved,Network,Email Not Working,Automatically generated ticket #136,2024-08-31,2024-09-07,SecurityTeam
+T-1136,Critical,Resolved,Network,VPN Issue,Automatically generated ticket #137,2023-02-04,,Sara
+T-1137,Medium,Open,Email,Printer Not Responding,Automatically generated ticket #138,2024-08-23,2024-08-30,David
+T-1138,Medium,On Hold,Hardware,System Crash,Automatically generated ticket #139,2023-06-18,,Anna
+T-1139,High,Open,Software,Slow Internet,Automatically generated ticket #140,2023-04-23,2023-04-30,Michael
+T-1140,Low,In Progress,Security,Unauthorized Login Attempt,Automatically generated ticket #141,2024-11-17,2024-11-18,Admin
+T-1141,Critical,On Hold,Email,System Crash,Automatically generated ticket #142,2023-12-07,2023-12-16,Sara
+T-1142,Low,On Hold,Email,Email Not Working,Automatically generated ticket #143,2023-01-10,2023-01-14,SecurityTeam
+T-1143,Critical,On Hold,Software,Password Reset,Automatically generated ticket #144,2023-01-18,,Michael
+T-1144,Critical,In Progress,Network,Software Installation Request,Automatically generated ticket #145,2023-12-20,2024-01-05,Admin
+T-1145,Critical,Resolved,Email,Slow Internet,Automatically generated ticket #146,2024-09-04,2024-09-21,ITSupport
+T-1146,Medium,On Hold,Email,Malware Detected,Automatically generated ticket #147,2023-05-18,2023-06-07,Admin
+T-1147,Medium,In Progress,Network,Software Installation Request,Automatically generated ticket #148,2024-07-12,2024-08-01,ITSupport
+T-1148,Medium,Resolved,Email,Unauthorized Login Attempt,Automatically generated ticket #149,2023-09-15,2023-09-30,ITSupport
+T-1149,Critical,In Progress,Security,VPN Issue,Automatically generated ticket #150,2024-02-17,2024-03-06,Michael
+T-1150,High,Resolved,Hardware,Unauthorized Login Attempt,Automatically generated ticket #151,2023-07-12,,Admin
+T-1151,Low,On Hold,Email,Unauthorized Login Attempt,Automatically generated ticket #152,2023-06-27,2023-06-29,Michael
+T-1152,Low,Resolved,Access Request,Password Reset,Automatically generated ticket #153,2024-01-18,2024-01-24,SecurityTeam
+T-1153,Medium,Open,Security,Malware Detected,Automatically generated ticket #154,2023-01-26,2023-02-14,ITSupport
+T-1154,Critical,On Hold,Hardware,Printer Not Responding,Automatically generated ticket #155,2023-04-13,2023-04-27,Anna
+T-1155,Low,In Progress,Access Request,VPN Issue,Automatically generated ticket #156,2023-06-09,2023-06-21,Sara
+T-1156,Medium,Resolved,Security,Unauthorized Login Attempt,Automatically generated ticket #157,2023-06-23,,SecurityTeam
+T-1157,Critical,Open,Email,Software Installation Request,Automatically generated ticket #158,2024-03-06,2024-03-14,Admin
+T-1158,Medium,On Hold,Hardware,Unauthorized Login Attempt,Automatically generated ticket #159,2024-11-04,2024-11-12,Michael
+T-1159,High,On Hold,Email,VPN Issue,Automatically generated ticket #160,2024-11-16,2024-11-26,Admin
+T-1160,Medium,Resolved,Email,Unauthorized Login Attempt,Automatically generated ticket #161,2023-10-26,2023-11-12,Sara
+T-1161,Critical,In Progress,Network,Email Not Working,Automatically generated ticket #162,2023-09-20,2023-09-29,Sara
+T-1162,Medium,Resolved,Network,Slow Internet,Automatically generated ticket #163,2024-06-10,2024-06-26,SecurityTeam
+T-1163,High,In Progress,Hardware,Email Not Working,Automatically generated ticket #164,2023-03-05,2023-03-07,David
+T-1164,Medium,On Hold,Hardware,Email Not Working,Automatically generated ticket #165,2023-09-28,2023-10-13,Admin
+T-1165,Low,Open,Access Request,Malware Detected,Automatically generated ticket #166,2023-12-02,2023-12-17,Michael
+T-1166,Medium,Resolved,Email,Unauthorized Login Attempt,Automatically generated ticket #167,2023-05-21,2023-05-31,SecurityTeam
+T-1167,Critical,Resolved,Network,Account Locked,Automatically generated ticket #168,2023-01-16,2023-01-24,ITSupport
+T-1168,Low,Resolved,Email,System Crash,Automatically generated ticket #169,2024-05-16,2024-05-26,SecurityTeam
+T-1169,High,On Hold,Security,Unauthorized Login Attempt,Automatically generated ticket #170,2023-07-15,,Admin
+T-1170,Critical,On Hold,Network,Slow Internet,Automatically generated ticket #171,2024-07-15,2024-07-23,Admin
+T-1171,Medium,On Hold,Hardware,VPN Issue,Automatically generated ticket #172,2024-04-19,2024-05-05,Michael
+T-1172,Medium,Resolved,Email,Account Locked,Automatically generated ticket #173,2023-05-31,2023-06-16,Anna
+T-1173,Medium,Resolved,Access Request,Password Reset,Automatically generated ticket #174,2024-05-15,2024-05-18,ITSupport
+T-1174,High,In Progress,Security,VPN Issue,Automatically generated ticket #175,2024-04-15,2024-04-21,David
+T-1175,High,Resolved,Network,Slow Internet,Automatically generated ticket #176,2023-04-29,2023-05-13,Michael
+T-1176,Critical,Resolved,Security,Account Locked,Automatically generated ticket #177,2023-08-29,2023-09-17,David
+T-1177,Low,Open,Software,Email Not Working,Automatically generated ticket #178,2023-01-22,2023-02-10,Michael
+T-1178,High,Open,Security,Unauthorized Login Attempt,Automatically generated ticket #179,2024-10-10,2024-10-28,Anna
+T-1179,Critical,In Progress,Network,Password Reset,Automatically generated ticket #180,2023-11-10,2023-11-29,SecurityTeam
+T-1180,Critical,Resolved,Security,Software Installation Request,Automatically generated ticket #181,2023-03-17,2023-03-22,David
+T-1181,High,On Hold,Email,Slow Internet,Automatically generated ticket #182,2024-03-30,2024-04-13,Michael
+T-1182,High,Resolved,Software,Malware Detected,Automatically generated ticket #183,2024-01-22,2024-02-08,SecurityTeam
+T-1183,Critical,Resolved,Email,VPN Issue,Automatically generated ticket #184,2024-07-01,2024-07-13,Sara
+T-1184,High,In Progress,Access Request,Slow Internet,Automatically generated ticket #185,2024-05-19,2024-05-25,David
+T-1185,Critical,Open,Access Request,Email Not Working,Automatically generated ticket #186,2023-01-13,2023-01-19,David
+T-1186,High,In Progress,Security,Email Not Working,Automatically generated ticket #187,2024-05-23,,SecurityTeam
+T-1187,High,In Progress,Hardware,Email Not Working,Automatically generated ticket #188,2023-06-02,2023-06-15,Anna
+T-1188,Medium,Resolved,Software,System Crash,Automatically generated ticket #189,2024-05-01,,David
+T-1189,Low,Open,Email,Account Locked,Automatically generated ticket #190,2024-11-22,2024-11-26,SecurityTeam
+T-1190,Medium,In Progress,Access Request,Software Installation Request,Automatically generated ticket #191,2024-11-02,2024-11-04,Anna
+T-1191,Medium,In Progress,Hardware,Slow Internet,Automatically generated ticket #192,2023-03-21,2023-03-28,David
+T-1192,Critical,Resolved,Email,Slow Internet,Automatically generated ticket #193,2024-10-08,2024-10-23,Admin
+T-1193,Medium,On Hold,Hardware,Malware Detected,Automatically generated ticket #194,2023-04-15,2023-04-18,SecurityTeam
+T-1194,Low,Open,Security,System Crash,Automatically generated ticket #195,2024-09-18,2024-10-01,Anna
+T-1195,Medium,Open,Access Request,VPN Issue,Automatically generated ticket #196,2024-10-06,,Anna
+T-1196,Low,Open,Email,VPN Issue,Automatically generated ticket #197,2024-09-12,2024-09-18,ITSupport
+T-1197,High,Open,Software,Email Not Working,Automatically generated ticket #198,2024-10-19,2024-10-26,ITSupport
+T-1198,Critical,Resolved,Network,System Crash,Automatically generated ticket #199,2023-05-07,2023-05-24,Anna
+T-1199,Low,On Hold,Email,Account Locked,Automatically generated ticket #200,2023-04-13,,Michael
+T-1200,Critical,Resolved,Software,Email Not Working,Automatically generated ticket #201,2024-11-17,,Sara
+T-1201,Critical,On Hold,Network,Malware Detected,Automatically generated ticket #202,2024-10-30,2024-11-11,Admin
+T-1202,Low,Resolved,Network,Software Installation Request,Automatically generated ticket #203,2024-06-16,2024-06-21,Michael
+T-1203,High,Resolved,Security,System Crash,Automatically generated ticket #204,2023-01-23,2023-01-27,Sara
+T-1204,Low,Open,Hardware,Email Not Working,Automatically generated ticket #205,2024-06-16,2024-06-28,Sara
+T-1205,Critical,Open,Network,Account Locked,Automatically generated ticket #206,2024-11-09,,David
+T-1206,Medium,In Progress,Security,Unauthorized Login Attempt,Automatically generated ticket #207,2024-03-25,2024-04-11,Michael
+T-1207,Critical,Open,Software,Software Installation Request,Automatically generated ticket #208,2023-09-03,2023-09-23,David
+T-1208,Critical,Open,Hardware,VPN Issue,Automatically generated ticket #209,2024-10-19,2024-10-21,SecurityTeam
+T-1209,High,In Progress,Hardware,Account Locked,Automatically generated ticket #210,2024-09-10,2024-09-15,ITSupport
+T-1210,High,Open,Software,Printer Not Responding,Automatically generated ticket #211,2023-12-12,2023-12-15,David
+T-1211,High,Open,Software,Account Locked,Automatically generated ticket #212,2023-08-04,2023-08-16,Michael
+T-1212,Low,Open,Hardware,Email Not Working,Automatically generated ticket #213,2023-12-11,2023-12-13,David
+T-1213,Low,Open,Software,Unauthorized Login Attempt,Automatically generated ticket #214,2024-08-19,,Michael
+T-1214,Critical,Open,Network,Slow Internet,Automatically generated ticket #215,2024-08-15,2024-08-22,SecurityTeam
+T-1215,Critical,Open,Email,Email Not Working,Automatically generated ticket #216,2023-09-17,,Sara
+T-1216,Medium,Resolved,Email,Malware Detected,Automatically generated ticket #217,2024-02-20,2024-02-22,ITSupport
+T-1217,Low,Open,Hardware,VPN Issue,Automatically generated ticket #218,2023-10-26,,Anna
+T-1218,Medium,On Hold,Hardware,Unauthorized Login Attempt,Automatically generated ticket #219,2024-01-21,2024-02-01,David
+T-1219,Low,In Progress,Email,Unauthorized Login Attempt,Automatically generated ticket #220,2024-10-07,,ITSupport
+T-1220,Medium,On Hold,Access Request,Software Installation Request,Automatically generated ticket #221,2023-10-28,2023-11-09,ITSupport
+T-1221,High,Open,Software,Slow Internet,Automatically generated ticket #222,2023-09-22,2023-10-02,ITSupport
+T-1222,Medium,Open,Email,System Crash,Automatically generated ticket #223,2024-01-12,2024-02-01,Anna
+T-1223,Medium,Resolved,Security,System Crash,Automatically generated ticket #224,2024-02-07,2024-02-16,SecurityTeam
+T-1224,High,In Progress,Access Request,Software Installation Request,Automatically generated ticket #225,2024-02-14,2024-02-26,Anna
+T-1225,Medium,Resolved,Hardware,Slow Internet,Automatically generated ticket #226,2023-05-15,2023-05-23,David
+T-1226,Medium,Open,Access Request,Software Installation Request,Automatically generated ticket #227,2024-03-20,,Michael
+T-1227,Critical,Resolved,Hardware,System Crash,Automatically generated ticket #228,2024-07-23,,Michael
+T-1228,Medium,On Hold,Email,VPN Issue,Automatically generated ticket #229,2024-08-12,2024-08-19,David
+T-1229,Low,In Progress,Email,Email Not Working,Automatically generated ticket #230,2024-01-09,2024-01-18,David
+T-1230,High,In Progress,Security,Account Locked,Automatically generated ticket #231,2024-01-14,,David
+T-1231,Low,In Progress,Access Request,Malware Detected,Automatically generated ticket #232,2024-08-16,2024-08-17,SecurityTeam
+T-1232,Low,In Progress,Network,Slow Internet,Automatically generated ticket #233,2023-01-23,2023-02-01,ITSupport
+T-1233,High,On Hold,Email,VPN Issue,Automatically generated ticket #234,2023-02-27,2023-03-18,Sara
+T-1234,Critical,In Progress,Security,Account Locked,Automatically generated ticket #235,2024-10-23,2024-11-11,Sara
+T-1235,Medium,Open,Network,Password Reset,Automatically generated ticket #236,2024-03-14,,Michael
+T-1236,High,In Progress,Email,Account Locked,Automatically generated ticket #237,2023-07-06,2023-07-17,SecurityTeam
+T-1237,Medium,On Hold,Software,Password Reset,Automatically generated ticket #238,2023-03-30,2023-04-01,SecurityTeam
+T-1238,Low,Open,Hardware,VPN Issue,Automatically generated ticket #239,2023-11-21,2023-12-11,ITSupport
+T-1239,Critical,On Hold,Hardware,Software Installation Request,Automatically generated ticket #240,2023-07-05,2023-07-22,David
+T-1240,Medium,In Progress,Software,Printer Not Responding,Automatically generated ticket #241,2023-12-16,2023-12-28,David
+T-1241,Medium,Open,Security,Email Not Working,Automatically generated ticket #242,2023-01-29,,Michael
+T-1242,Critical,On Hold,Network,Printer Not Responding,Automatically generated ticket #243,2024-07-28,2024-08-09,SecurityTeam
+T-1243,Medium,On Hold,Access Request,Account Locked,Automatically generated ticket #244,2023-01-06,2023-01-15,David
+T-1244,High,In Progress,Email,VPN Issue,Automatically generated ticket #245,2023-06-03,2023-06-05,Sara
+T-1245,High,In Progress,Hardware,Slow Internet,Automatically generated ticket #246,2023-10-10,,Sara
+T-1246,Critical,In Progress,Software,Software Installation Request,Automatically generated ticket #247,2024-02-13,,Anna
+T-1247,Low,Open,Hardware,Unauthorized Login Attempt,Automatically generated ticket #248,2024-08-03,2024-08-18,David
+T-1248,High,Resolved,Access Request,Email Not Working,Automatically generated ticket #249,2023-11-23,2023-12-10,Anna
+T-1249,Critical,Resolved,Email,VPN Issue,Automatically generated ticket #250,2024-11-05,2024-11-25,SecurityTeam
+T-1250,Medium,In Progress,Email,Password Reset,Automatically generated ticket #251,2024-06-15,,Anna
+T-1251,Critical,In Progress,Email,Account Locked,Automatically generated ticket #252,2024-11-06,2024-11-10,David
+T-1252,High,Open,Access Request,Software Installation Request,Automatically generated ticket #253,2024-08-05,2024-08-19,ITSupport
+T-1253,Critical,On Hold,Network,Software Installation Request,Automatically generated ticket #254,2023-10-15,2023-10-23,SecurityTeam
+T-1254,High,Open,Network,Account Locked,Automatically generated ticket #255,2024-05-17,,Anna
+T-1255,Medium,Open,Network,Password Reset,Automatically generated ticket #256,2023-09-06,2023-09-16,SecurityTeam
+T-1256,Critical,Open,Security,System Crash,Automatically generated ticket #257,2024-09-13,,David
+T-1257,Medium,In Progress,Network,VPN Issue,Automatically generated ticket #258,2024-05-18,2024-06-07,David
+T-1258,Medium,Open,Hardware,Software Installation Request,Automatically generated ticket #259,2023-04-18,2023-04-21,Sara
+T-1259,Low,Resolved,Email,Malware Detected,Automatically generated ticket #260,2024-01-17,2024-01-28,David
+T-1260,Low,Resolved,Network,Software Installation Request,Automatically generated ticket #261,2023-11-14,2023-12-04,David
+T-1261,High,Open,Security,Printer Not Responding,Automatically generated ticket #262,2023-10-05,2023-10-13,Admin
+T-1262,High,In Progress,Email,Unauthorized Login Attempt,Automatically generated ticket #263,2024-09-20,,Admin
+T-1263,High,Open,Software,Email Not Working,Automatically generated ticket #264,2024-09-07,2024-09-13,Admin
+T-1264,High,In Progress,Email,Software Installation Request,Automatically generated ticket #265,2023-01-28,2023-01-29,Sara
+T-1265,Medium,Open,Software,Printer Not Responding,Automatically generated ticket #266,2023-06-27,2023-07-06,David
+T-1266,Medium,Open,Network,Software Installation Request,Automatically generated ticket #267,2024-02-27,2024-03-17,Sara
+T-1267,High,Open,Hardware,Email Not Working,Automatically generated ticket #268,2023-12-16,2024-01-03,SecurityTeam
+T-1268,Low,Resolved,Network,Unauthorized Login Attempt,Automatically generated ticket #269,2024-05-02,2024-05-06,Anna
+T-1269,Medium,Resolved,Network,Unauthorized Login Attempt,Automatically generated ticket #270,2024-09-12,2024-09-26,David
+T-1270,High,Open,Hardware,Password Reset,Automatically generated ticket #271,2024-06-28,2024-06-30,Michael
+T-1271,Low,Resolved,Software,Software Installation Request,Automatically generated ticket #272,2024-10-18,2024-10-19,David
+T-1272,Critical,Open,Software,Password Reset,Automatically generated ticket #273,2024-02-17,,Admin
+T-1273,Low,Open,Security,Email Not Working,Automatically generated ticket #274,2024-09-24,2024-10-03,David
+T-1274,Critical,Resolved,Email,Slow Internet,Automatically generated ticket #275,2024-05-12,,Admin
+T-1275,Low,Resolved,Software,Password Reset,Automatically generated ticket #276,2024-06-10,2024-06-18,Anna
+T-1276,Critical,In Progress,Software,System Crash,Automatically generated ticket #277,2023-11-06,2023-11-09,David
+T-1277,Low,On Hold,Email,Account Locked,Automatically generated ticket #278,2023-01-27,2023-01-31,Michael
+T-1278,High,In Progress,Hardware,Password Reset,Automatically generated ticket #279,2024-11-12,2024-11-30,Sara
+T-1279,Medium,Resolved,Software,Account Locked,Automatically generated ticket #280,2023-01-21,2023-02-01,Michael
+T-1280,Medium,In Progress,Network,Printer Not Responding,Automatically generated ticket #281,2024-04-14,,Michael
+T-1281,High,On Hold,Email,Malware Detected,Automatically generated ticket #282,2023-03-22,,Anna
+T-1282,Low,In Progress,Security,Email Not Working,Automatically generated ticket #283,2024-09-20,2024-09-21,ITSupport
+T-1283,Low,Resolved,Network,Printer Not Responding,Automatically generated ticket #284,2023-05-20,2023-05-29,Sara
+T-1284,Low,Resolved,Network,Software Installation Request,Automatically generated ticket #285,2023-12-21,,Sara
+T-1285,Low,In Progress,Network,Unauthorized Login Attempt,Automatically generated ticket #286,2023-06-17,,David
+T-1286,High,In Progress,Email,Unauthorized Login Attempt,Automatically generated ticket #287,2024-06-17,2024-07-07,Admin
+T-1287,Critical,Resolved,Security,Printer Not Responding,Automatically generated ticket #288,2023-05-20,2023-05-30,SecurityTeam
+T-1288,High,In Progress,Hardware,System Crash,Automatically generated ticket #289,2024-09-01,2024-09-07,SecurityTeam
+T-1289,Medium,Resolved,Network,VPN Issue,Automatically generated ticket #290,2023-03-09,,ITSupport
+T-1290,Medium,Open,Access Request,Password Reset,Automatically generated ticket #291,2023-10-21,,Sara
+T-1291,Critical,On Hold,Email,Slow Internet,Automatically generated ticket #292,2023-11-08,,Michael
+T-1292,High,On Hold,Software,VPN Issue,Automatically generated ticket #293,2024-10-20,2024-11-07,Sara
+T-1293,Medium,On Hold,Security,Password Reset,Automatically generated ticket #294,2024-10-24,2024-11-04,Admin
+T-1294,Critical,Open,Software,System Crash,Automatically generated ticket #295,2024-01-09,,ITSupport
+T-1295,Low,Open,Network,Password Reset,Automatically generated ticket #296,2023-05-31,,Admin
+T-1296,Critical,In Progress,Network,Password Reset,Automatically generated ticket #297,2024-03-28,,Anna
+T-1297,Critical,In Progress,Network,Password Reset,Automatically generated ticket #298,2023-07-04,2023-07-24,Anna
+T-1298,Medium,On Hold,Security,Password Reset,Automatically generated ticket #299,2023-06-22,2023-06-30,Anna
+T-1299,High,On Hold,Security,Malware Detected,Automatically generated ticket #300,2023-12-02,,Michael
+T-1300,High,Open,Security,Password Reset,Automatically generated ticket #301,2024-07-13,2024-07-28,ITSupport
+T-1301,Low,On Hold,Hardware,Printer Not Responding,Automatically generated ticket #302,2023-08-25,2023-08-28,Anna
+T-1302,Low,In Progress,Email,Password Reset,Automatically generated ticket #303,2024-03-25,2024-04-14,Michael
+T-1303,Medium,Open,Hardware,Printer Not Responding,Automatically generated ticket #304,2023-05-14,2023-05-15,ITSupport
+T-1304,Medium,In Progress,Security,Account Locked,Automatically generated ticket #305,2024-09-23,2024-09-27,Sara
+T-1305,Low,On Hold,Access Request,System Crash,Automatically generated ticket #306,2024-11-17,,Admin
+T-1306,Medium,On Hold,Security,Account Locked,Automatically generated ticket #307,2023-05-08,2023-05-16,SecurityTeam
+T-1307,High,In Progress,Access Request,Slow Internet,Automatically generated ticket #308,2023-09-16,2023-09-26,Sara
+T-1308,Low,Open,Hardware,System Crash,Automatically generated ticket #309,2023-08-16,2023-08-25,Anna
+T-1309,Medium,Resolved,Security,System Crash,Automatically generated ticket #310,2023-05-23,2023-06-09,Sara
+T-1310,Critical,Resolved,Hardware,Printer Not Responding,Automatically generated ticket #311,2024-11-26,2024-12-10,ITSupport
+T-1311,Low,Resolved,Hardware,Unauthorized Login Attempt,Automatically generated ticket #312,2023-12-27,,Sara
+T-1312,High,Open,Hardware,Slow Internet,Automatically generated ticket #313,2024-07-21,2024-08-10,SecurityTeam
+T-1313,High,Open,Access Request,System Crash,Automatically generated ticket #314,2023-03-01,,SecurityTeam
+T-1314,Medium,Resolved,Software,Slow Internet,Automatically generated ticket #315,2023-08-08,2023-08-13,Anna
+T-1315,Medium,On Hold,Security,Unauthorized Login Attempt,Automatically generated ticket #316,2023-05-09,2023-05-20,David
+T-1316,Medium,In Progress,Access Request,Account Locked,Automatically generated ticket #317,2023-05-02,,Michael
+T-1317,Medium,Resolved,Hardware,Software Installation Request,Automatically generated ticket #318,2024-02-21,2024-03-03,David
+T-1318,High,In Progress,Email,Unauthorized Login Attempt,Automatically generated ticket #319,2024-09-28,2024-10-09,Anna
+T-1319,Low,In Progress,Email,VPN Issue,Automatically generated ticket #320,2023-05-21,,David
+T-1320,Medium,In Progress,Security,VPN Issue,Automatically generated ticket #321,2024-08-28,,Michael
+T-1321,High,In Progress,Security,System Crash,Automatically generated ticket #322,2023-10-01,2023-10-07,SecurityTeam
+T-1322,Critical,Resolved,Network,Email Not Working,Automatically generated ticket #323,2024-01-09,,Sara
+T-1323,Medium,Open,Email,Malware Detected,Automatically generated ticket #324,2023-10-07,2023-10-11,Anna
+T-1324,Critical,In Progress,Hardware,VPN Issue,Automatically generated ticket #325,2024-04-13,2024-04-30,ITSupport
+T-1325,High,Open,Hardware,Unauthorized Login Attempt,Automatically generated ticket #326,2023-03-22,2023-03-23,David
+T-1326,Low,Resolved,Security,VPN Issue,Automatically generated ticket #327,2023-07-30,2023-08-06,Sara
+T-1327,Low,Resolved,Network,Account Locked,Automatically generated ticket #328,2023-06-19,,David
+T-1328,Medium,Resolved,Hardware,Printer Not Responding,Automatically generated ticket #329,2024-01-15,2024-01-24,Sara
+T-1329,High,On Hold,Access Request,System Crash,Automatically generated ticket #330,2023-06-21,2023-07-04,ITSupport
+T-1330,Critical,Open,Network,Software Installation Request,Automatically generated ticket #331,2024-09-05,2024-09-12,Sara
+T-1331,Critical,On Hold,Security,VPN Issue,Automatically generated ticket #332,2024-07-03,2024-07-17,ITSupport
+T-1332,Medium,In Progress,Security,System Crash,Automatically generated ticket #333,2023-08-09,2023-08-25,David
+T-1333,Medium,Open,Access Request,Malware Detected,Automatically generated ticket #334,2024-03-28,2024-03-30,David
+T-1334,Critical,On Hold,Software,Account Locked,Automatically generated ticket #335,2023-08-06,2023-08-22,Sara
+T-1335,High,Resolved,Email,Password Reset,Automatically generated ticket #336,2023-12-15,2023-12-27,SecurityTeam
+T-1336,Medium,On Hold,Hardware,Email Not Working,Automatically generated ticket #337,2023-03-30,2023-04-10,Admin
+T-1337,High,Open,Email,VPN Issue,Automatically generated ticket #338,2023-03-08,,Anna
+T-1338,Low,Open,Hardware,Malware Detected,Automatically generated ticket #339,2024-08-05,2024-08-15,Admin
+T-1339,High,On Hold,Software,Unauthorized Login Attempt,Automatically generated ticket #340,2024-08-06,2024-08-08,ITSupport
+T-1340,High,In Progress,Access Request,Slow Internet,Automatically generated ticket #341,2024-01-07,2024-01-12,David
+T-1341,Medium,In Progress,Email,Unauthorized Login Attempt,Automatically generated ticket #342,2024-09-01,2024-09-02,Sara
+T-1342,Medium,Open,Hardware,Printer Not Responding,Automatically generated ticket #343,2024-11-05,,Sara
+T-1343,High,Open,Software,Account Locked,Automatically generated ticket #344,2023-01-09,,Anna
+T-1344,High,In Progress,Network,Account Locked,Automatically generated ticket #345,2024-04-16,2024-04-30,Michael
+T-1345,Medium,Resolved,Network,Password Reset,Automatically generated ticket #346,2023-03-31,2023-04-09,Sara
+T-1346,Critical,Resolved,Software,Software Installation Request,Automatically generated ticket #347,2023-02-15,,Admin
+T-1347,High,Open,Security,Password Reset,Automatically generated ticket #348,2024-05-15,2024-05-26,ITSupport
+T-1348,Low,On Hold,Hardware,Printer Not Responding,Automatically generated ticket #349,2024-10-26,,SecurityTeam
+T-1349,Critical,In Progress,Email,VPN Issue,Automatically generated ticket #350,2023-04-16,,SecurityTeam
+T-1350,High,In Progress,Hardware,Unauthorized Login Attempt,Automatically generated ticket #351,2024-01-14,2024-02-03,Admin
+T-1351,Critical,On Hold,Network,Email Not Working,Automatically generated ticket #352,2024-07-30,,ITSupport
+T-1352,Low,Open,Email,Malware Detected,Automatically generated ticket #353,2024-02-06,,Michael
+T-1353,Medium,On Hold,Email,Malware Detected,Automatically generated ticket #354,2024-08-28,2024-09-13,David
+T-1354,Critical,Resolved,Access Request,Malware Detected,Automatically generated ticket #355,2024-02-16,2024-02-17,Admin
+T-1355,Medium,Resolved,Software,System Crash,Automatically generated ticket #356,2024-01-29,2024-02-15,SecurityTeam
+T-1356,Critical,On Hold,Access Request,Email Not Working,Automatically generated ticket #357,2024-03-04,,Michael
+T-1357,Medium,In Progress,Access Request,Slow Internet,Automatically generated ticket #358,2024-11-13,2024-11-30,Michael
+T-1358,Low,On Hold,Hardware,Slow Internet,Automatically generated ticket #359,2024-06-02,,Admin
+T-1359,High,In Progress,Email,System Crash,Automatically generated ticket #360,2023-05-26,2023-06-15,David
+T-1360,Low,Open,Email,Slow Internet,Automatically generated ticket #361,2024-08-21,2024-09-08,Sara
+T-1361,Low,In Progress,Access Request,Slow Internet,Automatically generated ticket #362,2024-02-24,2024-03-04,Anna
+T-1362,Low,Resolved,Software,Slow Internet,Automatically generated ticket #363,2023-10-28,,Sara
+T-1363,High,Resolved,Email,Malware Detected,Automatically generated ticket #364,2023-08-10,,Anna
+T-1364,High,Resolved,Email,Password Reset,Automatically generated ticket #365,2023-10-22,2023-10-31,ITSupport
+T-1365,High,Resolved,Email,Password Reset,Automatically generated ticket #366,2023-03-04,,David
+T-1366,Critical,Open,Network,Malware Detected,Automatically generated ticket #367,2023-06-06,2023-06-19,David
+T-1367,Low,Resolved,Email,Password Reset,Automatically generated ticket #368,2024-03-22,2024-03-26,Admin
+T-1368,Medium,Resolved,Email,Email Not Working,Automatically generated ticket #369,2024-06-17,2024-07-05,Sara
+T-1369,Critical,In Progress,Access Request,Slow Internet,Automatically generated ticket #370,2024-10-18,2024-11-07,Michael
+T-1370,High,Resolved,Hardware,Malware Detected,Automatically generated ticket #371,2024-07-04,2024-07-09,Admin
+T-1371,Low,In Progress,Hardware,System Crash,Automatically generated ticket #372,2024-07-01,2024-07-02,Sara
+T-1372,Low,Open,Hardware,Account Locked,Automatically generated ticket #373,2023-12-07,2023-12-14,Anna
+T-1373,Medium,In Progress,Hardware,Email Not Working,Automatically generated ticket #374,2024-06-30,2024-07-19,Michael
+T-1374,Low,On Hold,Network,VPN Issue,Automatically generated ticket #375,2023-07-11,2023-07-20,Admin
+T-1375,Medium,In Progress,Network,Software Installation Request,Automatically generated ticket #376,2024-06-07,,ITSupport
+T-1376,Critical,On Hold,Security,Software Installation Request,Automatically generated ticket #377,2024-01-12,2024-01-22,ITSupport
+T-1377,Low,On Hold,Access Request,Software Installation Request,Automatically generated ticket #378,2024-11-02,2024-11-04,Admin
+T-1378,Critical,Open,Email,Slow Internet,Automatically generated ticket #379,2023-10-19,2023-10-25,Anna
+T-1379,Medium,In Progress,Access Request,Email Not Working,Automatically generated ticket #380,2023-03-19,,Sara
+T-1380,Medium,On Hold,Security,VPN Issue,Automatically generated ticket #381,2024-06-24,2024-06-30,Anna
+T-1381,Low,On Hold,Access Request,VPN Issue,Automatically generated ticket #382,2024-03-20,2024-04-04,Anna
+T-1382,High,In Progress,Security,Malware Detected,Automatically generated ticket #383,2023-06-03,,Sara
+T-1383,Low,In Progress,Access Request,Email Not Working,Automatically generated ticket #384,2024-04-03,2024-04-09,ITSupport
+T-1384,Low,In Progress,Network,Unauthorized Login Attempt,Automatically generated ticket #385,2024-08-20,,ITSupport
+T-1385,Critical,On Hold,Email,Slow Internet,Automatically generated ticket #386,2023-08-28,2023-09-05,Sara
+T-1386,Critical,On Hold,Network,Printer Not Responding,Automatically generated ticket #387,2024-04-01,,Admin
+T-1387,High,Open,Hardware,Account Locked,Automatically generated ticket #388,2024-07-03,2024-07-11,Michael
+T-1388,Medium,On Hold,Software,Slow Internet,Automatically generated ticket #389,2023-01-01,2023-01-10,Sara
+T-1389,High,Resolved,Hardware,Slow Internet,Automatically generated ticket #390,2023-07-06,,Michael
+T-1390,Critical,Open,Access Request,Slow Internet,Automatically generated ticket #391,2023-10-12,2023-10-18,Michael
+T-1391,Medium,On Hold,Email,VPN Issue,Automatically generated ticket #392,2023-09-10,,Michael
+T-1392,Medium,In Progress,Network,Email Not Working,Automatically generated ticket #393,2024-06-27,2024-07-06,Sara
+T-1393,Medium,On Hold,Software,Account Locked,Automatically generated ticket #394,2023-03-25,2023-04-03,SecurityTeam
+T-1394,Medium,Open,Software,Password Reset,Automatically generated ticket #395,2023-08-02,2023-08-04,Michael
+T-1395,Low,On Hold,Software,Password Reset,Automatically generated ticket #396,2024-05-24,,ITSupport
+T-1396,Medium,On Hold,Hardware,VPN Issue,Automatically generated ticket #397,2023-03-10,2023-03-24,David
+T-1397,Medium,Resolved,Security,System Crash,Automatically generated ticket #398,2023-08-31,2023-09-15,Anna
+T-1398,Critical,Open,Email,Email Not Working,Automatically generated ticket #399,2023-01-15,,Sara
+T-1399,Critical,Resolved,Network,Malware Detected,Automatically generated ticket #400,2023-12-05,,SecurityTeam
+T-1400,Low,Resolved,Email,Password Reset,Automatically generated ticket #401,2024-09-29,2024-10-17,Anna
+T-1401,Low,Open,Software,Email Not Working,Automatically generated ticket #402,2023-12-20,2023-12-22,Michael
+T-1402,Low,In Progress,Hardware,Slow Internet,Automatically generated ticket #403,2024-09-29,,Michael
+T-1403,Critical,In Progress,Email,VPN Issue,Automatically generated ticket #404,2024-09-18,,SecurityTeam
+T-1404,Critical,Open,Network,Unauthorized Login Attempt,Automatically generated ticket #405,2023-08-05,2023-08-19,SecurityTeam
+T-1405,Low,On Hold,Network,Slow Internet,Automatically generated ticket #406,2024-08-09,2024-08-19,Sara
+T-1406,High,Resolved,Hardware,Printer Not Responding,Automatically generated ticket #407,2023-04-15,,Admin
+T-1407,High,In Progress,Hardware,Unauthorized Login Attempt,Automatically generated ticket #408,2023-07-04,,David
+T-1408,Low,Open,Security,Account Locked,Automatically generated ticket #409,2024-08-10,2024-08-24,Michael
+T-1409,Critical,In Progress,Hardware,Slow Internet,Automatically generated ticket #410,2024-02-22,,Anna
+T-1410,Low,Resolved,Email,Software Installation Request,Automatically generated ticket #411,2024-02-19,2024-02-28,Sara
+T-1411,Low,Resolved,Email,Email Not Working,Automatically generated ticket #412,2024-08-14,2024-08-19,David
+T-1412,Critical,On Hold,Security,Unauthorized Login Attempt,Automatically generated ticket #413,2023-03-28,2023-04-17,ITSupport
+T-1413,Medium,Open,Access Request,Password Reset,Automatically generated ticket #414,2024-07-26,2024-08-15,Anna
+T-1414,Critical,In Progress,Security,VPN Issue,Automatically generated ticket #415,2023-04-14,2023-05-02,David
+T-1415,Critical,Open,Access Request,Unauthorized Login Attempt,Automatically generated ticket #416,2023-05-29,2023-06-02,Admin
+T-1416,Low,Resolved,Security,Unauthorized Login Attempt,Automatically generated ticket #417,2024-08-07,2024-08-22,SecurityTeam
+T-1417,Critical,Open,Access Request,Printer Not Responding,Automatically generated ticket #418,2023-06-01,,David
+T-1418,Critical,Open,Hardware,Unauthorized Login Attempt,Automatically generated ticket #419,2023-07-30,2023-08-18,ITSupport
+T-1419,Medium,Resolved,Hardware,Account Locked,Automatically generated ticket #420,2023-04-11,2023-04-20,ITSupport
+T-1420,Low,In Progress,Network,Printer Not Responding,Automatically generated ticket #421,2024-07-05,2024-07-07,Sara
+T-1421,Critical,Open,Software,Account Locked,Automatically generated ticket #422,2024-03-22,2024-03-25,ITSupport
+T-1422,Low,Resolved,Email,Email Not Working,Automatically generated ticket #423,2024-03-10,2024-03-23,SecurityTeam
+T-1423,High,Resolved,Security,Slow Internet,Automatically generated ticket #424,2023-06-19,2023-07-03,Sara
+T-1424,Critical,Open,Email,Malware Detected,Automatically generated ticket #425,2023-07-13,2023-07-26,Anna
+T-1425,Low,On Hold,Hardware,Software Installation Request,Automatically generated ticket #426,2024-03-21,,David
+T-1426,Critical,Open,Email,Printer Not Responding,Automatically generated ticket #427,2024-02-18,2024-03-02,ITSupport
+T-1427,Low,Resolved,Security,VPN Issue,Automatically generated ticket #428,2023-10-23,2023-10-28,ITSupport
+T-1428,High,In Progress,Security,System Crash,Automatically generated ticket #429,2023-08-05,2023-08-22,Michael
+T-1429,Low,Resolved,Software,Unauthorized Login Attempt,Automatically generated ticket #430,2023-02-27,,Sara
+T-1430,Critical,Resolved,Hardware,Unauthorized Login Attempt,Automatically generated ticket #431,2023-04-30,2023-05-08,SecurityTeam
+T-1431,Critical,Open,Network,Malware Detected,Automatically generated ticket #432,2023-06-13,2023-06-30,SecurityTeam
+T-1432,Low,In Progress,Software,VPN Issue,Automatically generated ticket #433,2024-07-26,2024-08-02,SecurityTeam
+T-1433,High,Open,Email,Software Installation Request,Automatically generated ticket #434,2024-08-10,,ITSupport
+T-1434,Critical,On Hold,Network,Password Reset,Automatically generated ticket #435,2023-01-15,2023-01-25,Sara
+T-1435,Medium,Open,Access Request,Malware Detected,Automatically generated ticket #436,2024-08-14,,Admin
+T-1436,High,In Progress,Software,Printer Not Responding,Automatically generated ticket #437,2023-08-28,2023-09-05,SecurityTeam
+T-1437,Low,Resolved,Network,Printer Not Responding,Automatically generated ticket #438,2023-05-06,2023-05-12,Michael
+T-1438,Critical,On Hold,Access Request,Password Reset,Automatically generated ticket #439,2023-02-15,2023-02-17,David
+T-1439,Medium,Resolved,Software,VPN Issue,Automatically generated ticket #440,2023-06-07,2023-06-13,ITSupport
+T-1440,High,Resolved,Software,System Crash,Automatically generated ticket #441,2023-10-11,2023-10-29,Anna
+T-1441,Low,In Progress,Hardware,Slow Internet,Automatically generated ticket #442,2024-11-28,,Michael
+T-1442,Critical,In Progress,Access Request,Account Locked,Automatically generated ticket #443,2024-08-14,2024-08-28,Admin
+T-1443,Medium,Open,Hardware,VPN Issue,Automatically generated ticket #444,2023-10-25,,Admin
+T-1444,Low,In Progress,Access Request,System Crash,Automatically generated ticket #445,2024-07-12,,SecurityTeam
+T-1445,High,Open,Security,Malware Detected,Automatically generated ticket #446,2024-03-18,,Admin
+T-1446,High,In Progress,Email,Account Locked,Automatically generated ticket #447,2024-03-07,2024-03-23,Sara
+T-1447,High,Resolved,Software,Malware Detected,Automatically generated ticket #448,2024-02-25,2024-03-12,SecurityTeam
+T-1448,Critical,On Hold,Software,Software Installation Request,Automatically generated ticket #449,2024-04-29,2024-05-02,ITSupport
+T-1449,Critical,Open,Security,VPN Issue,Automatically generated ticket #450,2024-08-31,,Michael
+T-1450,Critical,Open,Email,Email Not Working,Automatically generated ticket #451,2024-03-02,2024-03-04,Admin
+T-1451,Medium,In Progress,Security,Software Installation Request,Automatically generated ticket #452,2023-12-18,2023-12-28,Sara
+T-1452,High,In Progress,Software,Unauthorized Login Attempt,Automatically generated ticket #453,2023-09-09,2023-09-17,Admin
+T-1453,Critical,In Progress,Software,Software Installation Request,Automatically generated ticket #454,2024-09-24,2024-10-02,Anna
+T-1454,High,Resolved,Security,Malware Detected,Automatically generated ticket #455,2023-01-22,,ITSupport
+T-1455,Critical,In Progress,Security,System Crash,Automatically generated ticket #456,2024-04-21,2024-05-10,Admin
+T-1456,Low,Open,Network,VPN Issue,Automatically generated ticket #457,2023-07-02,2023-07-20,ITSupport
+T-1457,Low,Open,Hardware,Email Not Working,Automatically generated ticket #458,2024-05-12,,Admin
+T-1458,Critical,On Hold,Hardware,System Crash,Automatically generated ticket #459,2024-08-25,2024-09-03,SecurityTeam
+T-1459,Critical,Open,Software,Email Not Working,Automatically generated ticket #460,2024-11-24,2024-11-29,Anna
+T-1460,High,On Hold,Network,VPN Issue,Automatically generated ticket #461,2024-10-17,2024-10-25,Sara
+T-1461,Low,On Hold,Security,System Crash,Automatically generated ticket #462,2024-06-03,2024-06-11,Anna
+T-1462,High,In Progress,Access Request,Account Locked,Automatically generated ticket #463,2024-11-23,,David
+T-1463,Medium,Open,Email,Malware Detected,Automatically generated ticket #464,2024-02-09,2024-02-29,Admin
+T-1464,Medium,In Progress,Email,Printer Not Responding,Automatically generated ticket #465,2023-04-19,2023-04-30,Anna
+T-1465,High,Open,Security,Printer Not Responding,Automatically generated ticket #466,2024-09-12,2024-09-22,ITSupport
+T-1466,Low,On Hold,Network,Email Not Working,Automatically generated ticket #467,2024-07-25,,David
+T-1467,Low,In Progress,Software,Account Locked,Automatically generated ticket #468,2024-02-05,,ITSupport
+T-1468,High,Open,Email,Malware Detected,Automatically generated ticket #469,2024-07-07,2024-07-27,Michael
+T-1469,Critical,Resolved,Security,System Crash,Automatically generated ticket #470,2024-04-03,2024-04-20,Admin
+T-1470,Critical,On Hold,Software,Email Not Working,Automatically generated ticket #471,2023-10-27,,Sara
+T-1471,Critical,In Progress,Network,Email Not Working,Automatically generated ticket #472,2023-08-07,2023-08-17,SecurityTeam
+T-1472,Low,In Progress,Access Request,Slow Internet,Automatically generated ticket #473,2023-12-07,2023-12-10,ITSupport
+T-1473,Low,In Progress,Email,Malware Detected,Automatically generated ticket #474,2024-04-11,2024-04-12,Anna
+T-1474,Medium,Resolved,Network,Printer Not Responding,Automatically generated ticket #475,2023-08-02,2023-08-17,Michael
+T-1475,Medium,In Progress,Network,VPN Issue,Automatically generated ticket #476,2024-08-17,,Michael
+T-1476,High,On Hold,Access Request,Printer Not Responding,Automatically generated ticket #477,2024-10-07,2024-10-26,Michael
+T-1477,Medium,Resolved,Network,Software Installation Request,Automatically generated ticket #478,2024-04-11,,Michael
+T-1478,Medium,In Progress,Hardware,Malware Detected,Automatically generated ticket #479,2023-09-23,2023-10-11,Anna
+T-1479,Low,In Progress,Email,System Crash,Automatically generated ticket #480,2024-07-17,2024-08-04,Michael
+T-1480,High,On Hold,Hardware,Slow Internet,Automatically generated ticket #481,2023-03-17,2023-04-05,Anna
+T-1481,High,Open,Email,Software Installation Request,Automatically generated ticket #482,2023-02-09,2023-02-25,Michael
+T-1482,High,Open,Security,Printer Not Responding,Automatically generated ticket #483,2023-08-11,2023-08-12,SecurityTeam
+T-1483,Critical,Resolved,Software,Printer Not Responding,Automatically generated ticket #484,2023-06-07,,Admin
+T-1484,High,Open,Software,Printer Not Responding,Automatically generated ticket #485,2023-08-16,,ITSupport
+T-1485,Low,Resolved,Security,Malware Detected,Automatically generated ticket #486,2024-04-20,2024-05-05,ITSupport
+T-1486,Medium,On Hold,Access Request,Account Locked,Automatically generated ticket #487,2024-02-27,2024-02-29,ITSupport
+T-1487,High,In Progress,Security,Slow Internet,Automatically generated ticket #488,2024-08-15,,Michael
+T-1488,High,On Hold,Hardware,Unauthorized Login Attempt,Automatically generated ticket #489,2024-02-20,2024-03-08,David
+T-1489,Critical,On Hold,Hardware,VPN Issue,Automatically generated ticket #490,2024-10-17,2024-10-22,Admin
+T-1490,Critical,Resolved,Software,Printer Not Responding,Automatically generated ticket #491,2024-08-15,2024-08-17,David
+T-1491,Low,On Hold,Email,Printer Not Responding,Automatically generated ticket #492,2023-10-07,,Anna
+T-1492,Medium,Open,Security,Email Not Working,Automatically generated ticket #493,2024-08-12,2024-08-25,Admin
+T-1493,High,In Progress,Security,Password Reset,Automatically generated ticket #494,2023-05-11,2023-05-14,Admin
+T-1494,Low,On Hold,Hardware,Unauthorized Login Attempt,Automatically generated ticket #495,2024-05-26,,SecurityTeam
+T-1495,High,Open,Access Request,Printer Not Responding,Automatically generated ticket #496,2023-08-15,2023-09-04,SecurityTeam
+T-1496,Medium,In Progress,Access Request,Password Reset,Automatically generated ticket #497,2023-07-11,2023-07-21,David
+T-1497,Medium,On Hold,Hardware,Password Reset,Automatically generated ticket #498,2023-02-02,2023-02-12,Admin
+T-1498,Medium,Resolved,Access Request,Password Reset,Automatically generated ticket #499,2024-02-06,,Admin
+T-1499,High,On Hold,Security,Printer Not Responding,Automatically generated ticket #500,2024-05-31,2024-06-05,Admin
+T-1500,High,In Progress,Access Request,System Crash,Automatically generated ticket #501,2023-04-06,2023-04-21,Michael
+T-1501,Low,Resolved,Software,Account Locked,Automatically generated ticket #502,2024-08-10,,David
+T-1502,Medium,Resolved,Network,Account Locked,Automatically generated ticket #503,2024-07-02,2024-07-06,Sara
+T-1503,Low,Resolved,Hardware,Printer Not Responding,Automatically generated ticket #504,2023-07-06,2023-07-11,ITSupport
+T-1504,High,Resolved,Email,System Crash,Automatically generated ticket #505,2024-01-12,,Anna
+T-1505,Medium,On Hold,Hardware,Slow Internet,Automatically generated ticket #506,2023-09-28,2023-10-16,Sara
+T-1506,High,Open,Email,Password Reset,Automatically generated ticket #507,2024-01-04,2024-01-17,David
+T-1507,High,On Hold,Security,Software Installation Request,Automatically generated ticket #508,2023-04-08,2023-04-22,ITSupport
+T-1508,Medium,On Hold,Access Request,Printer Not Responding,Automatically generated ticket #509,2023-05-23,2023-06-09,David
+T-1509,High,On Hold,Hardware,Slow Internet,Automatically generated ticket #510,2024-09-28,2024-10-11,SecurityTeam
+T-1510,Critical,On Hold,Access Request,Unauthorized Login Attempt,Automatically generated ticket #511,2024-03-03,2024-03-23,Admin
+T-1511,High,In Progress,Security,Malware Detected,Automatically generated ticket #512,2024-04-27,,Admin
+T-1512,Critical,In Progress,Email,Password Reset,Automatically generated ticket #513,2024-09-08,2024-09-19,SecurityTeam
+T-1513,Critical,Resolved,Network,Unauthorized Login Attempt,Automatically generated ticket #514,2023-09-26,2023-10-02,David
+T-1514,Low,In Progress,Hardware,Software Installation Request,Automatically generated ticket #515,2024-08-15,2024-08-24,Sara
+T-1515,Low,In Progress,Security,Slow Internet,Automatically generated ticket #516,2023-01-11,2023-01-15,ITSupport
+T-1516,Low,Open,Security,Email Not Working,Automatically generated ticket #517,2023-06-01,2023-06-18,SecurityTeam
+T-1517,Low,Open,Email,Software Installation Request,Automatically generated ticket #518,2023-05-30,2023-06-04,David
+T-1518,Medium,Open,Security,System Crash,Automatically generated ticket #519,2023-12-14,2023-12-25,SecurityTeam
+T-1519,Low,Open,Hardware,Slow Internet,Automatically generated ticket #520,2024-08-20,,David
+T-1520,Critical,Open,Access Request,System Crash,Automatically generated ticket #521,2024-09-22,,Admin
+T-1521,Low,Resolved,Software,Printer Not Responding,Automatically generated ticket #522,2024-03-30,2024-04-04,Michael
+T-1522,Critical,In Progress,Software,VPN Issue,Automatically generated ticket #523,2023-04-30,2023-05-16,Michael
+T-1523,Medium,Open,Hardware,Slow Internet,Automatically generated ticket #524,2023-09-03,,Admin
+T-1524,Critical,Open,Access Request,Software Installation Request,Automatically generated ticket #525,2023-03-01,,Michael
+T-1525,Medium,Resolved,Security,Password Reset,Automatically generated ticket #526,2024-10-25,2024-11-01,Sara
+T-1526,Critical,On Hold,Email,Software Installation Request,Automatically generated ticket #527,2024-05-08,2024-05-23,Michael
+T-1527,Critical,Resolved,Security,System Crash,Automatically generated ticket #528,2023-09-09,2023-09-17,David
+T-1528,Low,On Hold,Software,Email Not Working,Automatically generated ticket #529,2023-08-01,2023-08-17,David
+T-1529,High,On Hold,Software,Software Installation Request,Automatically generated ticket #530,2023-03-13,,Admin
+T-1530,Critical,In Progress,Access Request,VPN Issue,Automatically generated ticket #531,2023-08-31,2023-09-02,ITSupport
+T-1531,High,Open,Security,Unauthorized Login Attempt,Automatically generated ticket #532,2024-01-22,2024-02-05,SecurityTeam
+T-1532,Low,Open,Network,Software Installation Request,Automatically generated ticket #533,2024-06-14,2024-07-01,David
+T-1533,Medium,Resolved,Software,Password Reset,Automatically generated ticket #534,2024-05-20,,Sara
+T-1534,Low,Open,Security,Printer Not Responding,Automatically generated ticket #535,2023-08-06,2023-08-20,David
+T-1535,High,Resolved,Access Request,VPN Issue,Automatically generated ticket #536,2023-02-21,,SecurityTeam
+T-1536,Medium,Open,Hardware,Password Reset,Automatically generated ticket #537,2023-01-19,2023-02-08,David
+T-1537,Critical,Resolved,Email,Printer Not Responding,Automatically generated ticket #538,2023-07-05,,Admin
+T-1538,Low,In Progress,Email,Slow Internet,Automatically generated ticket #539,2023-12-16,2023-12-30,SecurityTeam
+T-1539,Medium,Open,Software,Password Reset,Automatically generated ticket #540,2024-01-29,2024-02-07,Admin
+T-1540,Medium,On Hold,Network,Software Installation Request,Automatically generated ticket #541,2024-08-06,,Michael
+T-1541,Critical,Resolved,Email,VPN Issue,Automatically generated ticket #542,2024-03-01,2024-03-10,Sara
+T-1542,High,Open,Security,VPN Issue,Automatically generated ticket #543,2023-07-10,2023-07-19,Sara
+T-1543,Critical,In Progress,Network,Malware Detected,Automatically generated ticket #544,2023-01-19,,Sara
+T-1544,Low,In Progress,Hardware,Account Locked,Automatically generated ticket #545,2024-04-05,2024-04-12,SecurityTeam
+T-1545,Critical,Resolved,Access Request,Password Reset,Automatically generated ticket #546,2024-04-04,,SecurityTeam
+T-1546,Low,In Progress,Access Request,Software Installation Request,Automatically generated ticket #547,2023-12-26,,Michael
+T-1547,Low,Resolved,Security,Account Locked,Automatically generated ticket #548,2023-02-12,2023-02-15,Michael
+T-1548,High,In Progress,Access Request,System Crash,Automatically generated ticket #549,2024-02-02,,Michael
+T-1549,Medium,Open,Software,Slow Internet,Automatically generated ticket #550,2024-05-12,,Michael
+T-1550,Critical,On Hold,Network,Unauthorized Login Attempt,Automatically generated ticket #551,2023-12-30,2024-01-17,Michael
+T-1551,High,Open,Security,Account Locked,Automatically generated ticket #552,2023-07-13,2023-08-02,ITSupport
+T-1552,Low,In Progress,Access Request,Software Installation Request,Automatically generated ticket #553,2024-10-11,,ITSupport
+T-1553,Low,Resolved,Hardware,Malware Detected,Automatically generated ticket #554,2023-02-17,2023-03-07,David
+T-1554,Critical,In Progress,Network,Printer Not Responding,Automatically generated ticket #555,2024-10-10,2024-10-20,Michael
+T-1555,High,Resolved,Network,Account Locked,Automatically generated ticket #556,2024-08-11,2024-08-30,ITSupport
+T-1556,Critical,Open,Software,Printer Not Responding,Automatically generated ticket #557,2023-05-18,2023-05-24,David
+T-1557,Low,On Hold,Hardware,Malware Detected,Automatically generated ticket #558,2024-05-26,2024-06-04,Michael
+T-1558,Low,In Progress,Network,Slow Internet,Automatically generated ticket #559,2023-07-04,2023-07-11,ITSupport
+T-1559,Medium,In Progress,Network,Slow Internet,Automatically generated ticket #560,2023-01-12,2023-01-22,Anna
+T-1560,Critical,Resolved,Email,Email Not Working,Automatically generated ticket #561,2024-04-21,2024-04-27,Anna
+T-1561,Medium,In Progress,Hardware,Slow Internet,Automatically generated ticket #562,2023-05-09,2023-05-14,ITSupport
+T-1562,Low,Open,Security,Software Installation Request,Automatically generated ticket #563,2023-12-23,2024-01-06,SecurityTeam
+T-1563,Medium,Resolved,Access Request,Software Installation Request,Automatically generated ticket #564,2024-07-03,2024-07-21,David
+T-1564,Low,Open,Software,Malware Detected,Automatically generated ticket #565,2023-04-24,,Admin
+T-1565,Medium,Resolved,Network,Malware Detected,Automatically generated ticket #566,2024-01-27,2024-02-03,Michael
+T-1566,High,In Progress,Access Request,System Crash,Automatically generated ticket #567,2024-04-14,,SecurityTeam
+T-1567,Low,In Progress,Hardware,Slow Internet,Automatically generated ticket #568,2024-07-14,2024-07-28,ITSupport
+T-1568,Critical,On Hold,Email,Password Reset,Automatically generated ticket #569,2023-07-03,2023-07-14,SecurityTeam
+T-1569,Low,Resolved,Email,System Crash,Automatically generated ticket #570,2024-03-31,2024-04-15,Michael
+T-1570,Medium,Resolved,Network,Malware Detected,Automatically generated ticket #571,2024-07-23,2024-07-31,Michael
+T-1571,High,In Progress,Access Request,Password Reset,Automatically generated ticket #572,2024-06-02,2024-06-09,Anna
+T-1572,Low,In Progress,Access Request,System Crash,Automatically generated ticket #573,2023-06-18,,David
+T-1573,High,In Progress,Software,Unauthorized Login Attempt,Automatically generated ticket #574,2023-10-20,2023-11-09,SecurityTeam
+T-1574,Low,Resolved,Email,VPN Issue,Automatically generated ticket #575,2024-04-27,2024-04-29,SecurityTeam
+T-1575,Low,On Hold,Access Request,Password Reset,Automatically generated ticket #576,2023-12-31,2024-01-14,Admin
+T-1576,Medium,On Hold,Network,Printer Not Responding,Automatically generated ticket #577,2023-09-12,2023-09-27,SecurityTeam
+T-1577,Critical,In Progress,Email,Software Installation Request,Automatically generated ticket #578,2024-10-26,2024-10-29,Sara
+T-1578,Medium,In Progress,Hardware,System Crash,Automatically generated ticket #579,2024-06-08,,David
+T-1579,Low,On Hold,Software,Malware Detected,Automatically generated ticket #580,2024-01-05,,David
+T-1580,Medium,Resolved,Network,Slow Internet,Automatically generated ticket #581,2024-08-29,,Admin
+T-1581,Critical,In Progress,Email,Unauthorized Login Attempt,Automatically generated ticket #582,2024-08-06,2024-08-24,Sara
+T-1582,High,On Hold,Email,VPN Issue,Automatically generated ticket #583,2024-05-19,,Admin
+T-1583,Critical,In Progress,Software,Software Installation Request,Automatically generated ticket #584,2023-01-21,2023-01-30,Michael
+T-1584,Low,Resolved,Network,Unauthorized Login Attempt,Automatically generated ticket #585,2024-07-22,2024-08-08,Anna
+T-1585,Low,In Progress,Software,Software Installation Request,Automatically generated ticket #586,2023-02-02,,Anna
+T-1586,Low,Open,Hardware,Email Not Working,Automatically generated ticket #587,2024-01-31,2024-02-07,ITSupport
+T-1587,Critical,On Hold,Email,VPN Issue,Automatically generated ticket #588,2024-09-10,2024-09-30,ITSupport
+T-1588,Medium,Open,Security,Email Not Working,Automatically generated ticket #589,2023-12-24,,Anna
+T-1589,Critical,Resolved,Access Request,Account Locked,Automatically generated ticket #590,2023-05-01,,Michael
+T-1590,High,Resolved,Hardware,Unauthorized Login Attempt,Automatically generated ticket #591,2023-07-10,2023-07-27,Sara
+T-1591,Critical,On Hold,Security,Unauthorized Login Attempt,Automatically generated ticket #592,2023-07-28,,Anna
+T-1592,Medium,On Hold,Email,Email Not Working,Automatically generated ticket #593,2023-11-08,2023-11-17,Anna
+T-1593,High,Open,Email,VPN Issue,Automatically generated ticket #594,2024-08-14,2024-08-21,SecurityTeam
+T-1594,Critical,On Hold,Software,VPN Issue,Automatically generated ticket #595,2023-08-25,,Admin
+T-1595,Critical,Open,Email,Malware Detected,Automatically generated ticket #596,2024-06-08,2024-06-13,Anna
+T-1596,High,Open,Security,Printer Not Responding,Automatically generated ticket #597,2024-10-30,2024-11-16,David
+T-1597,Medium,On Hold,Access Request,Password Reset,Automatically generated ticket #598,2023-07-03,2023-07-10,Anna
+T-1598,Low,Open,Hardware,Printer Not Responding,Automatically generated ticket #599,2024-06-30,,Admin
+T-1599,Low,Open,Security,Password Reset,Automatically generated ticket #600,2023-09-03,2023-09-11,Michael
+T-1600,Low,In Progress,Access Request,Account Locked,Automatically generated ticket #601,2024-09-14,2024-09-24,ITSupport
+T-1601,High,On Hold,Network,Slow Internet,Automatically generated ticket #602,2023-05-31,2023-06-06,Sara
+T-1602,High,Resolved,Email,Printer Not Responding,Automatically generated ticket #603,2024-03-31,2024-04-11,David
+T-1603,Medium,On Hold,Access Request,Account Locked,Automatically generated ticket #604,2024-10-22,2024-10-26,David
+T-1604,Medium,In Progress,Email,VPN Issue,Automatically generated ticket #605,2023-06-21,2023-07-07,Sara
+T-1605,High,On Hold,Security,Email Not Working,Automatically generated ticket #606,2023-09-25,2023-10-02,David
+T-1606,Critical,Open,Access Request,Malware Detected,Automatically generated ticket #607,2024-08-15,,Sara
+T-1607,High,Open,Security,Software Installation Request,Automatically generated ticket #608,2023-10-02,,Sara
+T-1608,High,Resolved,Security,Slow Internet,Automatically generated ticket #609,2023-04-29,,Michael
+T-1609,Low,On Hold,Software,Account Locked,Automatically generated ticket #610,2023-07-22,2023-08-05,Anna
+T-1610,Critical,Resolved,Security,Unauthorized Login Attempt,Automatically generated ticket #611,2023-02-20,2023-03-08,ITSupport
+T-1611,Critical,In Progress,Network,Printer Not Responding,Automatically generated ticket #612,2024-07-16,2024-08-01,David
+T-1612,Low,Open,Software,Account Locked,Automatically generated ticket #613,2024-07-14,2024-07-16,SecurityTeam
+T-1613,Critical,Resolved,Hardware,Email Not Working,Automatically generated ticket #614,2023-10-18,2023-10-25,Admin
+T-1614,High,Open,Hardware,Password Reset,Automatically generated ticket #615,2023-01-03,,Anna
+T-1615,Medium,On Hold,Software,Password Reset,Automatically generated ticket #616,2023-10-28,,ITSupport
+T-1616,Critical,Resolved,Network,Password Reset,Automatically generated ticket #617,2024-03-29,2024-04-18,Admin
+T-1617,Critical,In Progress,Network,Printer Not Responding,Automatically generated ticket #618,2024-01-11,2024-01-31,Admin
+T-1618,Medium,Open,Hardware,Email Not Working,Automatically generated ticket #619,2023-08-11,2023-08-13,Sara
+T-1619,High,In Progress,Email,Printer Not Responding,Automatically generated ticket #620,2023-12-20,2024-01-06,SecurityTeam
+T-1620,Medium,In Progress,Network,Malware Detected,Automatically generated ticket #621,2024-09-24,2024-10-09,David
+T-1621,Low,Open,Access Request,System Crash,Automatically generated ticket #622,2023-03-17,2023-04-01,David
+T-1622,Low,On Hold,Email,VPN Issue,Automatically generated ticket #623,2024-05-06,,Sara
+T-1623,Low,Resolved,Network,Password Reset,Automatically generated ticket #624,2024-10-08,2024-10-09,Admin
+T-1624,Medium,Open,Security,Email Not Working,Automatically generated ticket #625,2023-08-01,2023-08-17,SecurityTeam
+T-1625,Low,Resolved,Email,Password Reset,Automatically generated ticket #626,2024-08-08,2024-08-09,David
+T-1626,Critical,Open,Hardware,VPN Issue,Automatically generated ticket #627,2024-09-06,2024-09-13,SecurityTeam
+T-1627,High,Resolved,Access Request,Printer Not Responding,Automatically generated ticket #628,2023-04-25,2023-04-28,Admin
+T-1628,Medium,In Progress,Email,Email Not Working,Automatically generated ticket #629,2023-11-30,2023-12-17,Sara
+T-1629,Critical,Resolved,Email,Email Not Working,Automatically generated ticket #630,2024-01-07,2024-01-25,Anna
+T-1630,High,In Progress,Email,Slow Internet,Automatically generated ticket #631,2023-02-01,2023-02-16,SecurityTeam
+T-1631,Critical,Resolved,Email,Malware Detected,Automatically generated ticket #632,2024-11-26,2024-12-07,SecurityTeam
+T-1632,Medium,On Hold,Security,Unauthorized Login Attempt,Automatically generated ticket #633,2024-04-01,2024-04-03,Admin
+T-1633,Low,Resolved,Access Request,Printer Not Responding,Automatically generated ticket #634,2023-07-28,2023-08-14,Anna
+T-1634,High,In Progress,Network,System Crash,Automatically generated ticket #635,2023-12-27,2024-01-12,ITSupport
+T-1635,Low,Open,Security,Printer Not Responding,Automatically generated ticket #636,2023-09-29,,Michael
+T-1636,Medium,Open,Security,Printer Not Responding,Automatically generated ticket #637,2023-05-19,2023-06-05,Sara
+T-1637,High,Open,Access Request,System Crash,Automatically generated ticket #638,2024-11-24,2024-12-10,Michael
+T-1638,Medium,Resolved,Email,Email Not Working,Automatically generated ticket #639,2024-11-02,2024-11-20,Sara
+T-1639,Critical,Resolved,Hardware,Password Reset,Automatically generated ticket #640,2024-09-28,2024-10-17,ITSupport
+T-1640,High,Open,Software,Malware Detected,Automatically generated ticket #641,2023-10-04,2023-10-19,Michael
+T-1641,High,Open,Hardware,Slow Internet,Automatically generated ticket #642,2023-03-21,,Michael
+T-1642,High,Resolved,Access Request,VPN Issue,Automatically generated ticket #643,2024-07-07,2024-07-12,SecurityTeam
+T-1643,Low,Open,Security,Password Reset,Automatically generated ticket #644,2024-05-28,2024-06-17,Anna
+T-1644,Medium,On Hold,Network,Account Locked,Automatically generated ticket #645,2023-03-15,,ITSupport
+T-1645,Medium,On Hold,Email,VPN Issue,Automatically generated ticket #646,2023-09-11,2023-09-24,SecurityTeam
+T-1646,High,On Hold,Email,Unauthorized Login Attempt,Automatically generated ticket #647,2023-01-26,,ITSupport
+T-1647,Medium,Resolved,Hardware,Email Not Working,Automatically generated ticket #648,2023-10-04,2023-10-24,David
+T-1648,Critical,In Progress,Hardware,Slow Internet,Automatically generated ticket #649,2024-01-25,2024-01-28,Michael
+T-1649,Medium,In Progress,Network,VPN Issue,Automatically generated ticket #650,2023-10-14,,Sara
+T-1650,Low,On Hold,Email,Unauthorized Login Attempt,Automatically generated ticket #651,2023-03-18,2023-03-28,David
+T-1651,Low,Resolved,Access Request,Account Locked,Automatically generated ticket #652,2024-02-24,2024-03-14,David
+T-1652,Low,Open,Network,Printer Not Responding,Automatically generated ticket #653,2023-04-09,2023-04-19,SecurityTeam
+T-1653,Critical,On Hold,Hardware,Password Reset,Automatically generated ticket #654,2024-03-29,,Admin
+T-1654,Critical,In Progress,Email,System Crash,Automatically generated ticket #655,2023-02-02,,ITSupport
+T-1655,High,In Progress,Network,Password Reset,Automatically generated ticket #656,2024-10-22,2024-10-23,Admin
+T-1656,Low,In Progress,Software,Malware Detected,Automatically generated ticket #657,2023-03-16,2023-04-03,Admin
+T-1657,Critical,On Hold,Network,Software Installation Request,Automatically generated ticket #658,2024-11-24,,Sara
+T-1658,Low,On Hold,Hardware,Email Not Working,Automatically generated ticket #659,2024-05-08,,SecurityTeam
+T-1659,Low,On Hold,Email,Password Reset,Automatically generated ticket #660,2023-08-23,,ITSupport
+T-1660,Low,Open,Email,Malware Detected,Automatically generated ticket #661,2023-10-24,2023-11-07,SecurityTeam
+T-1661,Low,Resolved,Software,Malware Detected,Automatically generated ticket #662,2023-11-27,2023-12-10,Michael
+T-1662,Low,In Progress,Network,Account Locked,Automatically generated ticket #663,2023-03-29,2023-04-02,ITSupport
+T-1663,Low,Open,Security,Printer Not Responding,Automatically generated ticket #664,2023-10-10,2023-10-14,SecurityTeam
+T-1664,Low,In Progress,Network,Malware Detected,Automatically generated ticket #665,2023-03-27,,ITSupport
+T-1665,Critical,Resolved,Access Request,Software Installation Request,Automatically generated ticket #666,2023-08-12,2023-08-23,SecurityTeam
+T-1666,Low,Resolved,Network,VPN Issue,Automatically generated ticket #667,2023-05-06,2023-05-19,Admin
+T-1667,Medium,On Hold,Email,Unauthorized Login Attempt,Automatically generated ticket #668,2024-10-12,,Michael
+T-1668,Critical,Resolved,Hardware,System Crash,Automatically generated ticket #669,2024-10-01,,Sara
+T-1669,High,Open,Email,Password Reset,Automatically generated ticket #670,2023-08-14,2023-09-01,Michael
+T-1670,Medium,Open,Network,Password Reset,Automatically generated ticket #671,2024-08-09,2024-08-25,David
+T-1671,Low,On Hold,Access Request,Software Installation Request,Automatically generated ticket #672,2023-09-12,,Admin
+T-1672,High,Resolved,Security,Unauthorized Login Attempt,Automatically generated ticket #673,2024-02-23,2024-03-13,Anna
+T-1673,High,In Progress,Software,VPN Issue,Automatically generated ticket #674,2024-11-27,2024-12-13,SecurityTeam
+T-1674,High,Open,Security,Slow Internet,Automatically generated ticket #675,2024-09-25,,SecurityTeam
+T-1675,Medium,Open,Hardware,Password Reset,Automatically generated ticket #676,2023-02-21,,Sara
+T-1676,Low,Open,Access Request,Malware Detected,Automatically generated ticket #677,2024-04-13,2024-04-28,ITSupport
+T-1677,High,Resolved,Hardware,Software Installation Request,Automatically generated ticket #678,2023-05-31,,Sara
+T-1678,High,On Hold,Email,Software Installation Request,Automatically generated ticket #679,2023-10-05,,ITSupport
+T-1679,Critical,Resolved,Email,Software Installation Request,Automatically generated ticket #680,2023-09-02,,SecurityTeam
+T-1680,Medium,On Hold,Security,Slow Internet,Automatically generated ticket #681,2024-02-08,,Sara
+T-1681,Low,Resolved,Hardware,Unauthorized Login Attempt,Automatically generated ticket #682,2023-08-05,2023-08-22,Sara
+T-1682,Low,Resolved,Hardware,Slow Internet,Automatically generated ticket #683,2023-01-16,2023-02-02,SecurityTeam
+T-1683,Medium,In Progress,Access Request,Password Reset,Automatically generated ticket #684,2024-02-09,2024-02-12,David
+T-1684,Low,Open,Software,Slow Internet,Automatically generated ticket #685,2023-06-12,2023-06-27,Admin
+T-1685,High,Open,Network,Malware Detected,Automatically generated ticket #686,2023-11-27,2023-12-16,Anna
+T-1686,Medium,Open,Access Request,Printer Not Responding,Automatically generated ticket #687,2023-05-28,,ITSupport
+T-1687,Low,On Hold,Email,Account Locked,Automatically generated ticket #688,2023-05-15,,ITSupport
+T-1688,High,Open,Email,VPN Issue,Automatically generated ticket #689,2023-11-25,2023-12-02,Anna
+T-1689,Critical,Open,Security,Unauthorized Login Attempt,Automatically generated ticket #690,2023-09-14,2023-09-15,Sara
+T-1690,High,In Progress,Network,Slow Internet,Automatically generated ticket #691,2024-10-28,2024-11-13,Anna
+T-1691,Low,Resolved,Software,Software Installation Request,Automatically generated ticket #692,2023-12-20,2023-12-27,Admin
+T-1692,Medium,In Progress,Network,Printer Not Responding,Automatically generated ticket #693,2023-07-28,,ITSupport
+T-1693,High,In Progress,Security,Printer Not Responding,Automatically generated ticket #694,2023-08-12,2023-08-14,Anna
+T-1694,Low,On Hold,Access Request,Account Locked,Automatically generated ticket #695,2024-11-25,2024-12-12,Michael
+T-1695,High,Open,Hardware,Slow Internet,Automatically generated ticket #696,2023-12-29,2024-01-11,David
+T-1696,Low,Resolved,Email,VPN Issue,Automatically generated ticket #697,2024-07-05,2024-07-14,David
+T-1697,High,In Progress,Hardware,Email Not Working,Automatically generated ticket #698,2024-11-06,,Anna
+T-1698,Critical,On Hold,Security,Software Installation Request,Automatically generated ticket #699,2024-04-26,2024-05-01,ITSupport
+T-1699,High,On Hold,Network,Email Not Working,Automatically generated ticket #700,2024-09-17,,Anna
+T-1700,Critical,Resolved,Software,Software Installation Request,Automatically generated ticket #701,2024-08-10,,Sara
+T-1701,Critical,On Hold,Email,Malware Detected,Automatically generated ticket #702,2023-08-12,2023-08-22,Sara
+T-1702,High,In Progress,Security,VPN Issue,Automatically generated ticket #703,2024-02-21,2024-03-03,Admin
+T-1703,Medium,In Progress,Software,Printer Not Responding,Automatically generated ticket #704,2023-10-07,2023-10-13,Michael
+T-1704,Low,Open,Software,VPN Issue,Automatically generated ticket #705,2023-05-03,,Sara
+T-1705,Critical,Open,Access Request,System Crash,Automatically generated ticket #706,2023-02-28,2023-03-01,Admin
+T-1706,High,Open,Software,VPN Issue,Automatically generated ticket #707,2023-08-08,,Anna
+T-1707,Critical,In Progress,Email,Account Locked,Automatically generated ticket #708,2023-06-02,2023-06-13,Anna
+T-1708,Low,Open,Email,Software Installation Request,Automatically generated ticket #709,2024-11-26,2024-11-29,ITSupport
+T-1709,High,On Hold,Email,VPN Issue,Automatically generated ticket #710,2023-12-21,,Anna
+T-1710,Low,Resolved,Software,Account Locked,Automatically generated ticket #711,2024-03-23,2024-03-29,SecurityTeam
+T-1711,Medium,Resolved,Security,Password Reset,Automatically generated ticket #712,2024-09-14,2024-09-30,Anna
+T-1712,Low,On Hold,Access Request,Password Reset,Automatically generated ticket #713,2023-02-02,,Admin
+T-1713,High,Resolved,Access Request,Printer Not Responding,Automatically generated ticket #714,2024-04-24,2024-05-14,Sara
+T-1714,High,Open,Network,Printer Not Responding,Automatically generated ticket #715,2024-08-27,2024-09-04,Sara
+T-1715,Medium,In Progress,Network,Password Reset,Automatically generated ticket #716,2024-01-01,,SecurityTeam
+T-1716,Medium,In Progress,Hardware,Email Not Working,Automatically generated ticket #717,2024-11-16,,David
+T-1717,Low,Open,Security,Unauthorized Login Attempt,Automatically generated ticket #718,2024-02-07,,SecurityTeam
+T-1718,Medium,Resolved,Email,System Crash,Automatically generated ticket #719,2023-01-14,2023-01-24,SecurityTeam
+T-1719,Critical,In Progress,Software,Printer Not Responding,Automatically generated ticket #720,2024-01-12,,ITSupport
+T-1720,Low,Resolved,Network,VPN Issue,Automatically generated ticket #721,2023-05-14,2023-05-21,Michael
+T-1721,Critical,Open,Network,Account Locked,Automatically generated ticket #722,2024-07-17,2024-07-19,Admin
+T-1722,Medium,Open,Hardware,Account Locked,Automatically generated ticket #723,2023-04-06,2023-04-24,Anna
+T-1723,High,Resolved,Hardware,Password Reset,Automatically generated ticket #724,2024-08-14,2024-09-03,ITSupport
+T-1724,Critical,Open,Access Request,Unauthorized Login Attempt,Automatically generated ticket #725,2024-06-06,2024-06-10,David
+T-1725,Medium,In Progress,Email,Account Locked,Automatically generated ticket #726,2023-11-14,2023-11-15,SecurityTeam
+T-1726,Low,In Progress,Access Request,Printer Not Responding,Automatically generated ticket #727,2023-08-30,2023-09-16,Sara
+T-1727,Critical,Resolved,Email,Software Installation Request,Automatically generated ticket #728,2024-06-03,2024-06-04,David
+T-1728,High,On Hold,Email,VPN Issue,Automatically generated ticket #729,2023-10-13,2023-10-30,Admin
+T-1729,High,On Hold,Software,VPN Issue,Automatically generated ticket #730,2024-02-13,2024-02-14,Sara
+T-1730,High,On Hold,Access Request,Software Installation Request,Automatically generated ticket #731,2024-09-20,2024-09-26,Michael
+T-1731,Low,On Hold,Security,Unauthorized Login Attempt,Automatically generated ticket #732,2023-07-22,,SecurityTeam
+T-1732,High,Resolved,Network,Password Reset,Automatically generated ticket #733,2024-01-04,2024-01-09,Sara
+T-1733,High,On Hold,Security,Account Locked,Automatically generated ticket #734,2024-01-29,,Michael
+T-1734,High,Resolved,Email,Software Installation Request,Automatically generated ticket #735,2023-09-14,2023-09-27,David
+T-1735,Medium,In Progress,Software,System Crash,Automatically generated ticket #736,2023-12-10,,SecurityTeam
+T-1736,Critical,Resolved,Software,Account Locked,Automatically generated ticket #737,2023-12-03,,SecurityTeam
+T-1737,Low,Open,Network,Malware Detected,Automatically generated ticket #738,2023-02-15,,ITSupport
+T-1738,Medium,Resolved,Email,Software Installation Request,Automatically generated ticket #739,2023-08-25,,Michael
+T-1739,Low,On Hold,Access Request,Malware Detected,Automatically generated ticket #740,2023-03-25,2023-04-14,SecurityTeam
+T-1740,Critical,In Progress,Access Request,Unauthorized Login Attempt,Automatically generated ticket #741,2023-01-08,2023-01-20,David
+T-1741,Medium,In Progress,Hardware,System Crash,Automatically generated ticket #742,2023-08-31,2023-09-03,Michael
+T-1742,High,Open,Security,Slow Internet,Automatically generated ticket #743,2023-11-07,2023-11-08,David
+T-1743,Low,On Hold,Network,Slow Internet,Automatically generated ticket #744,2023-04-09,2023-04-22,Anna
+T-1744,High,Open,Network,Password Reset,Automatically generated ticket #745,2023-05-05,2023-05-22,Sara
+T-1745,Low,Resolved,Email,Unauthorized Login Attempt,Automatically generated ticket #746,2023-08-05,,Anna
+T-1746,High,Open,Email,Email Not Working,Automatically generated ticket #747,2023-06-18,2023-07-04,David
+T-1747,Medium,Open,Access Request,Account Locked,Automatically generated ticket #748,2023-07-23,2023-08-09,Anna
+T-1748,Low,On Hold,Software,Slow Internet,Automatically generated ticket #749,2024-05-22,2024-05-26,ITSupport
+T-1749,High,Resolved,Access Request,System Crash,Automatically generated ticket #750,2023-10-29,2023-11-02,David
+T-1750,High,Open,Security,System Crash,Automatically generated ticket #751,2024-06-19,,Anna
+T-1751,Low,In Progress,Network,Malware Detected,Automatically generated ticket #752,2023-05-16,2023-05-28,SecurityTeam
+T-1752,Medium,Open,Software,Malware Detected,Automatically generated ticket #753,2023-03-20,2023-04-08,David
+T-1753,High,In Progress,Software,Unauthorized Login Attempt,Automatically generated ticket #754,2024-10-05,,ITSupport
+T-1754,Critical,In Progress,Access Request,VPN Issue,Automatically generated ticket #755,2024-03-25,2024-03-29,David
+T-1755,Medium,Resolved,Security,VPN Issue,Automatically generated ticket #756,2023-07-05,2023-07-24,David
+T-1756,Medium,On Hold,Hardware,Software Installation Request,Automatically generated ticket #757,2024-04-25,2024-05-03,SecurityTeam
+T-1757,High,Open,Email,Account Locked,Automatically generated ticket #758,2023-04-14,2023-05-03,Michael
+T-1758,Low,In Progress,Email,Password Reset,Automatically generated ticket #759,2023-08-12,,Sara
+T-1759,Medium,In Progress,Hardware,Software Installation Request,Automatically generated ticket #760,2024-09-12,2024-09-25,SecurityTeam
+T-1760,Critical,Open,Software,Software Installation Request,Automatically generated ticket #761,2024-07-02,2024-07-22,Anna
+T-1761,High,Open,Hardware,Password Reset,Automatically generated ticket #762,2023-12-17,2024-01-02,Sara
+T-1762,Low,Open,Software,Email Not Working,Automatically generated ticket #763,2023-10-26,2023-11-14,ITSupport
+T-1763,Medium,Resolved,Hardware,Password Reset,Automatically generated ticket #764,2023-01-01,,David
+T-1764,High,On Hold,Software,Software Installation Request,Automatically generated ticket #765,2023-05-22,2023-05-27,SecurityTeam
+T-1765,High,In Progress,Email,Account Locked,Automatically generated ticket #766,2024-09-30,2024-10-20,ITSupport
+T-1766,Low,On Hold,Email,Printer Not Responding,Automatically generated ticket #767,2024-06-15,,David
+T-1767,High,Open,Network,Account Locked,Automatically generated ticket #768,2023-06-04,2023-06-05,ITSupport
+T-1768,Low,On Hold,Security,VPN Issue,Automatically generated ticket #769,2024-05-27,,ITSupport
+T-1769,Low,In Progress,Hardware,Unauthorized Login Attempt,Automatically generated ticket #770,2024-10-17,2024-10-22,David
+T-1770,High,On Hold,Network,System Crash,Automatically generated ticket #771,2023-12-05,2023-12-09,David
+T-1771,Low,In Progress,Email,Printer Not Responding,Automatically generated ticket #772,2023-05-31,2023-06-04,Anna
+T-1772,Medium,Resolved,Security,Slow Internet,Automatically generated ticket #773,2024-07-25,2024-07-27,Anna
+T-1773,High,In Progress,Security,System Crash,Automatically generated ticket #774,2023-02-14,2023-03-04,Admin
+T-1774,Critical,In Progress,Security,Software Installation Request,Automatically generated ticket #775,2023-09-12,2023-10-01,Admin
+T-1775,High,On Hold,Security,Printer Not Responding,Automatically generated ticket #776,2024-10-25,,SecurityTeam
+T-1776,Critical,Resolved,Security,VPN Issue,Automatically generated ticket #777,2024-06-28,2024-07-04,ITSupport
+T-1777,Medium,Resolved,Email,Account Locked,Automatically generated ticket #778,2024-09-17,,ITSupport
+T-1778,High,In Progress,Access Request,Software Installation Request,Automatically generated ticket #779,2024-06-12,,Sara
+T-1779,Low,Open,Security,Software Installation Request,Automatically generated ticket #780,2023-04-27,2023-04-28,ITSupport
+T-1780,Low,In Progress,Access Request,VPN Issue,Automatically generated ticket #781,2023-06-09,2023-06-13,Anna
+T-1781,High,In Progress,Email,Account Locked,Automatically generated ticket #782,2023-01-23,2023-02-05,Michael
+T-1782,High,On Hold,Security,Email Not Working,Automatically generated ticket #783,2024-01-19,2024-01-31,Michael
+T-1783,High,On Hold,Security,Password Reset,Automatically generated ticket #784,2023-03-23,,Michael
+T-1784,Critical,Resolved,Access Request,Printer Not Responding,Automatically generated ticket #785,2023-11-24,2023-11-30,ITSupport
+T-1785,Critical,In Progress,Hardware,Printer Not Responding,Automatically generated ticket #786,2024-03-25,2024-03-26,ITSupport
+T-1786,Critical,On Hold,Security,Malware Detected,Automatically generated ticket #787,2024-04-19,2024-04-28,Michael
+T-1787,Critical,Open,Access Request,Software Installation Request,Automatically generated ticket #788,2023-11-02,,Sara
+T-1788,Medium,Resolved,Access Request,VPN Issue,Automatically generated ticket #789,2023-01-04,,Anna
+T-1789,High,On Hold,Email,Email Not Working,Automatically generated ticket #790,2023-02-08,2023-02-10,Admin
+T-1790,Critical,On Hold,Hardware,Unauthorized Login Attempt,Automatically generated ticket #791,2023-05-07,,Admin
+T-1791,Critical,In Progress,Software,Password Reset,Automatically generated ticket #792,2023-08-23,2023-09-09,Sara
+T-1792,Low,In Progress,Security,Printer Not Responding,Automatically generated ticket #793,2024-07-24,2024-07-25,SecurityTeam
+T-1793,Critical,Resolved,Access Request,Account Locked,Automatically generated ticket #794,2023-08-19,2023-09-06,David
+T-1794,Medium,Open,Access Request,Slow Internet,Automatically generated ticket #795,2024-08-25,2024-08-28,Michael
+T-1795,Low,On Hold,Access Request,Printer Not Responding,Automatically generated ticket #796,2024-04-21,2024-05-08,David
+T-1796,Medium,Resolved,Hardware,Password Reset,Automatically generated ticket #797,2024-04-30,2024-05-01,Admin
+T-1797,Critical,Resolved,Access Request,Password Reset,Automatically generated ticket #798,2023-06-30,,Admin
+T-1798,High,Open,Security,Unauthorized Login Attempt,Automatically generated ticket #799,2023-06-30,2023-07-04,David
+T-1799,Low,Resolved,Software,Malware Detected,Automatically generated ticket #800,2024-08-03,2024-08-10,Sara
+T-1800,Low,In Progress,Network,Email Not Working,Automatically generated ticket #801,2023-03-16,2023-04-05,Anna
+T-1801,Critical,Open,Network,Malware Detected,Automatically generated ticket #802,2023-01-04,2023-01-09,Admin
+T-1802,Critical,Resolved,Hardware,Email Not Working,Automatically generated ticket #803,2023-12-13,2023-12-19,ITSupport
+T-1803,High,Open,Security,Email Not Working,Automatically generated ticket #804,2023-08-27,,SecurityTeam
+T-1804,Low,On Hold,Software,Email Not Working,Automatically generated ticket #805,2024-06-08,2024-06-19,ITSupport
+T-1805,Critical,In Progress,Security,Malware Detected,Automatically generated ticket #806,2023-12-06,,Michael
+T-1806,Critical,Open,Email,Printer Not Responding,Automatically generated ticket #807,2024-04-23,2024-05-08,Admin
+T-1807,Medium,On Hold,Network,Password Reset,Automatically generated ticket #808,2023-01-15,2023-01-25,SecurityTeam
+T-1808,Medium,On Hold,Access Request,System Crash,Automatically generated ticket #809,2024-06-06,,David
+T-1809,Critical,In Progress,Hardware,VPN Issue,Automatically generated ticket #810,2024-06-26,2024-07-10,Anna
+T-1810,Low,On Hold,Access Request,Printer Not Responding,Automatically generated ticket #811,2024-10-12,,Anna
+T-1811,Critical,On Hold,Software,Malware Detected,Automatically generated ticket #812,2023-11-15,2023-11-28,Sara
+T-1812,Critical,Open,Hardware,Software Installation Request,Automatically generated ticket #813,2023-08-05,2023-08-14,Michael
+T-1813,Critical,Open,Email,Account Locked,Automatically generated ticket #814,2023-06-20,,Admin
+T-1814,High,Resolved,Software,Malware Detected,Automatically generated ticket #815,2024-02-11,2024-02-24,Admin
+T-1815,Medium,In Progress,Network,System Crash,Automatically generated ticket #816,2023-06-15,2023-06-26,Sara
+T-1816,High,In Progress,Software,Password Reset,Automatically generated ticket #817,2024-05-21,2024-05-24,Admin
+T-1817,High,On Hold,Software,Account Locked,Automatically generated ticket #818,2024-08-27,,Anna
+T-1818,Medium,Open,Network,Password Reset,Automatically generated ticket #819,2023-04-25,2023-05-04,ITSupport
+T-1819,Low,Resolved,Network,VPN Issue,Automatically generated ticket #820,2023-02-21,2023-03-08,David
+T-1820,High,Resolved,Email,VPN Issue,Automatically generated ticket #821,2024-07-29,2024-08-05,Sara
+T-1821,Critical,Open,Email,System Crash,Automatically generated ticket #822,2023-10-06,2023-10-14,Admin
+T-1822,High,Resolved,Access Request,Printer Not Responding,Automatically generated ticket #823,2023-05-29,2023-06-14,Anna
+T-1823,Medium,Open,Access Request,Software Installation Request,Automatically generated ticket #824,2023-02-16,2023-03-03,David
+T-1824,Medium,Resolved,Email,Account Locked,Automatically generated ticket #825,2023-11-02,2023-11-07,Anna
+T-1825,High,Open,Network,VPN Issue,Automatically generated ticket #826,2024-11-10,2024-11-12,Anna
+T-1826,Low,In Progress,Network,Password Reset,Automatically generated ticket #827,2023-10-03,2023-10-09,ITSupport
+T-1827,High,Open,Access Request,Slow Internet,Automatically generated ticket #828,2023-04-18,2023-04-25,Admin
+T-1828,Medium,On Hold,Software,Account Locked,Automatically generated ticket #829,2023-09-16,,SecurityTeam
+T-1829,Critical,On Hold,Network,Slow Internet,Automatically generated ticket #830,2024-02-12,,Anna
+T-1830,Medium,Resolved,Access Request,Slow Internet,Automatically generated ticket #831,2024-01-18,,ITSupport
+T-1831,Medium,Resolved,Email,Email Not Working,Automatically generated ticket #832,2023-12-08,2023-12-09,ITSupport
+T-1832,Medium,Open,Access Request,Email Not Working,Automatically generated ticket #833,2024-11-05,2024-11-08,Anna
+T-1833,Medium,Resolved,Network,System Crash,Automatically generated ticket #834,2024-11-03,,Michael
+T-1834,Critical,In Progress,Access Request,Malware Detected,Automatically generated ticket #835,2024-03-03,2024-03-07,Sara
+T-1835,High,Resolved,Software,Unauthorized Login Attempt,Automatically generated ticket #836,2023-12-24,2023-12-30,Sara
+T-1836,Medium,Resolved,Email,Malware Detected,Automatically generated ticket #837,2024-11-19,2024-12-09,Sara
+T-1837,High,Resolved,Software,Account Locked,Automatically generated ticket #838,2024-05-25,2024-05-30,Sara
+T-1838,Medium,On Hold,Access Request,Account Locked,Automatically generated ticket #839,2023-05-10,2023-05-29,SecurityTeam
+T-1839,Medium,In Progress,Network,Slow Internet,Automatically generated ticket #840,2024-10-17,2024-10-27,Michael
+T-1840,Low,On Hold,Network,Account Locked,Automatically generated ticket #841,2023-10-03,2023-10-06,Michael
+T-1841,Low,In Progress,Hardware,System Crash,Automatically generated ticket #842,2024-03-10,,Sara
+T-1842,Medium,On Hold,Software,Slow Internet,Automatically generated ticket #843,2024-11-01,,David
+T-1843,High,On Hold,Access Request,Malware Detected,Automatically generated ticket #844,2024-05-14,2024-06-01,David
+T-1844,High,On Hold,Hardware,VPN Issue,Automatically generated ticket #845,2024-03-08,,Michael
+T-1845,Critical,Open,Network,Printer Not Responding,Automatically generated ticket #846,2024-08-27,2024-09-02,Sara
+T-1846,Medium,In Progress,Security,VPN Issue,Automatically generated ticket #847,2024-03-13,,Admin
+T-1847,High,Open,Software,Software Installation Request,Automatically generated ticket #848,2024-10-27,2024-10-29,ITSupport
+T-1848,Critical,In Progress,Hardware,Printer Not Responding,Automatically generated ticket #849,2024-07-06,2024-07-25,SecurityTeam
+T-1849,High,In Progress,Email,Unauthorized Login Attempt,Automatically generated ticket #850,2024-05-09,2024-05-24,Michael
+T-1850,Low,Resolved,Email,Unauthorized Login Attempt,Automatically generated ticket #851,2023-06-06,2023-06-21,Anna
+T-1851,Critical,In Progress,Hardware,VPN Issue,Automatically generated ticket #852,2023-01-31,2023-02-04,Admin
+T-1852,High,In Progress,Email,Printer Not Responding,Automatically generated ticket #853,2024-06-17,,Anna
+T-1853,Medium,On Hold,Hardware,Password Reset,Automatically generated ticket #854,2024-06-13,,SecurityTeam
+T-1854,Medium,In Progress,Network,Software Installation Request,Automatically generated ticket #855,2023-03-09,2023-03-19,Anna
+T-1855,Medium,Resolved,Software,Software Installation Request,Automatically generated ticket #856,2024-11-19,2024-12-08,Michael
+T-1856,Medium,On Hold,Network,Account Locked,Automatically generated ticket #857,2024-02-05,2024-02-21,SecurityTeam
+T-1857,Low,Resolved,Hardware,Password Reset,Automatically generated ticket #858,2024-04-13,2024-05-01,ITSupport
+T-1858,Critical,On Hold,Network,System Crash,Automatically generated ticket #859,2023-09-01,2023-09-09,Michael
+T-1859,High,Resolved,Network,Password Reset,Automatically generated ticket #860,2023-08-29,,Michael
+T-1860,Critical,Resolved,Software,Password Reset,Automatically generated ticket #861,2023-08-31,,SecurityTeam
+T-1861,High,On Hold,Email,Malware Detected,Automatically generated ticket #862,2023-11-03,2023-11-09,David
+T-1862,Critical,In Progress,Security,Malware Detected,Automatically generated ticket #863,2023-06-30,2023-07-01,Michael
+T-1863,Medium,Open,Security,Software Installation Request,Automatically generated ticket #864,2023-01-20,2023-01-23,Sara
+T-1864,Critical,Resolved,Network,Software Installation Request,Automatically generated ticket #865,2023-10-12,2023-10-24,David
+T-1865,Critical,On Hold,Software,System Crash,Automatically generated ticket #866,2023-02-24,2023-03-02,Sara
+T-1866,Low,On Hold,Access Request,Slow Internet,Automatically generated ticket #867,2024-11-16,,SecurityTeam
+T-1867,Low,In Progress,Network,Email Not Working,Automatically generated ticket #868,2024-04-02,2024-04-20,Anna
+T-1868,Critical,In Progress,Security,Password Reset,Automatically generated ticket #869,2023-07-12,2023-07-18,Anna
+T-1869,High,Open,Software,Unauthorized Login Attempt,Automatically generated ticket #870,2023-02-05,,SecurityTeam
+T-1870,Medium,In Progress,Software,System Crash,Automatically generated ticket #871,2023-02-14,,Admin
+T-1871,High,On Hold,Software,VPN Issue,Automatically generated ticket #872,2024-09-03,2024-09-21,Sara
+T-1872,Low,On Hold,Hardware,Malware Detected,Automatically generated ticket #873,2024-01-22,,Anna
+T-1873,Critical,On Hold,Software,Unauthorized Login Attempt,Automatically generated ticket #874,2023-01-26,2023-02-01,David
+T-1874,Critical,Resolved,Software,Software Installation Request,Automatically generated ticket #875,2024-04-19,2024-05-02,ITSupport
+T-1875,Medium,In Progress,Security,Account Locked,Automatically generated ticket #876,2024-01-09,2024-01-27,Admin
+T-1876,Medium,On Hold,Access Request,Malware Detected,Automatically generated ticket #877,2023-01-26,2023-02-15,David
+T-1877,Medium,Resolved,Access Request,Email Not Working,Automatically generated ticket #878,2024-02-24,2024-03-12,David
+T-1878,High,In Progress,Software,Email Not Working,Automatically generated ticket #879,2023-04-16,,David
+T-1879,Critical,On Hold,Email,Password Reset,Automatically generated ticket #880,2023-05-07,,Michael
+T-1880,Medium,In Progress,Software,Slow Internet,Automatically generated ticket #881,2024-01-03,2024-01-11,SecurityTeam
+T-1881,High,Resolved,Access Request,Printer Not Responding,Automatically generated ticket #882,2024-05-07,2024-05-13,Michael
+T-1882,High,Open,Security,Unauthorized Login Attempt,Automatically generated ticket #883,2024-02-23,2024-03-13,David
+T-1883,Low,In Progress,Security,Malware Detected,Automatically generated ticket #884,2023-02-27,2023-03-03,David
+T-1884,High,In Progress,Email,Printer Not Responding,Automatically generated ticket #885,2023-07-15,2023-08-04,Anna
+T-1885,Low,On Hold,Software,Malware Detected,Automatically generated ticket #886,2023-10-10,2023-10-12,ITSupport
+T-1886,Critical,In Progress,Security,Slow Internet,Automatically generated ticket #887,2024-03-23,2024-03-26,Admin
+T-1887,High,In Progress,Access Request,Malware Detected,Automatically generated ticket #888,2024-08-31,2024-09-01,Michael
+T-1888,Medium,On Hold,Hardware,Email Not Working,Automatically generated ticket #889,2023-06-11,2023-06-26,Admin
+T-1889,High,Resolved,Software,Printer Not Responding,Automatically generated ticket #890,2023-09-19,2023-09-22,Sara
+T-1890,High,Open,Email,Email Not Working,Automatically generated ticket #891,2023-09-28,,Admin
+T-1891,High,In Progress,Network,Printer Not Responding,Automatically generated ticket #892,2024-10-03,,ITSupport
+T-1892,High,On Hold,Software,System Crash,Automatically generated ticket #893,2024-05-04,,SecurityTeam
+T-1893,Medium,Open,Security,Malware Detected,Automatically generated ticket #894,2023-06-02,,Sara
+T-1894,Medium,Open,Security,Printer Not Responding,Automatically generated ticket #895,2023-05-12,,Sara
+T-1895,Medium,Open,Network,Malware Detected,Automatically generated ticket #896,2024-01-05,2024-01-11,Admin
+T-1896,Medium,Open,Hardware,Unauthorized Login Attempt,Automatically generated ticket #897,2024-05-26,,Michael
+T-1897,High,In Progress,Security,Printer Not Responding,Automatically generated ticket #898,2023-10-15,2023-11-03,Sara
+T-1898,Critical,Open,Security,System Crash,Automatically generated ticket #899,2024-05-02,2024-05-17,Anna
+T-1899,Critical,Resolved,Email,Malware Detected,Automatically generated ticket #900,2023-06-20,,Michael
+T-1900,Medium,Resolved,Email,Account Locked,Automatically generated ticket #901,2023-08-10,2023-08-16,Admin
+T-1901,Medium,On Hold,Email,Email Not Working,Automatically generated ticket #902,2024-06-14,2024-06-19,Admin
+T-1902,Medium,On Hold,Email,VPN Issue,Automatically generated ticket #903,2024-01-30,2024-01-31,Sara
+T-1903,Critical,On Hold,Hardware,Account Locked,Automatically generated ticket #904,2024-03-24,2024-04-10,Admin
+T-1904,Low,On Hold,Network,Printer Not Responding,Automatically generated ticket #905,2023-10-28,2023-11-08,SecurityTeam
+T-1905,High,In Progress,Network,Unauthorized Login Attempt,Automatically generated ticket #906,2024-05-09,2024-05-10,SecurityTeam
+T-1906,High,On Hold,Software,Unauthorized Login Attempt,Automatically generated ticket #907,2023-05-10,2023-05-21,SecurityTeam
+T-1907,Medium,On Hold,Access Request,Malware Detected,Automatically generated ticket #908,2023-02-17,2023-03-07,Michael
+T-1908,Medium,Resolved,Network,System Crash,Automatically generated ticket #909,2023-02-12,,Anna
+T-1909,High,On Hold,Software,Account Locked,Automatically generated ticket #910,2024-07-15,2024-08-04,Sara
+T-1910,Low,In Progress,Access Request,Slow Internet,Automatically generated ticket #911,2023-01-26,,Michael
+T-1911,Medium,On Hold,Access Request,Printer Not Responding,Automatically generated ticket #912,2024-06-14,2024-06-18,SecurityTeam
+T-1912,Critical,Open,Access Request,Unauthorized Login Attempt,Automatically generated ticket #913,2024-02-22,2024-03-10,Michael
+T-1913,Medium,Open,Email,Email Not Working,Automatically generated ticket #914,2023-02-27,2023-03-01,Admin
+T-1914,Medium,On Hold,Email,Account Locked,Automatically generated ticket #915,2023-11-21,2023-11-22,ITSupport
+T-1915,Low,On Hold,Hardware,Unauthorized Login Attempt,Automatically generated ticket #916,2023-08-06,2023-08-16,David
+T-1916,Medium,On Hold,Security,Account Locked,Automatically generated ticket #917,2023-12-28,2023-12-30,Admin
+T-1917,Medium,Open,Network,Unauthorized Login Attempt,Automatically generated ticket #918,2023-02-14,2023-02-20,SecurityTeam
+T-1918,Medium,In Progress,Email,Malware Detected,Automatically generated ticket #919,2023-03-02,,Michael
+T-1919,Critical,On Hold,Access Request,System Crash,Automatically generated ticket #920,2023-02-14,2023-02-17,Sara
+T-1920,Critical,In Progress,Network,Account Locked,Automatically generated ticket #921,2023-01-15,2023-02-02,Sara
+T-1921,Medium,On Hold,Email,Password Reset,Automatically generated ticket #922,2023-02-14,2023-03-04,ITSupport
+T-1922,Critical,On Hold,Email,Account Locked,Automatically generated ticket #923,2024-08-14,2024-08-21,Anna
+T-1923,High,In Progress,Software,Slow Internet,Automatically generated ticket #924,2023-07-29,,Michael
+T-1924,High,In Progress,Hardware,Software Installation Request,Automatically generated ticket #925,2023-01-30,2023-02-06,David
+T-1925,Critical,Open,Network,Slow Internet,Automatically generated ticket #926,2024-03-16,2024-03-22,Sara
+T-1926,High,On Hold,Network,Printer Not Responding,Automatically generated ticket #927,2023-09-29,2023-10-18,Anna
+T-1927,Medium,On Hold,Email,Unauthorized Login Attempt,Automatically generated ticket #928,2023-05-15,2023-05-24,Admin
+T-1928,Low,Resolved,Email,Email Not Working,Automatically generated ticket #929,2023-08-06,2023-08-22,Michael
+T-1929,Low,In Progress,Email,Slow Internet,Automatically generated ticket #930,2023-01-31,2023-02-20,ITSupport
+T-1930,High,In Progress,Software,Printer Not Responding,Automatically generated ticket #931,2023-08-23,2023-08-27,Admin
+T-1931,Critical,On Hold,Security,Slow Internet,Automatically generated ticket #932,2024-10-11,2024-10-19,Sara
+T-1932,Low,In Progress,Security,Slow Internet,Automatically generated ticket #933,2023-06-01,,SecurityTeam
+T-1933,High,Resolved,Network,Printer Not Responding,Automatically generated ticket #934,2023-08-05,,SecurityTeam
+T-1934,Medium,On Hold,Software,Printer Not Responding,Automatically generated ticket #935,2023-08-30,,David
+T-1935,Critical,In Progress,Network,Email Not Working,Automatically generated ticket #936,2024-05-12,2024-05-20,Michael
+T-1936,Low,Open,Hardware,Software Installation Request,Automatically generated ticket #937,2023-12-20,2024-01-02,Sara
+T-1937,Critical,Resolved,Security,Malware Detected,Automatically generated ticket #938,2023-08-10,,SecurityTeam
+T-1938,Critical,Open,Hardware,System Crash,Automatically generated ticket #939,2023-06-11,,Admin
+T-1939,High,Open,Software,Malware Detected,Automatically generated ticket #940,2024-07-13,2024-07-25,Admin
+T-1940,Critical,In Progress,Network,Printer Not Responding,Automatically generated ticket #941,2024-05-18,2024-05-20,SecurityTeam
+T-1941,High,On Hold,Software,Malware Detected,Automatically generated ticket #942,2023-02-24,2023-02-25,Anna
+T-1942,Medium,On Hold,Security,System Crash,Automatically generated ticket #943,2023-01-21,2023-01-22,Anna
+T-1943,High,Open,Network,Printer Not Responding,Automatically generated ticket #944,2023-10-03,2023-10-18,SecurityTeam
+T-1944,Critical,Open,Email,System Crash,Automatically generated ticket #945,2024-08-08,2024-08-28,Anna
+T-1945,Low,On Hold,Email,Malware Detected,Automatically generated ticket #946,2023-01-17,2023-01-29,David
+T-1946,Critical,In Progress,Access Request,Printer Not Responding,Automatically generated ticket #947,2024-11-23,,David
+T-1947,Critical,On Hold,Software,Password Reset,Automatically generated ticket #948,2024-08-18,,Anna
+T-1948,Critical,Resolved,Hardware,Slow Internet,Automatically generated ticket #949,2023-08-14,2023-08-20,Anna
+T-1949,High,In Progress,Email,Email Not Working,Automatically generated ticket #950,2023-10-28,,Anna
+T-1950,Medium,In Progress,Software,Printer Not Responding,Automatically generated ticket #951,2023-05-14,2023-05-16,ITSupport
+T-1951,High,Open,Security,System Crash,Automatically generated ticket #952,2024-02-13,,Anna
+T-1952,Medium,Open,Security,Account Locked,Automatically generated ticket #953,2023-04-06,2023-04-21,Anna
+T-1953,Medium,Resolved,Access Request,Password Reset,Automatically generated ticket #954,2024-07-11,2024-07-31,Michael
+T-1954,High,Resolved,Access Request,System Crash,Automatically generated ticket #955,2024-01-09,2024-01-18,Anna
+T-1955,High,Resolved,Email,Slow Internet,Automatically generated ticket #956,2023-08-11,2023-08-18,David
+T-1956,Critical,In Progress,Access Request,System Crash,Automatically generated ticket #957,2023-05-28,2023-06-07,David
+T-1957,Medium,Open,Security,VPN Issue,Automatically generated ticket #958,2024-01-23,,Sara
+T-1958,High,Open,Software,Software Installation Request,Automatically generated ticket #959,2024-07-16,2024-07-18,ITSupport
+T-1959,Critical,Resolved,Software,Slow Internet,Automatically generated ticket #960,2023-04-30,2023-05-18,Anna
+T-1960,Medium,In Progress,Access Request,System Crash,Automatically generated ticket #961,2023-06-21,,Sara
+T-1961,Low,In Progress,Software,System Crash,Automatically generated ticket #962,2024-06-17,,ITSupport
+T-1962,Critical,In Progress,Access Request,Email Not Working,Automatically generated ticket #963,2024-10-23,2024-11-02,SecurityTeam
+T-1963,Critical,Resolved,Hardware,Password Reset,Automatically generated ticket #964,2024-08-18,2024-08-19,SecurityTeam
+T-1964,High,Resolved,Security,Malware Detected,Automatically generated ticket #965,2024-08-28,,Sara
+T-1965,Medium,In Progress,Security,System Crash,Automatically generated ticket #966,2023-12-26,2023-12-27,Sara
+T-1966,Critical,Resolved,Network,Software Installation Request,Automatically generated ticket #967,2024-05-06,2024-05-26,Anna
+T-1967,Critical,In Progress,Software,VPN Issue,Automatically generated ticket #968,2023-10-30,,Sara
+T-1968,Low,In Progress,Network,Unauthorized Login Attempt,Automatically generated ticket #969,2023-10-31,2023-11-08,David
+T-1969,Medium,Resolved,Access Request,Malware Detected,Automatically generated ticket #970,2024-02-15,2024-02-17,David
+T-1970,Medium,In Progress,Security,Slow Internet,Automatically generated ticket #971,2023-11-09,,David
+T-1971,Low,In Progress,Network,Printer Not Responding,Automatically generated ticket #972,2024-10-29,,ITSupport
+T-1972,Low,Resolved,Access Request,Email Not Working,Automatically generated ticket #973,2023-03-12,,Sara
+T-1973,Low,Open,Access Request,Printer Not Responding,Automatically generated ticket #974,2024-06-09,,Sara
+T-1974,Critical,On Hold,Email,Password Reset,Automatically generated ticket #975,2024-09-15,2024-10-05,David
+T-1975,High,Open,Email,Malware Detected,Automatically generated ticket #976,2023-09-15,2023-09-22,Anna
+T-1976,High,Resolved,Software,Password Reset,Automatically generated ticket #977,2023-07-26,2023-07-31,Anna
+T-1977,High,On Hold,Access Request,Unauthorized Login Attempt,Automatically generated ticket #978,2023-04-05,,Admin
+T-1978,High,In Progress,Network,VPN Issue,Automatically generated ticket #979,2024-08-21,2024-08-25,Anna
+T-1979,High,Resolved,Email,Software Installation Request,Automatically generated ticket #980,2023-09-11,2023-09-12,Michael
+T-1980,Medium,In Progress,Software,Malware Detected,Automatically generated ticket #981,2023-01-05,2023-01-10,David
+T-1981,High,On Hold,Hardware,Password Reset,Automatically generated ticket #982,2024-04-13,,Michael
+T-1982,Critical,Resolved,Security,Software Installation Request,Automatically generated ticket #983,2023-10-18,2023-10-29,David
+T-1983,Medium,Resolved,Network,Slow Internet,Automatically generated ticket #984,2023-04-06,2023-04-26,Admin
+T-1984,Medium,In Progress,Hardware,System Crash,Automatically generated ticket #985,2024-09-28,,Michael
+T-1985,Critical,In Progress,Network,Unauthorized Login Attempt,Automatically generated ticket #986,2023-08-20,2023-08-31,ITSupport
+T-1986,Medium,Resolved,Email,Email Not Working,Automatically generated ticket #987,2024-11-24,,Anna
+T-1987,Medium,Resolved,Security,Slow Internet,Automatically generated ticket #988,2023-03-17,2023-03-30,Michael
+T-1988,Medium,On Hold,Security,Unauthorized Login Attempt,Automatically generated ticket #989,2024-09-24,2024-09-30,Admin
+T-1989,High,Open,Security,VPN Issue,Automatically generated ticket #990,2024-03-22,2024-04-09,David
+T-1990,High,On Hold,Email,VPN Issue,Automatically generated ticket #991,2023-11-27,,Anna
+T-1991,Critical,On Hold,Email,Malware Detected,Automatically generated ticket #992,2023-12-30,2024-01-06,SecurityTeam
+T-1992,Medium,Open,Hardware,Slow Internet,Automatically generated ticket #993,2024-02-12,,Sara
+T-1993,Critical,In Progress,Security,Unauthorized Login Attempt,Automatically generated ticket #994,2023-01-04,,ITSupport
+T-1994,Medium,Open,Email,Software Installation Request,Automatically generated ticket #995,2024-07-11,2024-07-23,David
+T-1995,Low,Resolved,Hardware,Malware Detected,Automatically generated ticket #996,2023-05-10,2023-05-17,Admin
+T-1996,Medium,In Progress,Security,Password Reset,Automatically generated ticket #997,2023-08-01,2023-08-05,Michael
+T-1997,High,Resolved,Software,Software Installation Request,Automatically generated ticket #998,2023-05-29,2023-06-05,Anna
+T-1998,High,Open,Email,Printer Not Responding,Automatically generated ticket #999,2024-11-07,2024-11-23,Michael
+T-1999,Medium,On Hold,Email,Email Not Working,Automatically generated ticket #1000,2023-07-01,2023-07-09,Michael
