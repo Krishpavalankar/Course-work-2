@@ -1,0 +1,1001 @@
+dataset_name,category,source,last_updated,record_count,file_size_mb
+Cloud Activity Reports,Endpoint Security,CrowdStrike,2023-09-24,414319,54.9
+Threat Intelligence Feeds,Endpoint Security,Proofpoint,2023-11-03,199735,88.56
+Vulnerability Scan Results,Authentication,AWS,2024-08-14,335602,130.14
+Endpoint Events,Network Logs,Microsoft Defender,2023-01-14,350770,471.41
+Web Proxy Logs,Network Logs,Microsoft Defender,2023-07-21,487102,226.64
+Authentication Logs,Network Logs,Google Cloud,2024-06-19,272615,111.72
+Email Gateway Logs,Vulnerability Management,CrowdStrike,2024-06-09,233268,243.65
+Firewall Logs,Network Logs,Azure,2023-06-30,169808,345.48
+Endpoint Events,Authentication,Google Cloud,2023-04-29,324940,252.09
+Firewall Logs,Web Activity,CrowdStrike,2024-07-30,463070,303.04
+Threat Intelligence Feeds,Network Logs,AWS,2023-07-25,362783,486.08
+DNS Queries,Endpoint Security,Proofpoint,2023-04-06,427734,359.32
+System Audit Logs,Endpoint Security,Microsoft Defender,2024-01-20,102724,406.67
+Endpoint Events,Authentication,CrowdStrike,2024-11-28,66754,315.12
+Authentication Logs,Web Activity,Google Cloud,2023-02-02,214149,290.02
+Firewall Logs,Network Logs,Proofpoint,2024-02-06,167247,396.81
+Endpoint Events,System Monitoring,Microsoft Defender,2024-11-16,263918,85.77
+Email Gateway Logs,Authentication,Azure,2024-04-22,281795,353.58
+System Audit Logs,Web Activity,Nessus,2024-03-20,471281,132.59
+Web Proxy Logs,Authentication,Nessus,2023-11-05,478277,289.05
+DNS Queries,Network Logs,CrowdStrike,2024-04-09,315533,23.77
+Endpoint Events,System Monitoring,Proofpoint,2024-06-26,83543,253.23
+System Audit Logs,Vulnerability Management,Elastic,2024-06-07,465251,309.64
+Web Proxy Logs,Endpoint Security,Elastic,2023-08-23,15673,172.66
+Firewall Logs,Email Security,Azure,2023-06-18,256677,62.25
+Firewall Logs,Network Logs,Proofpoint,2023-02-15,68528,50.61
+Threat Intelligence Feeds,Web Activity,Elastic,2023-05-10,121493,315.89
+DNS Queries,Network Logs,Proofpoint,2024-08-01,299823,334.59
+Cloud Activity Reports,Web Activity,Elastic,2023-10-07,442685,253.28
+Firewall Logs,Network Logs,Palo Alto,2024-03-23,399578,238.66
+Endpoint Events,Vulnerability Management,Palo Alto,2024-02-11,222508,41.19
+System Audit Logs,Authentication,Nessus,2023-04-08,111399,73.65
+Email Gateway Logs,Authentication,Proofpoint,2023-09-27,325156,175.63
+DNS Queries,Vulnerability Management,CrowdStrike,2024-05-03,184611,198.14
+Firewall Logs,Web Activity,Azure,2023-03-12,60149,445.67
+Vulnerability Scan Results,Authentication,Elastic,2024-07-07,14133,55.05
+Vulnerability Scan Results,Cloud Security,Google Cloud,2024-06-13,257754,489.9
+Vulnerability Scan Results,Network Logs,Azure,2024-02-24,418358,483.02
+Firewall Logs,Email Security,Google Cloud,2024-02-05,105229,480.97
+Cloud Activity Reports,Email Security,Microsoft Defender,2023-05-14,149899,88.8
+Authentication Logs,Network Logs,AWS,2024-08-01,84552,311.0
+System Audit Logs,Vulnerability Management,Elastic,2024-09-07,13755,253.68
+DNS Queries,Network Logs,AWS,2024-02-22,480980,413.89
+Threat Intelligence Feeds,Network Logs,AWS,2023-05-07,446449,334.23
+Email Gateway Logs,Endpoint Security,CrowdStrike,2023-11-02,302016,96.77
+DNS Queries,System Monitoring,Cisco,2023-03-02,287705,114.47
+System Audit Logs,Vulnerability Management,CrowdStrike,2024-01-04,499649,255.3
+Threat Intelligence Feeds,Network Logs,Cisco,2023-03-22,405379,129.77
+Endpoint Events,Web Activity,Google Cloud,2024-10-30,246790,47.07
+Email Gateway Logs,Authentication,Nessus,2024-09-11,80379,451.39
+Authentication Logs,Email Security,Cisco,2024-07-24,230422,78.82
+Authentication Logs,Web Activity,Microsoft Defender,2023-07-14,364829,117.89
+Endpoint Events,Authentication,AWS,2023-08-04,191506,314.04
+Authentication Logs,System Monitoring,Nessus,2024-09-09,310946,418.9
+System Audit Logs,Authentication,Proofpoint,2023-03-06,375395,202.98
+Cloud Activity Reports,Endpoint Security,Elastic,2024-02-15,86977,63.82
+Email Gateway Logs,Network Logs,Azure,2024-03-31,343865,2.74
+Web Proxy Logs,Network Logs,CrowdStrike,2023-07-12,170995,183.42
+Authentication Logs,System Monitoring,CrowdStrike,2024-10-18,241678,226.71
+Vulnerability Scan Results,Cloud Security,CrowdStrike,2023-01-10,176357,202.84
+System Audit Logs,Vulnerability Management,CrowdStrike,2024-06-16,376172,336.04
+Vulnerability Scan Results,Web Activity,Cisco,2024-01-31,361268,45.5
+Firewall Logs,Vulnerability Management,Nessus,2023-12-28,16634,162.37
+Email Gateway Logs,Email Security,Azure,2024-10-30,100943,350.23
+DNS Queries,Web Activity,AWS,2024-02-20,43092,92.47
+Firewall Logs,Authentication,Proofpoint,2023-08-14,287304,438.79
+DNS Queries,Email Security,Azure,2023-10-13,42980,3.08
+DNS Queries,Cloud Security,Proofpoint,2023-01-26,337541,184.51
+Email Gateway Logs,Endpoint Security,CrowdStrike,2023-05-21,183285,8.39
+Vulnerability Scan Results,Web Activity,Google Cloud,2024-08-26,430761,483.89
+Web Proxy Logs,Cloud Security,Proofpoint,2023-02-21,277200,381.27
+Email Gateway Logs,Cloud Security,AWS,2024-08-03,363732,33.42
+Firewall Logs,Authentication,AWS,2023-08-08,246906,266.29
+DNS Queries,Vulnerability Management,Google Cloud,2023-08-14,309726,398.73
+DNS Queries,Email Security,Proofpoint,2024-09-28,337099,154.99
+Firewall Logs,Vulnerability Management,AWS,2024-02-09,196480,444.75
+System Audit Logs,Cloud Security,Palo Alto,2024-07-14,6196,151.03
+DNS Queries,Vulnerability Management,Google Cloud,2023-10-30,156132,359.38
+DNS Queries,Web Activity,AWS,2023-11-08,466759,65.94
+Threat Intelligence Feeds,Web Activity,Cisco,2024-10-21,256115,127.62
+Vulnerability Scan Results,Web Activity,Microsoft Defender,2024-08-18,230736,316.81
+System Audit Logs,Authentication,Palo Alto,2023-07-10,189418,420.22
+System Audit Logs,Web Activity,Azure,2024-01-12,335167,367.2
+Email Gateway Logs,System Monitoring,CrowdStrike,2024-09-09,370460,359.41
+Web Proxy Logs,Cloud Security,Proofpoint,2023-05-27,106404,58.11
+Threat Intelligence Feeds,System Monitoring,Microsoft Defender,2023-09-20,124161,458.38
+Vulnerability Scan Results,Cloud Security,Proofpoint,2024-03-21,292425,262.66
+System Audit Logs,Network Logs,Elastic,2024-02-15,497780,173.52
+Firewall Logs,Network Logs,Microsoft Defender,2023-11-06,402832,298.23
+System Audit Logs,Endpoint Security,Microsoft Defender,2024-06-18,31266,496.04
+Threat Intelligence Feeds,Vulnerability Management,Google Cloud,2024-02-29,309263,21.24
+System Audit Logs,Vulnerability Management,Proofpoint,2023-09-05,252565,141.57
+Firewall Logs,Email Security,Nessus,2024-11-29,138664,442.05
+Firewall Logs,Web Activity,Microsoft Defender,2024-01-27,101679,386.56
+System Audit Logs,Authentication,Cisco,2023-09-25,258652,387.48
+Email Gateway Logs,Cloud Security,Proofpoint,2024-02-20,461670,301.44
+Cloud Activity Reports,Web Activity,Google Cloud,2024-07-04,62808,415.02
+Vulnerability Scan Results,Email Security,Microsoft Defender,2023-09-30,285152,476.21
+Cloud Activity Reports,Web Activity,AWS,2023-09-18,405958,366.88
+Email Gateway Logs,Cloud Security,Azure,2023-03-25,6814,410.48
+Endpoint Events,Authentication,Proofpoint,2024-03-16,328769,225.25
+System Audit Logs,Email Security,Google Cloud,2023-11-03,15961,431.52
+Threat Intelligence Feeds,System Monitoring,Google Cloud,2024-03-25,146182,302.79
+Web Proxy Logs,Cloud Security,Cisco,2024-08-21,178029,353.53
+Endpoint Events,System Monitoring,Microsoft Defender,2024-03-18,118732,145.9
+Cloud Activity Reports,Cloud Security,Proofpoint,2023-10-15,289346,232.92
+DNS Queries,Email Security,Nessus,2024-04-14,240320,186.31
+DNS Queries,System Monitoring,Nessus,2023-12-31,243927,176.37
+Authentication Logs,System Monitoring,CrowdStrike,2024-03-17,30930,223.13
+Email Gateway Logs,Web Activity,Palo Alto,2023-01-28,174245,69.01
+DNS Queries,Endpoint Security,Google Cloud,2023-08-02,449527,395.66
+DNS Queries,Authentication,AWS,2023-11-16,84734,168.45
+Email Gateway Logs,Network Logs,Proofpoint,2023-11-14,61279,11.13
+Endpoint Events,Cloud Security,AWS,2023-02-25,363740,383.93
+Web Proxy Logs,Cloud Security,Microsoft Defender,2023-06-10,45795,114.6
+DNS Queries,Cloud Security,Palo Alto,2024-04-15,67449,423.62
+Threat Intelligence Feeds,Network Logs,Azure,2024-08-23,438499,155.27
+Endpoint Events,Email Security,Azure,2024-09-30,93641,49.13
+Email Gateway Logs,Endpoint Security,Proofpoint,2024-02-16,400979,68.57
+Authentication Logs,System Monitoring,Azure,2023-04-25,218472,177.26
+Authentication Logs,Endpoint Security,AWS,2023-09-19,183869,95.18
+Firewall Logs,System Monitoring,Elastic,2023-04-09,179952,217.64
+Authentication Logs,Network Logs,Proofpoint,2024-03-16,294641,86.85
+Vulnerability Scan Results,Web Activity,Microsoft Defender,2023-07-19,165105,278.23
+Vulnerability Scan Results,Web Activity,Elastic,2023-07-14,137658,374.44
+Cloud Activity Reports,Email Security,Azure,2023-09-01,150127,325.93
+Endpoint Events,Email Security,Google Cloud,2023-06-14,384266,126.4
+Cloud Activity Reports,Email Security,Elastic,2023-09-22,367829,345.04
+System Audit Logs,Web Activity,Google Cloud,2023-06-30,363296,173.96
+Authentication Logs,Endpoint Security,Nessus,2023-06-13,129646,78.27
+Vulnerability Scan Results,System Monitoring,Microsoft Defender,2024-03-29,348437,21.63
+Threat Intelligence Feeds,Vulnerability Management,Nessus,2023-11-11,307961,246.25
+DNS Queries,Authentication,AWS,2024-08-22,143796,421.05
+System Audit Logs,Vulnerability Management,Elastic,2024-07-23,436317,491.58
+DNS Queries,Endpoint Security,Microsoft Defender,2024-09-20,490208,481.58
+DNS Queries,Endpoint Security,Proofpoint,2023-01-31,368968,110.94
+Cloud Activity Reports,Vulnerability Management,Elastic,2023-11-16,392096,261.0
+Endpoint Events,Cloud Security,Microsoft Defender,2023-05-26,336270,305.07
+Vulnerability Scan Results,Authentication,Cisco,2024-04-22,354873,183.21
+Email Gateway Logs,Vulnerability Management,CrowdStrike,2023-03-05,479349,228.76
+Email Gateway Logs,Network Logs,CrowdStrike,2023-06-22,456182,77.14
+Cloud Activity Reports,System Monitoring,Cisco,2024-04-05,39907,365.34
+Web Proxy Logs,Endpoint Security,Microsoft Defender,2023-03-15,447837,29.13
+Vulnerability Scan Results,Endpoint Security,CrowdStrike,2023-09-29,125064,430.91
+DNS Queries,Network Logs,Palo Alto,2023-12-19,246513,340.27
+Email Gateway Logs,Network Logs,Proofpoint,2024-11-03,313077,179.08
+Endpoint Events,Vulnerability Management,Palo Alto,2023-02-21,230348,352.92
+Authentication Logs,Authentication,Azure,2023-09-21,110410,2.52
+System Audit Logs,Email Security,AWS,2023-12-10,184823,392.91
+Threat Intelligence Feeds,Network Logs,CrowdStrike,2023-09-30,214854,297.85
+DNS Queries,Network Logs,AWS,2024-02-17,84618,376.07
+Firewall Logs,Cloud Security,AWS,2024-06-12,375216,208.74
+Firewall Logs,Web Activity,AWS,2024-08-11,431017,192.77
+System Audit Logs,Network Logs,Proofpoint,2023-05-20,292420,394.64
+Endpoint Events,Email Security,Elastic,2023-09-03,454310,180.51
+Email Gateway Logs,Cloud Security,Proofpoint,2024-05-31,41143,434.23
+DNS Queries,Endpoint Security,Google Cloud,2023-03-12,468787,143.77
+Endpoint Events,Endpoint Security,AWS,2023-02-11,392667,314.73
+System Audit Logs,Cloud Security,Elastic,2024-10-02,194578,397.57
+Endpoint Events,Network Logs,Elastic,2024-04-21,395411,248.18
+DNS Queries,Vulnerability Management,Elastic,2023-05-28,207658,91.73
+Email Gateway Logs,Endpoint Security,Palo Alto,2023-10-31,28680,484.09
+Vulnerability Scan Results,Vulnerability Management,Proofpoint,2023-05-31,51223,205.44
+Cloud Activity Reports,Cloud Security,Proofpoint,2024-07-29,49157,450.82
+System Audit Logs,Cloud Security,Microsoft Defender,2024-06-28,378255,315.7
+Web Proxy Logs,Web Activity,Palo Alto,2024-06-05,56059,19.46
+Cloud Activity Reports,Web Activity,Azure,2023-07-01,127014,423.32
+Cloud Activity Reports,Vulnerability Management,Microsoft Defender,2024-05-05,390691,219.67
+Email Gateway Logs,Authentication,Cisco,2024-01-09,336409,339.45
+Web Proxy Logs,Endpoint Security,Proofpoint,2023-12-27,239455,328.04
+Authentication Logs,Endpoint Security,Microsoft Defender,2023-04-17,377470,399.52
+DNS Queries,Email Security,Azure,2024-09-10,389163,107.57
+Cloud Activity Reports,Network Logs,Elastic,2023-08-01,244662,208.47
+Threat Intelligence Feeds,Network Logs,Nessus,2023-01-20,227584,60.16
+Web Proxy Logs,Network Logs,Google Cloud,2023-10-09,449985,106.87
+Web Proxy Logs,Web Activity,Proofpoint,2023-04-30,26078,157.02
+Web Proxy Logs,Cloud Security,Proofpoint,2023-10-27,160319,32.94
+Cloud Activity Reports,Email Security,AWS,2023-06-08,341512,258.94
+Threat Intelligence Feeds,Cloud Security,AWS,2024-02-29,282585,148.8
+Endpoint Events,Web Activity,Cisco,2024-02-07,470722,437.62
+System Audit Logs,Cloud Security,AWS,2024-06-14,375593,55.19
+Threat Intelligence Feeds,Web Activity,CrowdStrike,2024-10-24,365766,362.86
+Threat Intelligence Feeds,Authentication,Palo Alto,2024-09-06,308330,417.94
+System Audit Logs,Email Security,Microsoft Defender,2024-08-03,23715,14.5
+Authentication Logs,Web Activity,Google Cloud,2024-06-08,255609,107.26
+System Audit Logs,Authentication,Microsoft Defender,2023-09-25,127780,280.72
+Email Gateway Logs,System Monitoring,Google Cloud,2024-01-19,110934,274.54
+Threat Intelligence Feeds,Endpoint Security,Azure,2023-12-04,34819,67.91
+Web Proxy Logs,Authentication,Cisco,2023-09-26,406696,72.8
+Firewall Logs,System Monitoring,Cisco,2023-06-16,474002,213.28
+Web Proxy Logs,Endpoint Security,Nessus,2024-01-12,42628,444.2
+Authentication Logs,Network Logs,CrowdStrike,2024-02-04,435913,340.02
+Email Gateway Logs,Authentication,Nessus,2024-11-10,16119,466.48
+Cloud Activity Reports,Endpoint Security,Google Cloud,2023-06-21,426556,73.21
+System Audit Logs,Cloud Security,Palo Alto,2023-12-20,288595,422.48
+Web Proxy Logs,Email Security,Microsoft Defender,2023-05-16,184340,478.94
+Threat Intelligence Feeds,Web Activity,AWS,2023-10-19,277569,57.53
+Email Gateway Logs,Authentication,Elastic,2023-10-12,196992,180.34
+Authentication Logs,Web Activity,Elastic,2023-06-17,126417,424.03
+Cloud Activity Reports,Cloud Security,Proofpoint,2024-11-08,151699,253.17
+Authentication Logs,Cloud Security,Cisco,2024-09-10,491754,37.43
+Firewall Logs,Cloud Security,Azure,2024-02-07,175390,156.56
+Cloud Activity Reports,Web Activity,Elastic,2023-03-19,349013,84.92
+DNS Queries,Vulnerability Management,AWS,2023-07-11,442147,365.7
+Authentication Logs,Endpoint Security,Azure,2023-04-22,335226,271.02
+Authentication Logs,System Monitoring,AWS,2024-11-19,25704,103.26
+Web Proxy Logs,Vulnerability Management,CrowdStrike,2023-04-06,310486,186.01
+Vulnerability Scan Results,Authentication,Proofpoint,2024-10-03,150635,260.91
+DNS Queries,Email Security,Microsoft Defender,2024-05-29,67035,468.84
+System Audit Logs,Web Activity,Cisco,2023-06-23,50950,14.91
+Authentication Logs,Network Logs,Nessus,2024-06-09,166664,155.77
+Email Gateway Logs,System Monitoring,Microsoft Defender,2024-07-28,154285,331.47
+Web Proxy Logs,Vulnerability Management,Azure,2023-05-29,330391,63.52
+Firewall Logs,Vulnerability Management,Google Cloud,2023-06-20,170145,211.04
+System Audit Logs,System Monitoring,Azure,2023-02-04,467986,26.45
+Cloud Activity Reports,Authentication,Elastic,2024-01-11,80952,247.6
+DNS Queries,Endpoint Security,CrowdStrike,2024-11-10,30888,460.07
+Vulnerability Scan Results,System Monitoring,Nessus,2023-01-06,238724,487.15
+Firewall Logs,Web Activity,Proofpoint,2023-09-23,432424,391.9
+Vulnerability Scan Results,Cloud Security,AWS,2023-12-21,431941,143.17
+Endpoint Events,Email Security,AWS,2024-11-22,316307,29.11
+System Audit Logs,Email Security,Microsoft Defender,2023-04-19,28474,275.42
+Email Gateway Logs,Email Security,Proofpoint,2024-11-25,444770,266.54
+Endpoint Events,Endpoint Security,Azure,2023-03-23,243395,395.14
+Authentication Logs,Endpoint Security,Azure,2024-04-14,55329,195.72
+Authentication Logs,Network Logs,Microsoft Defender,2024-02-04,326337,341.67
+Endpoint Events,Network Logs,Palo Alto,2023-08-14,146911,48.09
+Threat Intelligence Feeds,Cloud Security,Proofpoint,2024-10-04,497156,166.53
+Endpoint Events,Network Logs,Google Cloud,2023-06-14,413630,168.82
+Vulnerability Scan Results,Cloud Security,Cisco,2024-09-30,252928,200.58
+Email Gateway Logs,System Monitoring,Google Cloud,2024-01-24,435826,223.94
+Email Gateway Logs,System Monitoring,Google Cloud,2023-07-17,141962,18.6
+Threat Intelligence Feeds,Endpoint Security,Palo Alto,2023-08-14,140197,65.99
+System Audit Logs,Endpoint Security,CrowdStrike,2024-11-10,320253,116.81
+Firewall Logs,Authentication,Nessus,2024-05-19,209367,83.19
+Cloud Activity Reports,Network Logs,Palo Alto,2024-11-17,148023,361.67
+Web Proxy Logs,Network Logs,Azure,2023-03-27,56225,245.72
+Threat Intelligence Feeds,Authentication,Palo Alto,2024-08-16,388275,322.26
+Threat Intelligence Feeds,Network Logs,Microsoft Defender,2023-10-12,368361,81.25
+System Audit Logs,Vulnerability Management,Nessus,2023-12-02,410907,159.1
+Firewall Logs,Web Activity,Google Cloud,2023-04-03,426666,229.34
+DNS Queries,Authentication,Google Cloud,2023-06-21,463532,206.71
+Endpoint Events,Vulnerability Management,Elastic,2023-09-02,83616,460.24
+Firewall Logs,Email Security,Azure,2024-06-06,247266,400.03
+Endpoint Events,Network Logs,Proofpoint,2024-03-07,175045,330.14
+DNS Queries,Web Activity,Azure,2023-04-25,411562,256.29
+DNS Queries,System Monitoring,CrowdStrike,2024-01-04,118407,207.1
+Threat Intelligence Feeds,System Monitoring,Proofpoint,2024-02-13,215032,385.65
+Email Gateway Logs,System Monitoring,Elastic,2024-11-10,175191,256.22
+Endpoint Events,Vulnerability Management,Elastic,2024-11-06,394256,337.9
+Vulnerability Scan Results,Endpoint Security,Proofpoint,2023-05-21,240303,445.17
+Web Proxy Logs,Network Logs,CrowdStrike,2023-01-05,342620,288.44
+Threat Intelligence Feeds,Email Security,Elastic,2023-06-03,179483,178.59
+Endpoint Events,Web Activity,Nessus,2024-11-02,278073,16.62
+Cloud Activity Reports,System Monitoring,AWS,2023-08-06,196882,176.36
+Web Proxy Logs,Cloud Security,Nessus,2023-05-28,405759,197.44
+Threat Intelligence Feeds,Endpoint Security,Google Cloud,2023-05-20,441688,157.96
+Email Gateway Logs,Cloud Security,Google Cloud,2023-09-05,455229,228.92
+Firewall Logs,Authentication,Proofpoint,2023-02-16,199954,372.69
+System Audit Logs,System Monitoring,Google Cloud,2023-08-18,360447,6.46
+System Audit Logs,Email Security,CrowdStrike,2024-11-26,34002,493.51
+DNS Queries,Authentication,Azure,2024-02-21,163941,298.29
+DNS Queries,Network Logs,CrowdStrike,2024-01-16,450114,361.87
+Endpoint Events,Endpoint Security,Nessus,2024-01-04,428995,36.02
+Threat Intelligence Feeds,Authentication,Nessus,2023-01-05,28877,45.69
+Vulnerability Scan Results,Vulnerability Management,Nessus,2023-06-03,424031,432.15
+Authentication Logs,Web Activity,AWS,2023-10-22,39945,343.79
+Web Proxy Logs,Network Logs,Proofpoint,2023-10-13,30748,300.93
+Authentication Logs,Authentication,Cisco,2024-11-25,240765,340.78
+Firewall Logs,Endpoint Security,Cisco,2024-02-18,18242,68.15
+Firewall Logs,Web Activity,Cisco,2024-01-05,413689,467.89
+Cloud Activity Reports,Network Logs,Palo Alto,2023-02-12,33878,449.13
+DNS Queries,Email Security,Cisco,2024-06-24,365526,413.19
+Endpoint Events,Email Security,AWS,2024-09-07,428130,262.1
+Email Gateway Logs,Vulnerability Management,Proofpoint,2024-09-25,449565,441.19
+DNS Queries,Cloud Security,Cisco,2024-03-22,353135,488.36
+Authentication Logs,Network Logs,Nessus,2023-01-09,7169,328.54
+Web Proxy Logs,Web Activity,CrowdStrike,2023-05-28,255051,241.31
+DNS Queries,Cloud Security,AWS,2024-05-10,353889,158.91
+Threat Intelligence Feeds,Network Logs,Elastic,2024-05-29,87933,244.69
+Authentication Logs,Network Logs,AWS,2024-06-19,252677,151.94
+System Audit Logs,Vulnerability Management,Google Cloud,2023-05-08,101691,260.28
+Threat Intelligence Feeds,Endpoint Security,Palo Alto,2024-01-31,287319,40.58
+Endpoint Events,Authentication,Nessus,2024-05-24,358322,130.57
+System Audit Logs,System Monitoring,Proofpoint,2023-12-21,201806,296.35
+Endpoint Events,Authentication,AWS,2024-09-20,64871,68.78
+Authentication Logs,Web Activity,Google Cloud,2023-01-27,473762,449.18
+Cloud Activity Reports,System Monitoring,Proofpoint,2024-09-11,225039,414.21
+Web Proxy Logs,Vulnerability Management,Elastic,2023-12-03,48568,291.27
+Email Gateway Logs,Web Activity,AWS,2023-12-20,456985,327.79
+Vulnerability Scan Results,Web Activity,Palo Alto,2023-11-20,42302,361.21
+Authentication Logs,Endpoint Security,Google Cloud,2023-05-28,498642,103.52
+Endpoint Events,Network Logs,CrowdStrike,2024-02-10,212863,18.47
+Endpoint Events,System Monitoring,Nessus,2023-12-27,426186,207.15
+Threat Intelligence Feeds,Cloud Security,Google Cloud,2024-10-14,122423,152.5
+Vulnerability Scan Results,Cloud Security,Palo Alto,2023-04-18,340744,407.34
+DNS Queries,Authentication,AWS,2023-02-22,68823,349.22
+Email Gateway Logs,Endpoint Security,Palo Alto,2023-01-23,22783,150.13
+Vulnerability Scan Results,Web Activity,Azure,2024-05-11,306296,427.14
+Endpoint Events,Authentication,CrowdStrike,2024-10-27,18718,325.13
+Authentication Logs,Web Activity,Microsoft Defender,2024-04-28,414147,463.15
+Authentication Logs,Web Activity,Elastic,2023-08-02,12517,239.65
+Threat Intelligence Feeds,Web Activity,AWS,2024-10-01,290672,415.41
+Email Gateway Logs,Vulnerability Management,AWS,2023-02-23,378220,469.3
+Email Gateway Logs,Authentication,Google Cloud,2024-06-01,485773,196.48
+Web Proxy Logs,Vulnerability Management,Google Cloud,2024-02-11,374366,73.54
+Email Gateway Logs,Cloud Security,Google Cloud,2023-04-30,292245,226.06
+Web Proxy Logs,System Monitoring,Nessus,2024-09-06,63536,107.12
+Endpoint Events,Email Security,Google Cloud,2023-06-21,370212,172.17
+Authentication Logs,Endpoint Security,Nessus,2023-09-23,311950,99.68
+Web Proxy Logs,Web Activity,Google Cloud,2023-06-05,192139,364.31
+Endpoint Events,Network Logs,Cisco,2024-02-07,424262,387.63
+Authentication Logs,Authentication,Microsoft Defender,2023-05-29,327498,24.06
+Authentication Logs,Authentication,CrowdStrike,2023-07-16,454540,446.43
+Authentication Logs,Network Logs,Azure,2024-01-09,81507,222.6
+Endpoint Events,Endpoint Security,Elastic,2023-06-09,103937,121.07
+Email Gateway Logs,System Monitoring,Cisco,2023-12-16,24115,77.43
+Firewall Logs,Authentication,Elastic,2024-05-17,496155,361.3
+Firewall Logs,Email Security,Azure,2023-01-01,365485,70.35
+Web Proxy Logs,Network Logs,Microsoft Defender,2023-01-18,104083,129.8
+Endpoint Events,Network Logs,CrowdStrike,2024-07-28,91150,53.93
+Threat Intelligence Feeds,Vulnerability Management,AWS,2023-03-22,379765,441.27
+Threat Intelligence Feeds,Cloud Security,Nessus,2023-12-03,427944,476.07
+System Audit Logs,Email Security,Azure,2024-03-12,286286,427.41
+DNS Queries,Network Logs,Proofpoint,2024-02-13,189595,435.07
+Web Proxy Logs,Web Activity,Palo Alto,2024-11-20,49128,104.91
+Threat Intelligence Feeds,Web Activity,Microsoft Defender,2023-05-22,355278,184.5
+DNS Queries,Email Security,Google Cloud,2024-09-28,29731,313.48
+DNS Queries,Web Activity,Microsoft Defender,2024-02-24,55308,300.93
+Authentication Logs,System Monitoring,Microsoft Defender,2023-03-08,187867,424.88
+Firewall Logs,Network Logs,Azure,2023-11-15,399729,7.29
+DNS Queries,Endpoint Security,Microsoft Defender,2023-11-28,408145,480.91
+Web Proxy Logs,Network Logs,CrowdStrike,2023-12-26,125119,361.0
+Cloud Activity Reports,Authentication,Palo Alto,2023-11-15,361887,13.52
+Cloud Activity Reports,Cloud Security,Microsoft Defender,2023-10-05,290440,95.9
+System Audit Logs,Vulnerability Management,Cisco,2024-10-12,298258,212.2
+Web Proxy Logs,Vulnerability Management,Azure,2023-03-02,29723,265.89
+Cloud Activity Reports,Endpoint Security,Azure,2023-09-16,421846,142.33
+Endpoint Events,Authentication,Microsoft Defender,2024-10-31,41972,52.52
+Firewall Logs,Email Security,Elastic,2024-01-19,149074,484.69
+Authentication Logs,System Monitoring,Palo Alto,2024-01-30,488055,429.28
+Endpoint Events,Endpoint Security,Nessus,2023-07-31,370652,223.42
+Endpoint Events,Web Activity,Elastic,2024-07-11,413610,127.17
+Cloud Activity Reports,Web Activity,Azure,2023-08-02,268927,413.99
+Email Gateway Logs,Web Activity,CrowdStrike,2023-01-09,258487,381.55
+Web Proxy Logs,Authentication,Nessus,2023-09-11,112345,5.13
+Firewall Logs,Email Security,AWS,2024-11-01,313894,348.86
+Endpoint Events,Web Activity,Azure,2024-09-15,395803,302.69
+Authentication Logs,Authentication,Nessus,2023-03-07,405646,263.09
+Threat Intelligence Feeds,Authentication,Google Cloud,2023-06-16,163999,19.42
+System Audit Logs,Cloud Security,CrowdStrike,2023-03-27,345870,498.39
+Endpoint Events,Endpoint Security,Nessus,2023-03-15,39684,342.9
+Cloud Activity Reports,Web Activity,CrowdStrike,2023-06-09,140291,449.0
+Authentication Logs,Endpoint Security,Google Cloud,2023-01-12,419281,114.12
+Email Gateway Logs,Web Activity,Cisco,2024-03-16,207516,469.12
+Threat Intelligence Feeds,Vulnerability Management,Azure,2023-01-14,254329,137.63
+Cloud Activity Reports,Web Activity,Elastic,2024-10-07,95211,423.46
+Email Gateway Logs,System Monitoring,Google Cloud,2024-02-04,235421,59.06
+DNS Queries,Endpoint Security,Google Cloud,2024-03-03,81283,164.71
+Vulnerability Scan Results,Authentication,Microsoft Defender,2023-05-30,98214,63.78
+Cloud Activity Reports,Email Security,Palo Alto,2024-04-05,30542,448.52
+Email Gateway Logs,Email Security,AWS,2024-08-07,84587,168.25
+Threat Intelligence Feeds,Vulnerability Management,Palo Alto,2023-05-16,267383,152.18
+Cloud Activity Reports,Endpoint Security,CrowdStrike,2024-06-25,285341,216.2
+Authentication Logs,Cloud Security,Proofpoint,2023-03-13,490054,417.72
+Authentication Logs,Network Logs,Palo Alto,2023-10-20,307634,269.77
+Authentication Logs,Cloud Security,Google Cloud,2023-01-30,79834,218.81
+Email Gateway Logs,Network Logs,Elastic,2024-03-23,442213,202.42
+Authentication Logs,Network Logs,Azure,2024-08-19,282146,158.24
+Endpoint Events,Endpoint Security,AWS,2023-01-16,319245,307.57
+DNS Queries,Authentication,Google Cloud,2023-08-22,489629,204.53
+Authentication Logs,Web Activity,Cisco,2024-01-08,57778,75.08
+Web Proxy Logs,Web Activity,Azure,2024-08-29,249437,204.09
+Cloud Activity Reports,Network Logs,Proofpoint,2023-10-03,310687,16.15
+DNS Queries,Vulnerability Management,Microsoft Defender,2024-02-08,393037,25.74
+System Audit Logs,Endpoint Security,Google Cloud,2023-03-05,181205,468.39
+Endpoint Events,System Monitoring,AWS,2024-03-07,384518,381.4
+DNS Queries,System Monitoring,Cisco,2023-09-29,85296,230.85
+Firewall Logs,Web Activity,CrowdStrike,2023-04-27,394624,96.58
+System Audit Logs,Vulnerability Management,Palo Alto,2024-07-29,129168,298.45
+DNS Queries,Endpoint Security,AWS,2024-04-16,31329,143.87
+Endpoint Events,Endpoint Security,Nessus,2023-06-23,165696,130.46
+Web Proxy Logs,Web Activity,CrowdStrike,2023-06-30,430557,297.55
+DNS Queries,Authentication,Microsoft Defender,2023-11-14,51172,268.72
+Web Proxy Logs,Network Logs,Nessus,2023-01-31,25979,230.27
+Threat Intelligence Feeds,Web Activity,Cisco,2023-07-07,395016,185.78
+DNS Queries,Cloud Security,AWS,2023-08-13,151942,201.17
+DNS Queries,Network Logs,Nessus,2024-09-29,408368,369.68
+Vulnerability Scan Results,Vulnerability Management,Proofpoint,2024-08-11,85260,47.46
+Web Proxy Logs,Cloud Security,Google Cloud,2024-07-22,144370,290.74
+Cloud Activity Reports,Cloud Security,Google Cloud,2023-07-18,175353,275.71
+System Audit Logs,Vulnerability Management,Proofpoint,2023-11-14,495746,128.41
+Email Gateway Logs,Authentication,CrowdStrike,2023-09-07,457555,360.54
+Firewall Logs,Cloud Security,Microsoft Defender,2024-06-23,275555,185.66
+Vulnerability Scan Results,Network Logs,Palo Alto,2024-02-13,266336,496.81
+Cloud Activity Reports,Cloud Security,Proofpoint,2024-11-06,337712,462.36
+Threat Intelligence Feeds,Endpoint Security,Nessus,2024-11-28,46611,406.28
+Vulnerability Scan Results,Web Activity,Elastic,2024-11-10,306963,74.92
+DNS Queries,System Monitoring,Google Cloud,2024-07-19,173893,49.36
+System Audit Logs,Cloud Security,Palo Alto,2024-04-08,115495,16.3
+Threat Intelligence Feeds,Cloud Security,Nessus,2024-08-24,8555,119.21
+Email Gateway Logs,Cloud Security,Nessus,2023-12-04,211710,372.53
+Cloud Activity Reports,Cloud Security,Google Cloud,2023-10-27,331488,296.32
+Vulnerability Scan Results,System Monitoring,Azure,2023-06-21,468771,241.28
+System Audit Logs,System Monitoring,Azure,2024-08-01,156876,310.84
+Endpoint Events,Email Security,Proofpoint,2023-07-22,61248,308.1
+Email Gateway Logs,Authentication,Elastic,2024-03-29,245349,483.16
+Firewall Logs,Endpoint Security,Proofpoint,2024-10-05,59427,244.58
+System Audit Logs,Authentication,Elastic,2024-11-19,48760,365.34
+Threat Intelligence Feeds,Vulnerability Management,Google Cloud,2024-02-21,163929,69.96
+Cloud Activity Reports,Email Security,Azure,2024-06-11,435924,253.47
+Firewall Logs,Endpoint Security,Nessus,2023-08-27,137391,266.56
+Cloud Activity Reports,Vulnerability Management,CrowdStrike,2024-01-28,143687,315.68
+Firewall Logs,System Monitoring,Palo Alto,2024-08-07,207765,137.95
+Endpoint Events,Vulnerability Management,Elastic,2023-11-15,237588,127.96
+Web Proxy Logs,Authentication,Cisco,2023-06-24,73660,207.33
+Threat Intelligence Feeds,Endpoint Security,Nessus,2024-09-25,285995,273.76
+Cloud Activity Reports,Vulnerability Management,Nessus,2023-12-30,422326,478.83
+Endpoint Events,Cloud Security,Google Cloud,2023-11-22,397100,107.57
+Authentication Logs,Web Activity,Elastic,2023-02-17,95323,348.52
+Authentication Logs,Vulnerability Management,Microsoft Defender,2024-01-01,414366,263.09
+Authentication Logs,Endpoint Security,Google Cloud,2023-05-03,361658,40.23
+Email Gateway Logs,Endpoint Security,AWS,2023-08-10,108654,498.16
+Cloud Activity Reports,Email Security,Elastic,2023-01-18,336113,280.37
+Vulnerability Scan Results,Vulnerability Management,Elastic,2023-04-03,100736,458.4
+Authentication Logs,Endpoint Security,Nessus,2024-09-12,400369,338.61
+Endpoint Events,Network Logs,Azure,2024-10-16,295218,172.08
+Authentication Logs,System Monitoring,Palo Alto,2023-12-14,365154,325.34
+Web Proxy Logs,Cloud Security,Nessus,2023-08-30,74753,216.28
+Web Proxy Logs,Cloud Security,Microsoft Defender,2024-02-09,249388,158.44
+Firewall Logs,System Monitoring,AWS,2023-11-19,10494,493.71
+Cloud Activity Reports,Vulnerability Management,CrowdStrike,2024-11-03,48683,237.79
+Cloud Activity Reports,Authentication,Proofpoint,2023-02-28,97094,331.55
+Endpoint Events,Network Logs,Palo Alto,2024-04-23,49564,164.15
+Authentication Logs,Authentication,Google Cloud,2023-10-27,411504,452.27
+Firewall Logs,Cloud Security,Nessus,2023-10-28,412818,401.11
+DNS Queries,Cloud Security,Palo Alto,2024-02-21,173726,301.05
+DNS Queries,Web Activity,Elastic,2023-09-13,154235,177.52
+Endpoint Events,Web Activity,Microsoft Defender,2023-07-22,28304,481.76
+Vulnerability Scan Results,Email Security,Elastic,2024-09-11,334318,173.44
+Authentication Logs,Authentication,Palo Alto,2024-08-06,376969,63.63
+Email Gateway Logs,Cloud Security,Nessus,2023-06-22,58255,72.6
+Email Gateway Logs,Authentication,Microsoft Defender,2023-09-19,37244,418.06
+Threat Intelligence Feeds,System Monitoring,Elastic,2024-01-09,34157,447.33
+Web Proxy Logs,Email Security,Cisco,2023-04-21,468125,326.91
+Endpoint Events,Authentication,Elastic,2024-09-17,59046,141.21
+Cloud Activity Reports,System Monitoring,Google Cloud,2024-11-04,173030,295.85
+Firewall Logs,Authentication,Google Cloud,2024-08-18,419706,15.57
+DNS Queries,Vulnerability Management,CrowdStrike,2024-03-23,490809,21.98
+Endpoint Events,System Monitoring,CrowdStrike,2023-08-14,48365,123.8
+Authentication Logs,System Monitoring,CrowdStrike,2024-05-14,80853,195.28
+Endpoint Events,Web Activity,Google Cloud,2024-03-05,153404,174.33
+Email Gateway Logs,Cloud Security,Nessus,2023-07-29,321504,388.97
+Cloud Activity Reports,Email Security,Azure,2023-10-14,464255,86.05
+Firewall Logs,Vulnerability Management,AWS,2024-07-17,348326,31.21
+System Audit Logs,Vulnerability Management,Azure,2024-07-14,102318,113.68
+DNS Queries,Web Activity,Cisco,2024-07-04,218920,162.35
+Firewall Logs,Cloud Security,CrowdStrike,2024-05-23,100952,361.59
+Vulnerability Scan Results,Cloud Security,Azure,2023-05-05,401665,216.95
+Firewall Logs,Email Security,Google Cloud,2023-11-14,60920,286.82
+Email Gateway Logs,Authentication,Nessus,2023-09-08,293588,243.64
+System Audit Logs,Email Security,Proofpoint,2023-11-27,444762,267.98
+Email Gateway Logs,Email Security,Azure,2023-10-16,49728,477.12
+Email Gateway Logs,Endpoint Security,Microsoft Defender,2024-08-06,332227,245.43
+Threat Intelligence Feeds,Cloud Security,Cisco,2023-02-08,286508,172.95
+Authentication Logs,Vulnerability Management,Nessus,2023-08-28,360562,190.04
+Authentication Logs,Endpoint Security,CrowdStrike,2024-10-16,115669,82.17
+Threat Intelligence Feeds,Authentication,CrowdStrike,2024-06-11,458034,119.34
+Authentication Logs,Cloud Security,AWS,2024-10-28,416815,211.84
+Endpoint Events,Endpoint Security,Proofpoint,2023-02-19,243528,412.81
+Firewall Logs,Network Logs,Palo Alto,2024-10-17,337189,6.96
+Cloud Activity Reports,Network Logs,CrowdStrike,2024-05-22,388754,124.01
+Cloud Activity Reports,Authentication,Nessus,2024-08-27,466915,195.05
+DNS Queries,Web Activity,Nessus,2023-07-09,122361,137.59
+Authentication Logs,Cloud Security,Nessus,2023-05-18,196692,110.1
+Endpoint Events,Authentication,Cisco,2024-09-24,85569,84.9
+Authentication Logs,Endpoint Security,Elastic,2023-04-25,310444,466.9
+System Audit Logs,Email Security,Nessus,2023-09-09,319416,48.44
+Web Proxy Logs,Network Logs,Azure,2023-11-23,199638,201.32
+Firewall Logs,Endpoint Security,Nessus,2023-05-09,226884,241.1
+Authentication Logs,Authentication,Cisco,2023-01-23,103055,489.72
+Vulnerability Scan Results,System Monitoring,Proofpoint,2023-05-30,442513,250.45
+Email Gateway Logs,Endpoint Security,Proofpoint,2023-01-11,78682,110.68
+Vulnerability Scan Results,Endpoint Security,Cisco,2023-08-18,210479,118.98
+Firewall Logs,Network Logs,Nessus,2024-10-05,449425,100.15
+Vulnerability Scan Results,Endpoint Security,Palo Alto,2024-02-04,385033,431.47
+Threat Intelligence Feeds,Web Activity,Azure,2024-08-28,197881,497.91
+System Audit Logs,Email Security,Cisco,2024-10-26,409190,200.44
+Threat Intelligence Feeds,Endpoint Security,Azure,2024-06-18,197386,412.25
+DNS Queries,Cloud Security,Google Cloud,2024-07-13,479028,66.38
+Web Proxy Logs,Endpoint Security,AWS,2024-01-13,241298,116.77
+Endpoint Events,Web Activity,Google Cloud,2024-01-27,162562,67.77
+Firewall Logs,Endpoint Security,Microsoft Defender,2024-07-23,402934,91.93
+Threat Intelligence Feeds,Email Security,Microsoft Defender,2024-09-07,371819,486.03
+Firewall Logs,Cloud Security,Google Cloud,2024-08-18,326207,11.15
+Email Gateway Logs,System Monitoring,Proofpoint,2024-03-21,265615,17.77
+Firewall Logs,Network Logs,CrowdStrike,2024-02-05,263643,359.53
+Threat Intelligence Feeds,Endpoint Security,Nessus,2024-11-22,12443,53.7
+DNS Queries,Authentication,Elastic,2024-07-31,62538,125.1
+DNS Queries,Vulnerability Management,Nessus,2023-04-20,411847,373.84
+Web Proxy Logs,Cloud Security,Cisco,2024-03-03,375058,407.97
+Firewall Logs,Endpoint Security,Palo Alto,2023-11-19,331449,29.7
+Firewall Logs,Email Security,AWS,2024-08-25,21027,154.65
+Threat Intelligence Feeds,Vulnerability Management,Azure,2023-08-07,277364,173.48
+Endpoint Events,System Monitoring,Proofpoint,2024-08-09,339202,467.42
+Endpoint Events,System Monitoring,Cisco,2023-01-17,495490,235.47
+Cloud Activity Reports,Email Security,Google Cloud,2023-09-27,456416,78.41
+Vulnerability Scan Results,Authentication,Palo Alto,2024-09-30,306521,118.53
+Authentication Logs,Network Logs,Microsoft Defender,2024-11-02,30265,484.99
+Web Proxy Logs,Network Logs,AWS,2024-04-09,258300,227.18
+Vulnerability Scan Results,Email Security,Google Cloud,2024-10-02,425196,476.49
+Threat Intelligence Feeds,Email Security,AWS,2023-12-14,127192,227.34
+Threat Intelligence Feeds,Vulnerability Management,Elastic,2024-10-21,393084,399.66
+Cloud Activity Reports,System Monitoring,Cisco,2023-01-15,37315,415.13
+Authentication Logs,Email Security,Nessus,2023-07-15,295437,355.31
+Vulnerability Scan Results,Cloud Security,Microsoft Defender,2024-03-19,397547,203.61
+Email Gateway Logs,Endpoint Security,Google Cloud,2023-09-11,163051,292.9
+DNS Queries,Authentication,Nessus,2023-11-29,426567,343.89
+DNS Queries,Email Security,Proofpoint,2024-07-12,262780,230.13
+Cloud Activity Reports,Cloud Security,Google Cloud,2023-06-23,86457,259.7
+Cloud Activity Reports,System Monitoring,Nessus,2023-09-24,275525,40.34
+Firewall Logs,Vulnerability Management,Palo Alto,2024-07-08,244953,301.56
+Vulnerability Scan Results,System Monitoring,Elastic,2023-10-02,161135,453.02
+Vulnerability Scan Results,Cloud Security,CrowdStrike,2023-02-26,276383,274.41
+Cloud Activity Reports,Email Security,Proofpoint,2024-07-24,484292,2.04
+Endpoint Events,Endpoint Security,Azure,2023-03-24,343876,1.27
+Endpoint Events,Network Logs,Azure,2024-07-03,227041,189.83
+Vulnerability Scan Results,Endpoint Security,AWS,2023-02-02,325624,376.64
+Web Proxy Logs,Endpoint Security,Cisco,2023-07-20,368428,206.65
+Endpoint Events,Vulnerability Management,AWS,2024-07-09,275906,427.69
+Email Gateway Logs,Endpoint Security,Nessus,2024-11-21,409145,444.53
+DNS Queries,Endpoint Security,Elastic,2024-08-18,451127,384.97
+Web Proxy Logs,Email Security,Proofpoint,2024-05-06,226317,130.87
+DNS Queries,Endpoint Security,Nessus,2024-11-26,448232,474.07
+Email Gateway Logs,Cloud Security,Elastic,2023-12-05,118769,484.67
+System Audit Logs,Authentication,Elastic,2024-09-10,383867,133.23
+Endpoint Events,Network Logs,CrowdStrike,2023-02-04,106658,391.98
+Firewall Logs,Network Logs,Elastic,2024-12-01,161014,390.27
+Email Gateway Logs,Cloud Security,Elastic,2024-11-13,316080,238.88
+Authentication Logs,Web Activity,Nessus,2024-07-09,17424,186.41
+Web Proxy Logs,Web Activity,Palo Alto,2023-11-17,210692,243.71
+Firewall Logs,Network Logs,CrowdStrike,2024-01-25,28529,47.28
+System Audit Logs,Endpoint Security,Nessus,2024-01-06,231940,61.02
+DNS Queries,Email Security,AWS,2023-04-05,87524,315.59
+Web Proxy Logs,System Monitoring,Proofpoint,2023-06-12,56180,400.69
+Vulnerability Scan Results,Vulnerability Management,Palo Alto,2023-11-22,103390,132.93
+Web Proxy Logs,Vulnerability Management,Microsoft Defender,2024-05-15,236386,250.22
+Vulnerability Scan Results,Vulnerability Management,Proofpoint,2024-09-06,364993,414.37
+Email Gateway Logs,System Monitoring,Azure,2023-05-14,388328,261.63
+Email Gateway Logs,Email Security,CrowdStrike,2023-01-02,297491,226.0
+Authentication Logs,Authentication,Palo Alto,2024-05-12,323900,201.55
+Cloud Activity Reports,Cloud Security,Proofpoint,2024-07-14,214832,81.8
+Threat Intelligence Feeds,Cloud Security,Google Cloud,2023-08-18,7019,133.68
+System Audit Logs,System Monitoring,Microsoft Defender,2024-07-17,267794,222.66
+DNS Queries,Vulnerability Management,Cisco,2024-10-07,88443,293.9
+Authentication Logs,System Monitoring,CrowdStrike,2024-03-18,348503,204.95
+Firewall Logs,Web Activity,Microsoft Defender,2023-01-31,209656,219.17
+Firewall Logs,Network Logs,Cisco,2024-08-04,483488,115.02
+DNS Queries,System Monitoring,Elastic,2024-02-25,5631,253.94
+Firewall Logs,Vulnerability Management,Proofpoint,2024-04-09,61475,173.79
+System Audit Logs,Cloud Security,AWS,2023-11-04,482030,31.97
+Firewall Logs,Cloud Security,Proofpoint,2024-10-12,33602,22.55
+DNS Queries,Vulnerability Management,CrowdStrike,2024-11-01,449679,213.39
+System Audit Logs,Vulnerability Management,Google Cloud,2024-07-22,486656,126.44
+Email Gateway Logs,Network Logs,Cisco,2023-07-04,291394,55.47
+Firewall Logs,Authentication,Azure,2023-06-01,141869,14.78
+DNS Queries,Authentication,Microsoft Defender,2024-01-02,89168,293.44
+Threat Intelligence Feeds,Vulnerability Management,Nessus,2023-02-17,434340,232.48
+Vulnerability Scan Results,Endpoint Security,Azure,2024-06-20,191223,298.3
+Firewall Logs,Authentication,Microsoft Defender,2023-05-04,387287,426.72
+Vulnerability Scan Results,Email Security,AWS,2023-02-20,383974,307.58
+Threat Intelligence Feeds,Cloud Security,Cisco,2024-01-17,466014,397.63
+Web Proxy Logs,Email Security,Palo Alto,2024-11-09,212104,322.64
+Firewall Logs,Email Security,Microsoft Defender,2023-02-05,424532,258.68
+Web Proxy Logs,Web Activity,CrowdStrike,2024-10-06,128895,178.35
+Cloud Activity Reports,Cloud Security,Palo Alto,2023-03-06,158641,134.84
+Cloud Activity Reports,Email Security,AWS,2024-01-22,309866,101.55
+DNS Queries,Web Activity,Microsoft Defender,2023-03-06,201618,325.96
+Cloud Activity Reports,Network Logs,Microsoft Defender,2024-01-01,171187,58.96
+System Audit Logs,Endpoint Security,Google Cloud,2023-11-06,201911,446.23
+Authentication Logs,Authentication,Microsoft Defender,2024-09-23,57039,169.86
+DNS Queries,Authentication,CrowdStrike,2024-01-12,338142,409.83
+Cloud Activity Reports,Authentication,AWS,2023-01-20,471948,390.21
+Cloud Activity Reports,Email Security,Palo Alto,2024-06-05,75899,385.95
+Firewall Logs,Network Logs,Nessus,2023-10-19,363416,297.74
+Vulnerability Scan Results,System Monitoring,Proofpoint,2023-05-09,227805,262.69
+Email Gateway Logs,Endpoint Security,Google Cloud,2024-10-12,53139,366.79
+Web Proxy Logs,Web Activity,CrowdStrike,2023-06-04,166694,260.79
+DNS Queries,Authentication,CrowdStrike,2024-02-02,209121,182.38
+Cloud Activity Reports,Web Activity,Elastic,2024-04-02,86306,59.1
+System Audit Logs,Authentication,Microsoft Defender,2023-04-03,256442,236.88
+Vulnerability Scan Results,Endpoint Security,Proofpoint,2023-06-03,112653,226.49
+DNS Queries,Network Logs,CrowdStrike,2024-08-15,346352,354.19
+Endpoint Events,Email Security,Cisco,2024-01-06,159545,116.6
+Web Proxy Logs,Endpoint Security,CrowdStrike,2024-10-12,210191,462.6
+Firewall Logs,Network Logs,Nessus,2023-12-09,383883,456.3
+Vulnerability Scan Results,Email Security,Elastic,2023-10-24,138207,350.63
+Cloud Activity Reports,Endpoint Security,AWS,2024-09-10,17011,231.99
+Vulnerability Scan Results,Email Security,Proofpoint,2023-10-21,15497,454.38
+Web Proxy Logs,Endpoint Security,Nessus,2024-01-04,313856,236.15
+Authentication Logs,Email Security,Elastic,2024-07-16,85671,224.74
+Threat Intelligence Feeds,Network Logs,Elastic,2023-08-24,164728,450.1
+Email Gateway Logs,Email Security,CrowdStrike,2024-05-31,406288,9.29
+Authentication Logs,Vulnerability Management,Elastic,2023-05-28,352195,295.46
+Email Gateway Logs,Network Logs,AWS,2024-04-12,454214,275.76
+Web Proxy Logs,Vulnerability Management,Nessus,2023-09-12,496782,333.45
+Web Proxy Logs,Cloud Security,AWS,2023-03-16,381099,301.88
+System Audit Logs,Web Activity,AWS,2024-07-16,414922,292.37
+Firewall Logs,Endpoint Security,Google Cloud,2024-10-25,321524,249.63
+Cloud Activity Reports,Endpoint Security,Cisco,2023-10-14,464890,385.3
+Authentication Logs,Endpoint Security,Microsoft Defender,2024-12-01,356862,473.55
+Authentication Logs,Cloud Security,AWS,2023-09-18,25009,271.34
+DNS Queries,Cloud Security,Azure,2024-01-05,217767,4.29
+Vulnerability Scan Results,Authentication,CrowdStrike,2023-10-12,202493,458.43
+Threat Intelligence Feeds,Endpoint Security,AWS,2024-07-01,483675,399.07
+DNS Queries,Email Security,Microsoft Defender,2024-03-04,470621,229.24
+Firewall Logs,System Monitoring,Palo Alto,2024-03-04,358033,135.51
+System Audit Logs,Authentication,Google Cloud,2024-09-02,223620,86.65
+Vulnerability Scan Results,Network Logs,Nessus,2023-04-23,495412,244.32
+Firewall Logs,Endpoint Security,Azure,2023-03-25,31805,180.27
+Authentication Logs,Network Logs,Azure,2023-08-30,17913,451.29
+DNS Queries,Email Security,Cisco,2023-05-23,84039,414.36
+Cloud Activity Reports,Cloud Security,Azure,2023-10-22,463013,287.51
+DNS Queries,System Monitoring,Google Cloud,2023-08-27,210145,66.55
+Web Proxy Logs,System Monitoring,Cisco,2024-03-15,440979,241.15
+DNS Queries,Web Activity,Palo Alto,2023-03-13,382204,150.49
+System Audit Logs,Email Security,Elastic,2023-11-07,133375,481.73
+Authentication Logs,Vulnerability Management,Cisco,2024-02-12,145088,402.6
+Authentication Logs,Email Security,Google Cloud,2023-02-07,424497,397.98
+Endpoint Events,Web Activity,Microsoft Defender,2024-06-16,321497,139.13
+Firewall Logs,Vulnerability Management,Elastic,2024-02-13,381771,44.19
+Threat Intelligence Feeds,Network Logs,Elastic,2023-06-02,176481,200.0
+Authentication Logs,Email Security,Cisco,2024-01-17,26790,381.33
+Email Gateway Logs,Network Logs,CrowdStrike,2024-05-10,252831,258.39
+Vulnerability Scan Results,Network Logs,AWS,2023-08-13,314984,163.56
+Threat Intelligence Feeds,Email Security,Microsoft Defender,2024-09-08,456415,110.32
+Threat Intelligence Feeds,Email Security,Palo Alto,2023-12-10,265113,62.94
+DNS Queries,Web Activity,Proofpoint,2023-10-11,244716,317.24
+Vulnerability Scan Results,System Monitoring,Proofpoint,2023-11-28,321879,347.52
+DNS Queries,Network Logs,CrowdStrike,2023-05-07,38933,381.09
+System Audit Logs,Vulnerability Management,Azure,2024-03-19,485730,247.64
+Authentication Logs,Authentication,Elastic,2023-02-23,382694,48.82
+Authentication Logs,Authentication,Proofpoint,2023-09-29,25943,214.48
+Vulnerability Scan Results,Network Logs,CrowdStrike,2024-08-02,412735,203.44
+System Audit Logs,Endpoint Security,Elastic,2024-03-24,282178,277.14
+Cloud Activity Reports,Web Activity,AWS,2024-05-18,130314,114.54
+Threat Intelligence Feeds,Vulnerability Management,Microsoft Defender,2023-05-24,498660,307.26
+Authentication Logs,Endpoint Security,Microsoft Defender,2023-01-18,466159,409.93
+Endpoint Events,Network Logs,Palo Alto,2023-06-15,399816,77.13
+Email Gateway Logs,Authentication,AWS,2023-03-30,75514,448.59
+Threat Intelligence Feeds,Vulnerability Management,Azure,2024-07-07,452435,99.36
+System Audit Logs,System Monitoring,Microsoft Defender,2024-10-01,137825,427.86
+Vulnerability Scan Results,Network Logs,Proofpoint,2023-05-03,169450,22.39
+Firewall Logs,Endpoint Security,Cisco,2023-11-04,29128,439.05
+DNS Queries,System Monitoring,CrowdStrike,2024-03-25,438641,249.51
+Endpoint Events,Endpoint Security,Palo Alto,2023-01-08,7097,10.27
+Firewall Logs,Endpoint Security,Google Cloud,2023-01-26,260081,225.73
+Firewall Logs,Email Security,Elastic,2024-01-09,327886,73.06
+Email Gateway Logs,Email Security,Google Cloud,2024-01-14,245455,459.81
+System Audit Logs,Endpoint Security,Azure,2024-10-23,90813,457.15
+Firewall Logs,System Monitoring,Nessus,2024-07-03,269124,58.65
+DNS Queries,Email Security,Microsoft Defender,2024-08-05,498064,163.21
+Firewall Logs,Authentication,Palo Alto,2023-02-27,399373,421.63
+Cloud Activity Reports,Web Activity,Cisco,2024-02-04,300100,153.77
+System Audit Logs,Web Activity,Azure,2023-12-16,307994,334.18
+Email Gateway Logs,Authentication,Google Cloud,2023-12-07,339700,435.31
+Authentication Logs,Authentication,Microsoft Defender,2024-11-18,469097,261.26
+DNS Queries,Web Activity,Microsoft Defender,2023-05-23,53873,202.5
+Firewall Logs,Vulnerability Management,Microsoft Defender,2024-11-10,155738,448.15
+Authentication Logs,Network Logs,Elastic,2023-10-14,403590,259.98
+Cloud Activity Reports,Email Security,Azure,2023-07-18,231483,359.74
+Cloud Activity Reports,Email Security,Proofpoint,2023-04-23,204653,382.51
+Email Gateway Logs,Cloud Security,Proofpoint,2023-12-29,118690,36.53
+Web Proxy Logs,Vulnerability Management,Google Cloud,2023-12-30,290989,358.2
+Email Gateway Logs,Email Security,Elastic,2023-08-31,366535,177.52
+Email Gateway Logs,System Monitoring,Google Cloud,2023-12-01,461700,260.46
+Email Gateway Logs,Cloud Security,Microsoft Defender,2024-01-07,85968,259.08
+Vulnerability Scan Results,Endpoint Security,Google Cloud,2023-11-28,146027,386.04
+Email Gateway Logs,Vulnerability Management,Microsoft Defender,2023-10-04,138729,431.35
+Cloud Activity Reports,Network Logs,Microsoft Defender,2023-06-25,426569,250.75
+Firewall Logs,Web Activity,Microsoft Defender,2023-11-20,40327,495.63
+Firewall Logs,Cloud Security,Palo Alto,2023-08-21,25182,387.63
+Threat Intelligence Feeds,System Monitoring,Palo Alto,2023-10-10,82699,179.83
+Endpoint Events,Vulnerability Management,Palo Alto,2024-01-21,184383,60.43
+Authentication Logs,Authentication,Google Cloud,2023-04-09,6810,35.12
+Vulnerability Scan Results,Email Security,Cisco,2023-09-05,493865,173.23
+Vulnerability Scan Results,Web Activity,Proofpoint,2024-07-09,472899,370.09
+Email Gateway Logs,Endpoint Security,Microsoft Defender,2024-02-25,144832,269.86
+Cloud Activity Reports,Web Activity,Elastic,2024-07-14,27827,496.75
+Email Gateway Logs,Network Logs,Elastic,2023-12-23,353913,194.12
+DNS Queries,Vulnerability Management,AWS,2023-02-28,277892,206.36
+Firewall Logs,System Monitoring,Azure,2024-10-20,449611,237.72
+Email Gateway Logs,Cloud Security,Palo Alto,2023-03-31,444335,151.78
+Threat Intelligence Feeds,System Monitoring,AWS,2024-01-20,80035,223.63
+Firewall Logs,Network Logs,AWS,2023-08-14,454845,72.23
+Web Proxy Logs,Endpoint Security,Nessus,2023-07-16,93311,158.97
+Web Proxy Logs,Web Activity,Palo Alto,2023-01-09,478693,321.94
+Email Gateway Logs,Network Logs,Microsoft Defender,2023-12-20,40882,173.64
+System Audit Logs,Email Security,Proofpoint,2024-02-12,447352,262.1
+Email Gateway Logs,System Monitoring,Microsoft Defender,2024-10-13,414323,221.76
+Endpoint Events,System Monitoring,Microsoft Defender,2023-10-24,327472,299.56
+System Audit Logs,Vulnerability Management,AWS,2023-04-02,51473,289.6
+Email Gateway Logs,System Monitoring,AWS,2023-05-07,31548,51.84
+Cloud Activity Reports,System Monitoring,Nessus,2024-05-16,332940,403.08
+Email Gateway Logs,System Monitoring,Nessus,2024-03-01,438795,310.43
+System Audit Logs,Cloud Security,Microsoft Defender,2024-09-25,359387,482.11
+Web Proxy Logs,Endpoint Security,AWS,2024-01-26,125145,113.7
+Email Gateway Logs,Email Security,AWS,2024-06-13,226641,394.48
+Web Proxy Logs,Web Activity,Google Cloud,2023-05-12,313443,174.77
+Cloud Activity Reports,System Monitoring,Cisco,2024-04-21,349194,116.86
+System Audit Logs,Vulnerability Management,CrowdStrike,2024-07-25,460430,269.44
+Vulnerability Scan Results,Endpoint Security,Azure,2024-11-10,320805,223.66
+DNS Queries,System Monitoring,CrowdStrike,2023-05-10,487372,465.31
+Vulnerability Scan Results,Network Logs,Palo Alto,2024-06-20,173845,356.41
+Endpoint Events,Email Security,Google Cloud,2023-12-16,347129,444.06
+System Audit Logs,Network Logs,AWS,2024-03-12,470872,333.45
+Email Gateway Logs,System Monitoring,CrowdStrike,2023-07-29,301903,439.94
+Email Gateway Logs,Cloud Security,CrowdStrike,2023-11-15,58645,240.07
+Authentication Logs,Web Activity,AWS,2023-07-01,141460,54.22
+Cloud Activity Reports,Email Security,Nessus,2024-05-08,200169,373.65
+Authentication Logs,Email Security,Azure,2023-11-23,292381,177.9
+System Audit Logs,Authentication,AWS,2024-10-13,153553,359.15
+Endpoint Events,Vulnerability Management,Nessus,2024-03-30,243919,327.87
+System Audit Logs,Network Logs,Nessus,2024-10-18,285525,126.8
+Firewall Logs,Authentication,Cisco,2023-08-23,198340,445.82
+Vulnerability Scan Results,System Monitoring,Palo Alto,2023-09-21,137451,267.49
+Firewall Logs,Network Logs,Microsoft Defender,2023-12-05,456149,170.12
+Email Gateway Logs,Endpoint Security,Cisco,2024-03-30,331333,111.14
+Cloud Activity Reports,Endpoint Security,Palo Alto,2024-05-20,129830,482.9
+Firewall Logs,Web Activity,Nessus,2023-05-16,228895,185.65
+Firewall Logs,Network Logs,AWS,2023-02-21,194333,126.52
+Endpoint Events,Network Logs,Cisco,2023-09-24,311601,417.97
+Web Proxy Logs,Email Security,Cisco,2023-12-15,118408,105.9
+Email Gateway Logs,Endpoint Security,Cisco,2024-07-13,427551,286.41
+Email Gateway Logs,Authentication,Palo Alto,2023-10-12,158269,212.09
+Vulnerability Scan Results,Network Logs,CrowdStrike,2024-01-30,277170,393.06
+Authentication Logs,Vulnerability Management,AWS,2023-07-26,287121,178.38
+Cloud Activity Reports,Email Security,Google Cloud,2023-08-23,41823,204.91
+Threat Intelligence Feeds,Email Security,Azure,2023-09-15,158025,27.04
+System Audit Logs,Email Security,Cisco,2023-03-02,290130,376.7
+Cloud Activity Reports,Cloud Security,Azure,2023-12-02,336105,334.41
+Email Gateway Logs,Cloud Security,Palo Alto,2024-01-30,184332,431.95
+Firewall Logs,Web Activity,Google Cloud,2023-08-06,179421,469.86
+Cloud Activity Reports,Network Logs,Nessus,2023-08-20,64803,191.23
+Email Gateway Logs,Web Activity,Nessus,2023-12-16,189172,483.66
+Firewall Logs,Network Logs,Cisco,2024-10-03,365338,297.11
+Authentication Logs,Cloud Security,Azure,2023-02-08,186474,276.81
+Cloud Activity Reports,Web Activity,Azure,2024-10-14,405819,167.87
+Endpoint Events,Authentication,Elastic,2023-06-27,366080,135.19
+Authentication Logs,Email Security,CrowdStrike,2023-09-09,350989,65.49
+DNS Queries,Email Security,Proofpoint,2024-10-14,160821,336.51
+Web Proxy Logs,Cloud Security,Cisco,2024-02-03,473770,374.2
+Email Gateway Logs,Authentication,Microsoft Defender,2023-04-30,155671,489.07
+Email Gateway Logs,System Monitoring,Google Cloud,2024-09-13,292801,461.13
+System Audit Logs,Endpoint Security,Proofpoint,2024-02-20,117338,355.23
+Firewall Logs,Email Security,Google Cloud,2024-01-17,12425,248.94
+DNS Queries,Vulnerability Management,Google Cloud,2023-03-13,420781,136.14
+Vulnerability Scan Results,Vulnerability Management,Nessus,2023-05-16,20490,261.66
+Firewall Logs,Authentication,Google Cloud,2023-10-06,172171,23.45
+Cloud Activity Reports,Authentication,AWS,2023-04-20,437237,41.05
+Endpoint Events,Endpoint Security,AWS,2023-11-12,240963,431.44
+Cloud Activity Reports,Cloud Security,Elastic,2024-02-14,251872,191.7
+Cloud Activity Reports,Email Security,Cisco,2023-10-18,295898,456.77
+System Audit Logs,Cloud Security,Proofpoint,2024-09-17,277502,2.46
+Firewall Logs,System Monitoring,Palo Alto,2024-02-10,51018,419.12
+Vulnerability Scan Results,System Monitoring,CrowdStrike,2024-05-02,117188,76.15
+Threat Intelligence Feeds,Cloud Security,Elastic,2023-03-12,444337,201.09
+Cloud Activity Reports,Vulnerability Management,Google Cloud,2023-09-25,481724,439.58
+Threat Intelligence Feeds,Web Activity,Cisco,2023-11-29,285721,332.38
+System Audit Logs,Web Activity,Palo Alto,2024-09-08,152046,461.39
+Web Proxy Logs,Web Activity,Google Cloud,2024-02-09,80231,393.61
+System Audit Logs,Web Activity,Proofpoint,2024-02-12,303361,147.41
+Endpoint Events,Authentication,Cisco,2023-06-29,373942,383.92
+Firewall Logs,Authentication,AWS,2023-09-18,343544,348.85
+Threat Intelligence Feeds,Email Security,CrowdStrike,2024-05-05,290477,47.36
+DNS Queries,Vulnerability Management,CrowdStrike,2024-10-16,379658,4.44
+Authentication Logs,Network Logs,Proofpoint,2023-07-21,238595,18.22
+DNS Queries,Endpoint Security,Google Cloud,2023-05-01,272464,402.31
+Vulnerability Scan Results,Web Activity,Palo Alto,2024-02-04,460353,234.61
+System Audit Logs,System Monitoring,Nessus,2023-08-28,416432,69.73
+Cloud Activity Reports,Authentication,Cisco,2023-02-25,45809,262.22
+Authentication Logs,Web Activity,Cisco,2023-03-29,30307,194.75
+DNS Queries,Authentication,CrowdStrike,2023-06-16,494767,218.97
+Web Proxy Logs,Web Activity,Azure,2023-08-09,487474,322.03
+Authentication Logs,Endpoint Security,CrowdStrike,2023-04-17,224025,405.91
+Endpoint Events,Cloud Security,AWS,2024-09-21,368317,180.47
+System Audit Logs,Endpoint Security,Microsoft Defender,2023-07-25,272800,124.94
+Firewall Logs,Cloud Security,Elastic,2024-03-22,225224,349.83
+Firewall Logs,Authentication,Google Cloud,2024-02-20,352634,411.14
+Endpoint Events,Email Security,Palo Alto,2023-01-23,26731,436.98
+Vulnerability Scan Results,Email Security,Microsoft Defender,2024-05-15,212932,118.1
+Cloud Activity Reports,Endpoint Security,Microsoft Defender,2024-08-11,458306,132.67
+DNS Queries,Web Activity,Elastic,2024-06-26,184436,414.36
+Vulnerability Scan Results,Web Activity,Microsoft Defender,2024-05-31,267628,170.47
+Authentication Logs,Cloud Security,Google Cloud,2024-11-10,301435,203.43
+System Audit Logs,Network Logs,AWS,2023-06-18,298699,424.27
+Email Gateway Logs,Email Security,CrowdStrike,2024-06-05,332771,100.65
+DNS Queries,Vulnerability Management,Palo Alto,2023-02-09,31200,430.31
+Endpoint Events,Web Activity,CrowdStrike,2024-05-18,366124,464.8
+Authentication Logs,Vulnerability Management,Proofpoint,2024-02-01,330939,491.1
+Threat Intelligence Feeds,Email Security,Cisco,2024-03-19,20812,191.97
+Threat Intelligence Feeds,Email Security,Microsoft Defender,2024-04-04,463775,430.32
+Endpoint Events,System Monitoring,AWS,2023-11-29,433030,403.74
+Threat Intelligence Feeds,System Monitoring,AWS,2023-08-20,43436,465.76
+System Audit Logs,Authentication,Elastic,2023-03-02,239147,28.99
+Threat Intelligence Feeds,Web Activity,Microsoft Defender,2024-02-07,484108,58.56
+Firewall Logs,Endpoint Security,CrowdStrike,2023-09-28,463866,400.85
+Firewall Logs,Vulnerability Management,CrowdStrike,2024-07-03,281039,5.27
+Authentication Logs,Cloud Security,CrowdStrike,2023-02-28,496630,464.69
+System Audit Logs,Endpoint Security,Cisco,2023-11-03,269751,191.57
+Authentication Logs,Web Activity,Palo Alto,2023-09-17,150250,379.15
+Authentication Logs,Authentication,Microsoft Defender,2023-05-25,371359,291.17
+Authentication Logs,Network Logs,Elastic,2024-08-02,101242,20.95
+Firewall Logs,Email Security,Microsoft Defender,2024-01-22,104531,452.53
+Threat Intelligence Feeds,Authentication,Microsoft Defender,2024-07-13,138699,188.76
+Firewall Logs,System Monitoring,Proofpoint,2023-03-01,297913,289.34
+Endpoint Events,System Monitoring,Microsoft Defender,2023-10-23,407572,421.78
+Firewall Logs,Web Activity,Cisco,2023-09-19,55805,431.69
+System Audit Logs,Authentication,Proofpoint,2024-03-22,227192,357.54
+Endpoint Events,Email Security,Google Cloud,2023-09-02,484597,295.82
+Threat Intelligence Feeds,Email Security,Proofpoint,2023-09-15,83573,431.04
+Firewall Logs,Web Activity,Azure,2024-07-30,377243,164.81
+Cloud Activity Reports,Cloud Security,AWS,2023-03-21,65245,255.48
+DNS Queries,Vulnerability Management,AWS,2023-10-28,153307,144.4
+DNS Queries,Email Security,CrowdStrike,2024-06-11,169756,17.73
+Web Proxy Logs,Web Activity,Cisco,2024-05-29,449185,394.88
+Cloud Activity Reports,Cloud Security,Azure,2023-03-13,493132,212.53
+DNS Queries,Network Logs,Nessus,2023-07-08,108669,100.63
+Firewall Logs,Network Logs,Elastic,2023-12-02,257466,269.24
+Firewall Logs,Endpoint Security,Nessus,2023-08-19,279134,74.3
+Threat Intelligence Feeds,System Monitoring,Nessus,2024-07-17,160595,257.09
+System Audit Logs,Web Activity,Microsoft Defender,2024-10-14,329687,63.16
+Firewall Logs,Vulnerability Management,Microsoft Defender,2024-07-04,256410,56.48
+Threat Intelligence Feeds,Web Activity,Azure,2023-04-20,81664,396.79
+Cloud Activity Reports,System Monitoring,Azure,2024-07-27,115773,438.04
+Threat Intelligence Feeds,Email Security,AWS,2024-11-20,90968,447.67
+Endpoint Events,Email Security,CrowdStrike,2023-07-27,48194,59.22
+Email Gateway Logs,Cloud Security,Cisco,2023-12-20,331397,380.11
+DNS Queries,Network Logs,Microsoft Defender,2024-01-21,249714,322.71
+System Audit Logs,System Monitoring,Cisco,2024-06-10,493786,474.02
+DNS Queries,Web Activity,Palo Alto,2023-09-15,71964,472.31
+Authentication Logs,System Monitoring,Azure,2023-05-10,392206,417.61
+Endpoint Events,Vulnerability Management,Proofpoint,2024-09-07,206528,113.08
+Web Proxy Logs,Endpoint Security,Nessus,2023-10-03,364354,422.33
+Vulnerability Scan Results,Cloud Security,Nessus,2023-07-08,421170,30.37
+Endpoint Events,Web Activity,Azure,2024-09-04,251303,290.57
+Authentication Logs,Endpoint Security,Palo Alto,2023-03-08,178961,263.58
+Email Gateway Logs,Web Activity,Nessus,2023-01-16,287194,68.95
+Web Proxy Logs,System Monitoring,AWS,2024-08-12,264919,256.3
+Vulnerability Scan Results,Network Logs,Nessus,2024-05-18,269277,463.27
+Authentication Logs,Email Security,AWS,2024-02-02,43967,69.52
+Authentication Logs,System Monitoring,CrowdStrike,2024-05-12,251854,220.86
+Authentication Logs,Web Activity,AWS,2023-07-05,344515,321.07
+Cloud Activity Reports,Web Activity,Microsoft Defender,2024-04-22,31462,131.47
+Authentication Logs,Endpoint Security,AWS,2023-01-11,396622,194.98
+Authentication Logs,Authentication,Nessus,2024-07-23,460285,380.99
+Firewall Logs,Email Security,Azure,2024-08-22,484116,463.28
+Cloud Activity Reports,Endpoint Security,AWS,2024-11-25,38396,236.77
+Email Gateway Logs,Endpoint Security,CrowdStrike,2023-04-17,306163,186.8
+Email Gateway Logs,Vulnerability Management,Azure,2024-05-06,498702,335.02
+Firewall Logs,Authentication,Nessus,2023-09-13,385955,194.27
+Cloud Activity Reports,Vulnerability Management,Nessus,2023-12-15,355402,66.14
+DNS Queries,Web Activity,Azure,2024-10-14,306195,474.64
+Authentication Logs,Cloud Security,Cisco,2023-05-15,133277,68.48
+Web Proxy Logs,Cloud Security,AWS,2023-08-18,83375,17.98
+Authentication Logs,Web Activity,Google Cloud,2024-07-29,19359,440.57
+Threat Intelligence Feeds,Network Logs,Microsoft Defender,2023-04-28,208518,17.82
+Cloud Activity Reports,Vulnerability Management,Microsoft Defender,2024-09-08,131967,310.86
+Cloud Activity Reports,Endpoint Security,Proofpoint,2024-02-04,192924,11.61
+Vulnerability Scan Results,Web Activity,CrowdStrike,2024-09-22,106523,67.33
+Endpoint Events,Endpoint Security,AWS,2023-07-24,147113,310.69
+Authentication Logs,Network Logs,CrowdStrike,2024-03-26,183423,368.19
+Email Gateway Logs,Vulnerability Management,Palo Alto,2024-06-02,90652,293.32
+Authentication Logs,Vulnerability Management,Elastic,2024-09-26,172750,432.24
+Vulnerability Scan Results,Vulnerability Management,Elastic,2023-11-26,188147,312.3
+Endpoint Events,Endpoint Security,Cisco,2023-02-09,102475,433.6
+Cloud Activity Reports,Endpoint Security,Palo Alto,2024-11-10,22326,403.81
+Firewall Logs,System Monitoring,Nessus,2023-11-04,239561,315.45
+Firewall Logs,Web Activity,AWS,2024-09-09,85881,366.85
+Email Gateway Logs,Endpoint Security,Nessus,2024-10-17,23321,411.7
+Firewall Logs,System Monitoring,Cisco,2023-04-13,346826,435.4
+Cloud Activity Reports,System Monitoring,Microsoft Defender,2024-06-16,39525,442.97
+Web Proxy Logs,Endpoint Security,Elastic,2024-07-04,151255,476.13
+Endpoint Events,Cloud Security,Cisco,2023-12-10,346267,3.43
+Endpoint Events,Authentication,Proofpoint,2023-02-11,200396,358.07
+Vulnerability Scan Results,Authentication,Elastic,2023-09-25,262544,328.53
+Threat Intelligence Feeds,Network Logs,Microsoft Defender,2024-02-12,29258,184.89
+System Audit Logs,Web Activity,CrowdStrike,2023-06-09,278674,152.55
+DNS Queries,Network Logs,Elastic,2024-08-24,360436,210.09
+Web Proxy Logs,Endpoint Security,Google Cloud,2024-07-07,428814,325.93
+Endpoint Events,System Monitoring,Cisco,2023-11-22,170399,49.27
+Authentication Logs,Web Activity,Proofpoint,2023-09-06,132475,318.97
+Vulnerability Scan Results,Cloud Security,Azure,2024-05-11,125202,279.79
+Threat Intelligence Feeds,Vulnerability Management,AWS,2024-01-22,382181,361.32
+Cloud Activity Reports,Authentication,Azure,2024-07-03,375852,124.62
+DNS Queries,System Monitoring,Microsoft Defender,2024-05-15,68238,363.67
+System Audit Logs,Vulnerability Management,Palo Alto,2024-09-18,63056,444.55
+Firewall Logs,Network Logs,Nessus,2023-02-07,296311,3.77
+Threat Intelligence Feeds,Endpoint Security,Proofpoint,2023-03-12,83601,282.54
+System Audit Logs,Network Logs,Nessus,2023-08-30,442738,102.9
+Firewall Logs,Vulnerability Management,Elastic,2023-04-01,347233,54.95
+Web Proxy Logs,Endpoint Security,AWS,2023-02-23,31203,115.74
+Authentication Logs,Network Logs,Nessus,2024-11-28,126232,237.42
+Threat Intelligence Feeds,Cloud Security,Cisco,2023-04-14,331149,172.9
+Authentication Logs,Web Activity,Elastic,2024-06-11,295198,440.27
+Web Proxy Logs,Cloud Security,Google Cloud,2024-02-29,141016,279.8
+DNS Queries,Web Activity,Azure,2024-11-24,181601,413.66
+Web Proxy Logs,Vulnerability Management,Cisco,2024-02-22,16383,481.06
+Web Proxy Logs,Cloud Security,AWS,2024-10-05,353249,52.02
+System Audit Logs,Network Logs,Palo Alto,2023-03-06,389081,160.33
+Threat Intelligence Feeds,Email Security,Cisco,2024-10-11,369251,305.46
+Vulnerability Scan Results,Web Activity,Azure,2024-05-12,58767,471.13
+Email Gateway Logs,Network Logs,Cisco,2023-04-03,282460,124.06
+Authentication Logs,Vulnerability Management,CrowdStrike,2023-09-11,83701,302.99
+Vulnerability Scan Results,Authentication,Google Cloud,2023-02-06,488618,148.34
+System Audit Logs,System Monitoring,Google Cloud,2024-09-24,43792,371.23
+DNS Queries,Web Activity,Google Cloud,2023-01-25,432921,137.29
+Vulnerability Scan Results,Vulnerability Management,CrowdStrike,2024-06-22,426114,317.46
+Email Gateway Logs,Email Security,Google Cloud,2024-03-16,272620,83.05
+System Audit Logs,Endpoint Security,Cisco,2024-08-14,150747,171.5
+Vulnerability Scan Results,Endpoint Security,Palo Alto,2023-11-05,365427,341.6
+Endpoint Events,Vulnerability Management,CrowdStrike,2024-02-09,223528,161.93
+Email Gateway Logs,Web Activity,Nessus,2024-05-18,317087,53.15
+Authentication Logs,Authentication,Nessus,2024-08-09,143293,320.11
+Web Proxy Logs,System Monitoring,Cisco,2024-05-28,144682,189.48
+Threat Intelligence Feeds,Email Security,Elastic,2024-10-14,165307,3.43
+Cloud Activity Reports,Network Logs,AWS,2023-11-19,457621,412.23
+Web Proxy Logs,Web Activity,Nessus,2024-05-08,370164,234.42
+Authentication Logs,Endpoint Security,Proofpoint,2023-06-30,254307,471.72
+DNS Queries,Vulnerability Management,CrowdStrike,2023-12-16,397171,112.52
+Threat Intelligence Feeds,Vulnerability Management,CrowdStrike,2023-02-20,156262,86.87
+Authentication Logs,Email Security,Nessus,2023-03-10,42004,362.36
+Firewall Logs,Endpoint Security,Microsoft Defender,2024-03-29,328143,168.94
+Threat Intelligence Feeds,Email Security,Cisco,2023-07-20,256257,219.53
+Vulnerability Scan Results,Email Security,CrowdStrike,2023-05-02,255362,42.46
+Threat Intelligence Feeds,Web Activity,Nessus,2024-05-31,151603,328.1
+Authentication Logs,System Monitoring,Microsoft Defender,2023-05-08,423230,388.64
+Vulnerability Scan Results,Endpoint Security,Google Cloud,2023-08-12,307448,30.26
+DNS Queries,Vulnerability Management,Palo Alto,2023-01-01,231954,5.5
+Cloud Activity Reports,Cloud Security,Microsoft Defender,2024-07-15,395711,98.49
+DNS Queries,Network Logs,Nessus,2024-01-29,331778,107.78
+Web Proxy Logs,Vulnerability Management,Palo Alto,2024-08-18,65661,34.71
+Email Gateway Logs,System Monitoring,Google Cloud,2024-02-24,33939,310.48
+Authentication Logs,Authentication,Microsoft Defender,2023-09-25,251776,216.46
+Web Proxy Logs,Cloud Security,CrowdStrike,2023-07-02,339637,62.64
+Vulnerability Scan Results,System Monitoring,Microsoft Defender,2023-02-28,431121,488.86
+Web Proxy Logs,Endpoint Security,AWS,2023-02-19,343539,387.12
+Authentication Logs,Authentication,CrowdStrike,2023-03-29,155105,314.07
+Firewall Logs,Endpoint Security,Azure,2024-10-03,439535,378.46
+Threat Intelligence Feeds,Email Security,Azure,2024-09-20,73004,344.76
+Firewall Logs,Authentication,Azure,2024-05-15,327800,211.1
+Endpoint Events,Vulnerability Management,AWS,2024-03-09,258948,432.97
+Web Proxy Logs,Endpoint Security,CrowdStrike,2023-03-01,280508,409.17
+Vulnerability Scan Results,Vulnerability Management,Azure,2023-08-27,332466,397.17
+System Audit Logs,System Monitoring,Google Cloud,2024-08-31,291034,353.32
+Authentication Logs,Endpoint Security,Proofpoint,2023-09-17,357431,123.99
+Endpoint Events,Cloud Security,Azure,2023-11-24,382816,430.2
+DNS Queries,System Monitoring,Azure,2023-07-15,24300,91.09
+Web Proxy Logs,Vulnerability Management,Microsoft Defender,2024-03-02,81744,16.78
+Vulnerability Scan Results,Vulnerability Management,Google Cloud,2024-05-11,370815,22.16
+Threat Intelligence Feeds,Authentication,Elastic,2023-01-15,58487,413.8
+Endpoint Events,Network Logs,Cisco,2023-10-11,417440,170.62
+System Audit Logs,System Monitoring,Nessus,2023-10-14,376768,161.0
+Authentication Logs,Endpoint Security,Palo Alto,2023-11-23,286665,74.74
+DNS Queries,Email Security,Palo Alto,2023-01-19,43096,304.88
+Authentication Logs,Email Security,Cisco,2023-10-26,319903,221.98
+DNS Queries,Cloud Security,CrowdStrike,2024-01-15,310449,343.82
+Firewall Logs,Authentication,Elastic,2024-03-31,224120,12.71
+Threat Intelligence Feeds,Email Security,Google Cloud,2023-12-20,342360,270.87
+Email Gateway Logs,Endpoint Security,Cisco,2023-07-22,185458,469.46
+Email Gateway Logs,Web Activity,Cisco,2024-11-16,138593,250.98
+System Audit Logs,Email Security,Elastic,2023-03-10,249781,43.93
+Authentication Logs,Vulnerability Management,Palo Alto,2023-06-13,217584,99.47
+System Audit Logs,Endpoint Security,Azure,2023-02-01,163246,364.78
+Firewall Logs,System Monitoring,AWS,2024-04-10,358493,37.56
+Web Proxy Logs,Web Activity,Proofpoint,2023-10-05,344078,191.59
+DNS Queries,Authentication,Cisco,2023-12-09,26683,158.75
+Cloud Activity Reports,Web Activity,Cisco,2024-02-20,102085,392.22
+Threat Intelligence Feeds,Cloud Security,CrowdStrike,2024-09-11,220416,419.17
+Authentication Logs,Network Logs,Azure,2023-04-30,452664,437.67
+Firewall Logs,System Monitoring,Azure,2024-06-15,118966,302.5
+DNS Queries,Vulnerability Management,Azure,2024-04-19,166097,130.98
+Web Proxy Logs,Web Activity,Microsoft Defender,2023-12-12,272342,413.92
+Authentication Logs,Web Activity,Cisco,2024-07-06,322765,15.29
+Vulnerability Scan Results,System Monitoring,Elastic,2023-10-10,89323,389.77
+Authentication Logs,Authentication,Elastic,2023-05-31,267064,91.66
+Authentication Logs,System Monitoring,Palo Alto,2024-06-02,390443,423.93
+Threat Intelligence Feeds,Web Activity,CrowdStrike,2024-10-04,465590,77.56
+Web Proxy Logs,Authentication,Azure,2023-05-31,430698,416.7
+DNS Queries,Authentication,Proofpoint,2023-08-07,346048,32.76
+Web Proxy Logs,Email Security,Microsoft Defender,2023-10-28,98168,106.17
+Authentication Logs,Endpoint Security,AWS,2023-10-04,472925,150.2
+DNS Queries,Email Security,Elastic,2023-01-15,496177,487.8
+DNS Queries,Authentication,AWS,2023-02-17,300018,340.37
+DNS Queries,Endpoint Security,Azure,2024-08-24,201009,241.02
+Firewall Logs,Cloud Security,CrowdStrike,2023-12-08,370500,488.98
+Web Proxy Logs,Web Activity,AWS,2024-02-06,70981,258.1
+Firewall Logs,Vulnerability Management,Elastic,2024-03-27,475320,177.84
+System Audit Logs,Authentication,CrowdStrike,2024-08-21,314537,440.21
+DNS Queries,Authentication,Nessus,2023-10-27,229975,122.1
